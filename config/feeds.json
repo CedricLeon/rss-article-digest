@@ -7,6 +7,14 @@
     {
       "name": "arXiv - Machine Learning",
       "url": "https://rss.arxiv.org/rss/cs.LG"
+    },
+    {
+      "name": "Blog of Department of Remote Sensing, University of Wurzburg",
+      "url": "https://remote-sensing.org/feed/"
+    },
+    {
+      "name": "MDPI - Remote Sensing RSS Feed",
+      "url": "https://www.mdpi.com/rss/journal/remotesensing"
     }
   ]
 }
