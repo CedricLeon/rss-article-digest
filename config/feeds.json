@@ -1,0 +1,12 @@
+{
+  "feeds": [
+    {
+      "name": "ACM CACM - AI/ML",
+      "url": "https://cacm.acm.org/category/artificial-intelligence-machine-learning/feed/"
+    },
+    {
+      "name": "arXiv - Machine Learning",
+      "url": "https://rss.arxiv.org/rss/cs.LG"
+    }
+  ]
+}

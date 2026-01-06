@@ -1,0 +1,112 @@
+name: Weekly RSS Curation
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 2 * * 1"  # Monday 02:00 UTC
+  workflow_dispatch:
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ----------------------------------------------------
+      # Archive the previous week's file
+      # ----------------------------------------------------
+      - name: Archive last week's curated markdown
+        run: |
+          if [ -f output/curated_latest.md ]; then
+            DATE=$(date -u +"%Y%m%d")
+            cp output/curated_latest.md archive/curated_${DATE}.md
+          fi
+
+      # ----------------------------------------------------
+      # Run the pipeline
+      # ----------------------------------------------------
+      - name: Run pipeline
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          echo "Fetching feeds..."
+          python scripts/fetch_feeds.py
+          echo "Ranking..."
+          python scripts/rank_articles.py
+          echo "Generating markdown..."
+          python scripts/generate_markdown.py
+          echo "Finished."
+
+      # ----------------------------------------------------
+      # Email the curated results
+      # ----------------------------------------------------
+      - name: Email results
+        if: success()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Weekly RSS Digest from RSS_Agent"
+          to: ${{ secrets.MAIL_RECIPIENT }}
+          from: RSS Agent <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Your weekly curated RSS digest is ready.
+
+            See the attached file for details.
+
+          attachments: output/curated_latest.md
+
+      # ----------------------------------------------------
+      # Archive the current week's raw feed cache. Will overwrite last week's.
+      # ----------------------------------------------------
+      - name: Archive this week's raw feed cache
+        run: |
+          if [ -f cache/raw_feeds.json ]; then
+            cp cache/raw_feeds.json archive/raw_feeds_last_week.json
+          fi
+
+      # ----------------------------------------------------
+      # Delete this week's raw feed cache to start fresh next week
+      # ----------------------------------------------------
+      - name: Delete this week's raw feed cache
+        run: |
+          if [ -f cache/raw_feeds.json ]; then
+            rm cache/raw_feeds.json
+          fi
+
+      # ----------------------------------------------------
+      # Commit updates
+      # ----------------------------------------------------
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/jrcasey/RSS_Agent.git
+          if [ -n "$(git status --porcelain)" ]; then
+            git add output/curated_latest.md archive/ cache/
+            git commit -m "Weekly RSS update: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            git push origin HEAD:main
+          else
+            echo "No new articles — nothing to commit."
+          fi
