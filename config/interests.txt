@@ -1,14 +1,24 @@
-- ML for Remote Sensing
-- Learned image compression
-- Neural compressors
-- Synthetic Aperture Radar (SAR)
-- SAR Data compression
-- SAR despeckling
-- Deep Learning deployment on FPGA
-- Vitis AI
-- Coarse Grain Reconfigurable Architecture (CGRA), e.g., Versal
-- AI onboard
-- Lightweight AI
-- Space-robust ML
-- Climate Change
-- Disaster management
+- Machine Learning (ML), Deep Learning (DL), and Artificial Intelligence (AI). In particular:
+    - Neural compressors
+    - Learned image compression and data compression
+    - Applied to various Remote Sensing applications
+- Efficient ML/DL, particulary deployed on FPGAs
+    - Deep Learning deployment on FPGA
+    - Vitis AI and its Deep learning Processing Unit (DPU)
+    - Coarse Grain Reconfigurable Architecture (CGRA), e.g., AMD Versal
+    - Efficient AI
+    - AI onboard
+    - Lightweight AI
+    - Tiny ML
+    - Space-robust ML
+    - Real-time inference
+- Remote Sensing and Earth Observation
+    - Synthetic Aperture Radar (SAR)
+    - SAR Data compression
+    - SAR despeckling
+    - Climate Change
+    - Disaster management
+
+On the other hand, I'm not really interested by:
+- Foundation Models
+- NLP

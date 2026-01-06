@@ -15,6 +15,14 @@
     {
       "name": "MDPI - Remote Sensing RSS Feed",
       "url": "https://www.mdpi.com/rss/journal/remotesensing"
+    },
+    {
+      "name": "Towards Data Science RSS Feed",
+      "url": "https://towardsdatascience.com/feed"
+    },
+    {
+      "name": "Nature Machine Intelligence",
+      "url": "https://www.nature.com/natmachintell.rss"
     }
   ]
 }
