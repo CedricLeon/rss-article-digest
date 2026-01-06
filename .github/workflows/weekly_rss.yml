@@ -60,11 +60,11 @@ jobs:
         with:
           server_address: smtp.gmail.com
           server_port: 465
-          username: ${{ secrets.MAIL_USERNAME }}
-          password: ${{ secrets.MAIL_PASSWORD }}
+          username: ${{ secrets.GMAIL_EMAIL }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
           subject: "Weekly RSS Digest from RSS_Agent"
-          to: ${{ secrets.MAIL_RECIPIENT }}
-          from: RSS Agent <${{ secrets.MAIL_USERNAME }}>
+          to: ${{ secrets.RECIPIENT_EMAIL }}
+          from: RSS Agent <${{ secrets.GMAIL_EMAIL }}>
           body: |
             Your weekly curated RSS digest is ready.
 
