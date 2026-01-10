@@ -5482,5 +5482,35 @@
     "title": "TDS Newsletter: December Must-Reads on GraphRAG, Data Contracts, and More",
     "link": "https://towardsdatascience.com/tds-newsletter-december-must-reads-on-graphrag-data-contracts-and-more/",
     "content": "<p>Don't miss our most popular articles of the previous month</p>\n<p>The post <a href=\"https://towardsdatascience.com/tds-newsletter-december-must-reads-on-graphrag-data-contracts-and-more/\">TDS Newsletter: December Must-Reads on GraphRAG, Data Contracts, and More</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>"
+  },
+  {
+    "id": "6ce34f78a4dfa203",
+    "title": "Our students wrote UFS press article",
+    "link": "https://remote-sensing.org/our-students-wrote-ufs-press-article/",
+    "content": "<div class=\"postie-post\">\n<div>\n<div dir=\"auto\"></div>\n<div dir=\"auto\">  </div>\n<div dir=\"auto\">Our students have recently turned their fieldwork at the Environmental Research Station Schneefernerhaus into a published press article, showcasing how hands\u2011on glacier and snow research becomes part of real scientific communication.&nbsp;</div>\n<div dir=\"auto\">  </div>\n<div dir=\"auto\">Our course at Schneefernerhaus</div>\n<div dir=\"auto\">  </div>\n<div dir=\"auto\">The course took place at the Environmental Research Station Schneefernerhaus on the Zugspitze, one of Europe\u2019s highest and most renowned mountain research platforms for atmosphere, climate, and cryosphere studies. As part of the curriculum,   students collected and analyzed snow depth data in the high\u2011alpine environment around the station, learning how measurements on the ground complement long\u2011term monitoring and remote sensing approaches.&nbsp;</div>\n<div dir=\"auto\">  </div>\n<div dir=\"auto\">From field data to article</div>\n<div dir=\"auto\">  </div>\n<div dir=\"auto\">After returning from the field, the students transformed their measurements, photos, and reflections into a press article that was published via the Schneefernerhaus news section, giving a broader audience insight into their snow\u2011depth campaign.   This experience allowed them to practice describing complex methods and findings in clear, accessible language, an essential skill for communicating climate and mountain research beyond the academic community.&nbsp;</div>\n<div dir=\"auto\">  </div>\n<div dir=\"auto\">Why this experience matters</div>\n<div dir=\"auto\">  </div>\n<div dir=\"auto\">Working at Schneefernerhaus connects teaching directly with ongoing high\u2011altitude research on weather, atmosphere, and climate change, and shows how student projects can meaningfully contribute to current questions about snow and ice in the   Alps. The new press article is a visible result of this collaboration: it documents the course, highlights the students\u2019 engagement with real data in an extreme environment, and underlines the value of integrating research\u2011based learning into university education.</div>\n<div dir=\"auto\">  </div>\n<div dir=\"auto\" id=\"composer_signature\"></div>\n<p>The post <a href=\"https://remote-sensing.org/our-students-wrote-ufs-press-article/\">Our students wrote UFS press article</a> appeared first on <a href=\"https://remote-sensing.org\">Earth Observation News</a>.</p>"
+  },
+  {
+    "id": "faa7000dcfc096ad",
+    "title": "How LLMs Handle Infinite Context With Finite Memory",
+    "link": "https://towardsdatascience.com/llms-can-now-process-infinite-context-windows/",
+    "content": "<p>Achieving infinite context with 114\u00d7 less memory</p>\n<p>The post <a href=\"https://towardsdatascience.com/llms-can-now-process-infinite-context-windows/\">How LLMs Handle Infinite Context With Finite Memory</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>"
+  },
+  {
+    "id": "c9110ee2ea2ff2a7",
+    "title": "Data Science Spotlight: Selected Problems from Advent of Code 2025",
+    "link": "https://towardsdatascience.com/data-science-spotlight-selected-problems-from-advent-of-code-2025/",
+    "content": "<p>Hands-on walkthroughs of problems and solution approaches that power real\u2011world data science use cases</p>\n<p>The post <a href=\"https://towardsdatascience.com/data-science-spotlight-selected-problems-from-advent-of-code-2025/\">Data Science Spotlight: Selected Problems from Advent of Code 2025</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>"
+  },
+  {
+    "id": "7b8099f44396b152",
+    "title": "Mastering Non-Linear Data: A Guide to Scikit-Learn\u2019s SplineTransformer",
+    "link": "https://towardsdatascience.com/mastering-non-linear-data-a-guide-to-scikit-learns-splinetransformer/",
+    "content": "<p>Forget stiff lines and wild polynomials. Discover why Splines are the \"Goldilocks\" of feature engineering, offering the perfect balance of flexibility and discipline for non-linear data using Scikit-Learn\u2019s SplineTransformer.</p>\n<p>The post <a href=\"https://towardsdatascience.com/mastering-non-linear-data-a-guide-to-scikit-learns-splinetransformer/\">Mastering Non-Linear Data: A Guide to Scikit-Learn\u2019s SplineTransformer</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>"
+  },
+  {
+    "id": "5f82f405ba52ae72",
+    "title": "Teaching a Neural Network the Mandelbrot Set",
+    "link": "https://towardsdatascience.com/teaching-a-neural-network-the-mandelbrot-set/",
+    "content": "<p>And why Fourier features change everything</p>\n<p>The post <a href=\"https://towardsdatascience.com/teaching-a-neural-network-the-mandelbrot-set/\">Teaching a Neural Network the Mandelbrot Set</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>"
   }
 ]
