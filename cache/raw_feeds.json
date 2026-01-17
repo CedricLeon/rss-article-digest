@@ -13414,5 +13414,35 @@
     "title": "Do You Smell That? Hidden Technical Debt in AI Development",
     "link": "https://towardsdatascience.com/do-you-smell-that-hidden-technical-debt-in-ai-development/",
     "content": "<p>Why speed without standards creates fragile AI products</p>\n<p>The post <a href=\"https://towardsdatascience.com/do-you-smell-that-hidden-technical-debt-in-ai-development/\">Do You Smell That? Hidden Technical Debt in AI Development</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>"
+  },
+  {
+    "id": "1b2b93907667a47b",
+    "title": "Maximum-Effiency Coding Setup",
+    "link": "https://towardsdatascience.com/maximum-effiency-coding-setup/",
+    "content": "<p>Learn how to be a more efficient programmer</p>\n<p>The post <a href=\"https://towardsdatascience.com/maximum-effiency-coding-setup/\">Maximum-Effiency Coding Setup</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>"
+  },
+  {
+    "id": "921fcd229b4ef364",
+    "title": "Cutting LLM Memory by 84%: A Deep Dive into Fused Kernels",
+    "link": "https://towardsdatascience.com/cutting-llm-memory-by-84-a-deep-dive-into-fused-kernels/",
+    "content": "<p>Why your final LLM layer is OOMing and how to fix it with a custom Triton kernel.</p>\n<p>The post <a href=\"https://towardsdatascience.com/cutting-llm-memory-by-84-a-deep-dive-into-fused-kernels/\">Cutting LLM Memory by 84%: A Deep Dive into Fused Kernels</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>"
+  },
+  {
+    "id": "7cc3e2c58a193af5",
+    "title": "From RGB to Lab: Addressing Color Artifacts in AI Image Compositing",
+    "link": "https://towardsdatascience.com/from-rgb-to-lab-addressing-color-artifacts-in-ai-image-compositing/",
+    "content": "<p>A multi-tier approach to segmentation, color correction, and domain-specific enhancement</p>\n<p>The post <a href=\"https://towardsdatascience.com/from-rgb-to-lab-addressing-color-artifacts-in-ai-image-compositing/\">From RGB to Lab: Addressing Color Artifacts in AI Image Compositing</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>"
+  },
+  {
+    "id": "e3c9db80101c32ff",
+    "title": "The Great Data Closure: Why Databricks and Snowflake Are Hitting Their Ceiling",
+    "link": "https://towardsdatascience.com/the-great-data-closure-why-databricks-and-snowflake-are-hitting-their-ceiling/",
+    "content": "<p>Acquisitions, venture, and an increasingly competitive landscape all point to a market ceiling</p>\n<p>The post <a href=\"https://towardsdatascience.com/the-great-data-closure-why-databricks-and-snowflake-are-hitting-their-ceiling/\">The Great Data Closure: Why Databricks and Snowflake Are Hitting Their Ceiling</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>"
+  },
+  {
+    "id": "6f9c8d1127a8cbbe",
+    "title": "TDS Newsletter: Is It Time to Revisit RAG?",
+    "link": "https://towardsdatascience.com/tds-newsletter-is-it-time-to-revisit-rag/",
+    "content": "<p>Let's make sense of the current state of retrieval-augmented generation</p>\n<p>The post <a href=\"https://towardsdatascience.com/tds-newsletter-is-it-time-to-revisit-rag/\">TDS Newsletter: Is It Time to Revisit RAG?</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>"
   }
 ]
