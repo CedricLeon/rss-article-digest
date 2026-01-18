@@ -13444,5 +13444,17 @@
     "title": "TDS Newsletter: Is It Time to Revisit RAG?",
     "link": "https://towardsdatascience.com/tds-newsletter-is-it-time-to-revisit-rag/",
     "content": "<p>Let's make sense of the current state of retrieval-augmented generation</p>\n<p>The post <a href=\"https://towardsdatascience.com/tds-newsletter-is-it-time-to-revisit-rag/\">TDS Newsletter: Is It Time to Revisit RAG?</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>"
+  },
+  {
+    "id": "8b0616547e342150",
+    "title": "Data Poisoning in Machine Learning: Why and How People Manipulate Training Data",
+    "link": "https://towardsdatascience.com/data-poisoning-in-machine-learning-why-and-how-people-manipulate-training-data/",
+    "content": "<p>Do you know where your data has been?</p>\n<p>The post <a href=\"https://towardsdatascience.com/data-poisoning-in-machine-learning-why-and-how-people-manipulate-training-data/\">Data Poisoning in Machine Learning: Why and How People Manipulate Training Data</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>"
+  },
+  {
+    "id": "74b49a06a402738c",
+    "title": "A Geometric Method to Spot Hallucinations Without an LLM Judge",
+    "link": "https://towardsdatascience.com/the-red-bird/",
+    "content": "<p>Imagine a flock of birds in flight. There&#8217;s no leader. No central command. Each bird aligns with its neighbors\u2014matching direction, adjusting speed, maintaining coherence through purely local coordination. The result is global order emerging from local consistency. Now imagine one bird flying with the same conviction as the others. Its wingbeats are confident. Its speed [&#8230;]</p>\n<p>The post <a href=\"https://towardsdatascience.com/the-red-bird/\">A Geometric Method to Spot Hallucinations Without an LLM Judge</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>"
   }
 ]
