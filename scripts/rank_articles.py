@@ -24,7 +24,7 @@ You are a domain expert in the fields detailed below. Score the relevance of thi
 
 {interests}
 
-Score from 0 to 1. A score of 1 means “highly relevant" and implies overlap with multiple interests.
+Score from 0 to 100. A score of 100 means “highly relevant" and implies overlap with multiple interests.
 
 Return ONLY a JSON object: {{"score": float}}
 """
@@ -50,7 +50,7 @@ def get_relevance_score(title, content):
     except Exception:
         return 0.0
 
-def rank_articles(threshold=0.50, keep_top_n=100):
+def rank_articles(threshold=50.0, keep_top_n=100):
     with open(RAW_FEED_CACHE, "r") as f:
         articles = json.load(f)
 
