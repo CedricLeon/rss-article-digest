@@ -24,7 +24,8 @@ You are a domain expert in the fields detailed below. Score the relevance of thi
 
 {interests}
 
-Score from 0 to 100. A score of 100 means “highly relevant" and implies overlap with multiple interests.
+Give this article a score from 0 to 100. A score of 100 means “highly relevant" and implies overlap with multiple interests.
+Be granular and precise in your assessment. Rely on specific keywords, topics, and concepts that align with the interests.
 
 Return ONLY a JSON object: {{"score": float}}
 """
