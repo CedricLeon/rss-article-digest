@@ -30,6 +30,13 @@ Return ONLY a JSON object: {{"score": float}}
 """
 
 def embed_text(text):
+    # Ensure text is within the limit for text-embedding-3-small (8191 tokens)
+    # A safe approximation is ~4 characters per token.
+    # Truncating to 24000 characters (approx 6000 tokens) stays well within safe limits.
+    max_chars = 24000
+    if len(text) > max_chars:
+        text = text[:max_chars]
+
     response = client.embeddings.create(
         model="text-embedding-3-small",
         input=text
@@ -38,6 +45,12 @@ def embed_text(text):
 
 def get_relevance_score(title, content):
     text = f"Title: {title}\nAbstract: {content}"
+    
+    # Truncate for the chat model as well to save costs and avoid excessive context
+    max_chars = 24000
+    if len(text) > max_chars:
+        text = text[:max_chars]
+
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
