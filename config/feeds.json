@@ -9,10 +9,6 @@
       "url": "https://rss.arxiv.org/rss/cs.LG"
     },
     {
-      "name": "Blog of Department of Remote Sensing, University of Wurzburg",
-      "url": "https://remote-sensing.org/feed/"
-    },
-    {
       "name": "MDPI - Remote Sensing RSS Feed",
       "url": "https://www.mdpi.com/rss/journal/remotesensing"
     },
@@ -23,6 +19,42 @@
     {
       "name": "Nature Machine Intelligence",
       "url": "https://www.nature.com/natmachintell.rss"
+    },
+    {
+      "name": "IEEE TGRS - Geoscience & Remote Sensing",
+      "url": "https://ieeexplore.ieee.org/rss/TOC36.XML"
+    },
+    {
+      "name": "IEEE J-STARS - Applied Earth Obs.",
+      "url": "https://ieeexplore.ieee.org/rss/TOC4609443.XML"
+    },
+    {
+      "name": "Elsevier RSE - Remote Sensing of Environment",
+      "url": "https://rss.sciencedirect.com/publication/science/00344257"
+    },
+    {
+      "name": "ISPRS Journal of Photogrammetry",
+      "url": "https://rss.sciencedirect.com/publication/science/09242716"
+    },
+    {
+      "name": "ACM TRETS - Reconfigurable Tech",
+      "url": "https://dl.acm.org/action/showFeed?jc=TRETS&type=etoc&feed=rss"
+    },
+    {
+      "name": "IEEE Trans. on VLSI Systems",
+      "url": "https://ieeexplore.ieee.org/rss/TOC92.XML"
+    },
+    {
+      "name": "IEEE Trans. on Computers",
+      "url": "https://ieeexplore.ieee.org/rss/TOC12.XML"
+    },
+    {
+      "name": "Semiconductor Engineering",
+      "url": "https://semiengineering.com/feed/"
+    },
+    {
+      "name": "Hackster.io TinyML",
+      "url": "https://www.hackster.io/feeds/tinyml"
     }
   ]
 }
