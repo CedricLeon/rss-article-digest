@@ -21,4 +21,4 @@
 
 On the other hand, I'm not really interested by:
 - Foundation Models
-- NLP
+- Natural Language Processing (NLP)
