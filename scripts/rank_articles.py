@@ -9,6 +9,8 @@ INTERESTS_FILE = os.path.join("config", "interests.txt")
 
 client = OpenAI()
 
+
+
 def load_interests():
     """Load interests from config/interests.txt."""
     if not os.path.exists(INTERESTS_FILE):
