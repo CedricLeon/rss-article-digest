@@ -87,7 +87,7 @@ jobs:
       - name: Delete this week's raw feed cache
         run: |
           if [ -f cache/raw_feeds.json ]; then
-            rm cache/raw_feeds.json
+            git rm -f cache/raw_feeds.json --ignore-unmatch
           fi
 
       # ----------------------------------------------------
