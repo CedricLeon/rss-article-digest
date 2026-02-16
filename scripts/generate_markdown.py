@@ -19,8 +19,10 @@ def generate_markdown():
     for a in ranked[:100]:  # Already filtered previously
         title = a["title"].replace("\n", " ").strip()
         url = a["link"]
-        score = f"{a['score']:.3f}"
-        lines.append(f"- [ ] [{title}]({url}) — score: {score}")
+        score = f"{a['score']:.1f}"
+        author = a.get("author", "")
+        author_str = f" by {author}" if author else ""
+        lines.append(f"- [ ] [{title}]({url}){author_str} — score: {score}")
 
     md = "\n".join(lines)
 

@@ -80,6 +80,7 @@ def rank_articles(threshold=50.0, keep_top_n=100):
             "title": a["title"],
             "link": a["link"],
             "content": a["content"],
+            "author": a.get("author", ""),
             "score": score,
             "embedding": embedding
         })

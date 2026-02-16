@@ -93,12 +93,19 @@ def fetch_all_feeds():
                 content = entry.content[0].value
             elif "summary" in entry:
                 content = entry.summary
+            
+            # Author
+            author = entry.get("author", "")
+            if not author and "authors" in entry:
+                 author = ", ".join([p.get("name", "") for p in entry.authors if "name" in p])
+
             # Store the new entry
             new_entries.append({
                 "id": hashed_id,
                 "title": title,
                 "link": link,
-                "content": content
+                "content": content,
+                "author": author
             })
             # Mark this ID as seen
             seen_ids.add(hashed_id)
