@@ -84,11 +84,9 @@ jobs:
       # ----------------------------------------------------
       # Delete this week's raw feed cache to start fresh next week
       # ----------------------------------------------------
-      - name: Delete this week's raw feed cache
+      - name: Reset this week's raw feed cache
         run: |
-          if [ -f cache/raw_feeds.json ]; then
-            git rm -f cache/raw_feeds.json --ignore-unmatch
-          fi
+          echo "[]" > cache/raw_feeds.json
 
       # ----------------------------------------------------
       # Commit updates

@@ -1,7 +1,6 @@
 import json
 import os
 from openai import OpenAI
-import numpy as np
 
 RAW_FEED_CACHE = "cache/raw_feeds.json"
 RANKED_CACHE = "cache/ranked_articles.json"
@@ -32,20 +31,6 @@ Be granular and precise in your assessment. Rely on specific keywords, topics, a
 Return ONLY a JSON object: {{"score": float}}
 """
 
-def embed_text(text):
-    # Ensure text is within the limit for text-embedding-3-small (8191 tokens)
-    # A safe approximation is ~4 characters per token.
-    # Truncating to 24000 characters (approx 6000 tokens) stays well within safe limits.
-    max_chars = 24000
-    if len(text) > max_chars:
-        text = text[:max_chars]
-
-    response = client.embeddings.create(
-        model="text-embedding-3-small",
-        input=text
-    )
-    return response.data[0].embedding
-
 def get_relevance_score(title, content):
     text = f"Title: {title}\nAbstract: {content}"
     
@@ -74,7 +59,6 @@ def rank_articles(threshold=50.0, keep_top_n=100):
 
     for a in articles:
         score = get_relevance_score(a["title"], a["content"])
-        embedding = embed_text(a["title"] + "\n" + a["content"])
         ranked.append({
             "id": a["id"],
             "title": a["title"],
@@ -82,7 +66,6 @@ def rank_articles(threshold=50.0, keep_top_n=100):
             "content": a["content"],
             "author": a.get("author", ""),
             "score": score,
-            "embedding": embedding
         })
 
     # Sort by score
@@ -93,9 +76,9 @@ def rank_articles(threshold=50.0, keep_top_n=100):
     if len(filtered) < keep_top_n:
         filtered = ranked_sorted[:keep_top_n]
 
-    # Save all ranked results for later analysis
+    # Save filtered results
     with open(RANKED_CACHE, "w") as f:
-        json.dump(ranked_sorted, f, indent=2)
+        json.dump(filtered, f, indent=2)
 
     print(f"Ranked {len(ranked)} articles. Kept {len(filtered)}.")
     return filtered
