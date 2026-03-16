@@ -1,104 +1,104 @@
 # Curated Research Articles
 
-Generated: 2026-03-09 04:03
+Generated: 2026-03-16 03:14
 
-- [ ] [FPGA-Enabled Machine Learning Applications in Earth Observation: A Systematic Review](https://arxiv.org/abs/2506.03938) by C\'edric L\'eonard (Technical University of Munich, Munich, Germany, Remote Sensing Technology Institute), Dirk Stober (Technical University of Munich, Munich, Germany), Martin Schulz (Technical University of Munich, Munich, Germany) — score: 95.0
-- [ ] [CosmDiff: Integrating Multitemporal Optical-SAR Data With Conditional Diffusion Models for Optical Satellite Time Series Reconstruction](http://ieeexplore.ieee.org/document/11359003) — score: 90.0
-- [ ] [Automated MLIR-based HLS framework That Generates FPGA HW Designs From A Variety of CNN Layers (TU Dresden)](https://semiengineering.com/automated-mlir-based-hls-framework-that-generates-fpga-hw-designs-from-a-variety-of-cnn-layers-tu-dresden/) — score: 90.0
-- [ ] [KANEL\'E: Kolmogorov-Arnold Networks for Efficient LUT-based Evaluation](https://arxiv.org/abs/2512.12850) by Duc Hoang, Aarush Gupta, Philip Harris — score: 90.0
-- [ ] [RS-LLIC: A Lightweight Learned Image Compression Model With Knowledge Distillation for Onboard Remote Sensing](http://ieeexplore.ieee.org/document/11411827) — score: 90.0
-- [ ] [BitLogic: Training Framework for Gradient-Based FPGA-Native Neural Networks](https://arxiv.org/abs/2602.07400) — score: 85.0
-- [ ] [MMLSv2: A Multimodal Dataset for Martian Landslide Detection in Remote Sensing Imagery](https://arxiv.org/abs/2602.08112) — score: 85.0
-- [ ] [A Parallel Alternative for Energy-Efficient Neural Network Training and Inferencing](https://arxiv.org/abs/2508.00960) — score: 85.0
-- [ ] [SNAP-UQ: Self-supervised Next-Activation Prediction for Single-Pass Uncertainty in TinyML](https://arxiv.org/abs/2508.12907) — score: 85.0
-- [ ] [Persistent Scatterers Detection Supported by Deep Learning: A Solution Based on U-Net](http://ieeexplore.ieee.org/document/11364075) — score: 85.0
-- [ ] [Distributed SAR Interferometry for Digital Elevation Model Generation Using Microsatellites: Processing and Demonstration](http://ieeexplore.ieee.org/document/11361214) — score: 85.0
-- [ ] [Leveraging Domain Characteristics to Refine Deep-Learning-Based Semantic Segmentation of Outdoor Point Clouds](http://ieeexplore.ieee.org/document/11363269) — score: 85.0
-- [ ] [Ship Target Rapid Detection and Signal Extraction in Wide-Area Oceanic Scenes Based on ResNet-ID42 Network for Spaceborne SAR Range-Compressed Domain Data](http://ieeexplore.ieee.org/document/11355858) — score: 85.0
-- [ ] [A Semantic Segmentation of Remote Sensing Images via Spatial–Frequency Encoding and Multiscale Feature Fusion](http://ieeexplore.ieee.org/document/11358707) — score: 85.0
-- [ ] [Adaptive Hybrid-Domain Feature Compensation and Selective Modeling for Feature Refinement Network for Fine-Grained Remote Sensing Segmentation](http://ieeexplore.ieee.org/document/11359422) — score: 85.0
-- [ ] [CRMF-Net: A Multimodal Fusion Network for Water–Land Classification From Single-Wavelength Bathymetric LiDAR](http://ieeexplore.ieee.org/document/11358398) — score: 85.0
-- [ ] [Knowledge-Guided Masked Autoencoder with Linear Spectral Mixing and Spectral-Angle-Aware Reconstruction](https://arxiv.org/abs/2512.12445) — score: 85.0
-- [ ] [KAN-FIF: Spline-Parameterized Lightweight Physics-based Tropical Cyclone Estimation on Meteorological Satellite](https://arxiv.org/abs/2602.12117) — score: 85.0
-- [ ] [Short-Term SAR Change Detection for Soil Moisture Retrieval: A Case Study Over Danish Test Sites](http://ieeexplore.ieee.org/document/11364147) — score: 85.0
-- [ ] [SBSR-Net: Multitype Parameters Learning-Based Real Aperture Radar Forward-Looking Superresolution Imaging Framework](http://ieeexplore.ieee.org/document/11364154) — score: 85.0
-- [ ] [Translation Difference Characterization for PolSAR Ship Extraction](http://ieeexplore.ieee.org/document/11361212) — score: 85.0
-- [ ] [A Wrap-Count-Based Phase Unwrapping Method for Large-Scale, Low-Coherence Interferograms Using Deep Learning](http://ieeexplore.ieee.org/document/11370237) — score: 85.0
-- [ ] [A Triple-Branch Architecture With Multiscale Attention for Spatiotemporal Remote Sensing Fusion](http://ieeexplore.ieee.org/document/11371373) — score: 85.0
-- [ ] [BTC-Net V2: Spatial-Priority Hierarchical Reconstruction for Hyperspectral Image Compression](http://ieeexplore.ieee.org/document/11371342) — score: 85.0
-- [ ] [SFSR: Spectral Fusion Super-Resolution for Multisensor Remote Sensing With Degraded References](http://ieeexplore.ieee.org/document/11367064) — score: 85.0
-- [ ] [Uncertainty Estimation Optimization for Reliable Remote Sensing Single-Image Super-Resolution](http://ieeexplore.ieee.org/document/11367717) — score: 85.0
-- [ ] [DSM Accuracy Enhancement via Satellite Stereo Imagery Super-Resolution: Multiscale Attention and Coordinate Mapping Optimization](http://ieeexplore.ieee.org/document/11364057) — score: 85.0
-- [ ] [LDFENet: A Lightweight Dilated Feature Enhanced Network for SAR Ship Detection](http://ieeexplore.ieee.org/document/11359708) — score: 85.0
-- [ ] [Dynamic inheritance-enhanced TomoSAR imaging with dual-task deep learning for urban applications](https://www.sciencedirect.com/science/article/pii/S0034425726000738?dgcid=rss_sd_all) — score: 85.0
-- [ ] [MAUNet-Light: A Concise MAUNet Architecture for Bias Correction and Downscaling of Precipitation Estimates](https://arxiv.org/abs/2602.12980) — score: 85.0
-- [ ] [Model-Aware Rate-Distortion Limits for Task-Oriented Source Coding](https://arxiv.org/abs/2602.12866) — score: 85.0
-- [ ] [LAF-YOLOv10 with Partial Convolution Backbone, Attention-Guided Feature Pyramid, Auxiliary P2 Head, and Wise-IoU Loss for Small Object Detection in Drone Aerial Imagery](https://arxiv.org/abs/2602.13378) by Sohail Ali Farooqui, Zuhair Ahmed Khan Taha, Mohammed Mudassir Uddin, Shahnawaz Alam — score: 85.0
-- [ ] [Curriculum Multi-Task Self-Supervision Improves Lightweight Architectures for Onboard Satellite Hyperspectral Image Segmentation](https://arxiv.org/abs/2509.13229) by Hugo Carlesso, Josiane Mothe, Radu Tudor Ionescu — score: 85.0
-- [ ] [Deep Learning for Clouds and Cloud Shadow Segmentation in Methane Satellite and Airborne Imaging Spectroscopy](https://arxiv.org/abs/2509.19665) by Manuel Perez-Carrasco, Maya Nasr, Sebastien Roche, Chris Chan Miller, Zhan Zhang, Core Francisco Park, Eleanor Walker, Cecilia Garraffo, Douglas Finkbeiner, Sasha Ayvazov, Jonathan Franklin, Bingkun Luo, Xiong Liu, Ritesh Gautam, Steven Wofsy — score: 85.0
-- [ ] [DCP-Guided One-Shot Remote Sensing Image Dehazing via Self-Supervised Redegradation Model](http://ieeexplore.ieee.org/document/11370228) — score: 85.0
-- [ ] [Multifeature Domain Fusion Extraction of Buildings From Airborne L-Band CSAR Images Using Subaperture Image Scattering Characteristics](http://ieeexplore.ieee.org/document/11367019) — score: 85.0
-- [ ] [A Generalized Equation for SAR Image Quality Evaluation Assessment](http://ieeexplore.ieee.org/document/11367773) — score: 85.0
-- [ ] [Change Detection on Remote Sensing Images Using a Dual-Branch Architecture With State Space Modeling and Graph-Based Local Interaction Network](http://ieeexplore.ieee.org/document/11370220) — score: 85.0
-- [ ] [An Adaptive Pseudo-Labeled Sample Generation Approach to Unsupervised Multiclass Change Detection in Bitemporal Remote Sensing Images](http://ieeexplore.ieee.org/document/11372724) — score: 85.0
-- [ ] [Efficient Object Detection in Remote Sensing Images Based on Feature Weaving and Redundancy Suppression](http://ieeexplore.ieee.org/document/11371327) — score: 85.0
-- [ ] [RS-LightSSL: An Efficient Lightweight Self-Supervised Learning Framework for Remote Sensing Multitasks](http://ieeexplore.ieee.org/document/11371003) — score: 85.0
-- [ ] [Foreground–Edge Collaborative-Driven Network for Remote Sensing Image Forgery Localization](http://ieeexplore.ieee.org/document/11367757) — score: 85.0
-- [ ] [Enabling Low-Latency Machine learning on Radiation-Hard FPGAs with hls4ml](https://arxiv.org/abs/2602.15751) by Katya Govorkova, Julian Garcia Pardinas, Vladimir Loncar, Victoria Nguyen, Sebastian Schmitt, Marco Pizzichemi, Loris Martinazzoli, Eluned Anne Smith — score: 85.0
-- [ ] [HAWX: A Hardware-Aware FrameWork for Fast and Scalable ApproXimation of DNNs](https://arxiv.org/abs/2602.16336) by Samira Nazari, Mohammad Saeed Almasi, Mahdi Taheri, Ali Azarpeyvand, Ali Mokhtari, Ali Mahani, Christian Herglotz — score: 85.0
-- [ ] [SNAP-UQ: Self-supervised Next-Activation Prediction for Single-Pass Uncertainty in TinyML](https://arxiv.org/abs/2508.12907) by Ismail Lamaakal, Chaymae Yahyati, Khalid El Makkaoui, Ibrahim Ouahbi, Yassine Maleh — score: 85.0
-- [ ] [FOCUS on Contamination: Hydrology-Informed Noise-Aware Learning for Geospatial PFAS Mapping](https://arxiv.org/abs/2502.14894) by Jowaria Khan, Alexa Friedman, Sydney Evans, Rachel Klein, Runzi Wang, Katherine E. Manz, Kaley Beins, David Q. Andrews, Elizabeth Bondi-Kelly — score: 85.0
-- [ ] [CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis](https://arxiv.org/abs/2504.19223) by Alexander Baumann, Leonardo Ayala, Silvia Seidlitz, Jan Sellner, Alexander Studier-Fischer, Berkin \"Ozdemir, Lena Maier-Hein, Slobodan Ilic — score: 85.0
-- [ ] [Leveraging Modal Interaction and Window Dilation in Attention Network for Hyperspectral and Multispectral Remote Sensing Image Fusion](http://ieeexplore.ieee.org/document/11370239) — score: 85.0
-- [ ] [Dual-Path Self-Supervised Spatiotemporal Learning for Satellite Video Scene Understanding](http://ieeexplore.ieee.org/document/11372758) — score: 85.0
-- [ ] [Kolmogorov–Arnold Dynamic Gating Network With Dual-Domain Multiscale Feature Aggregation for Hyperspectral Stripe Noise Removal](http://ieeexplore.ieee.org/document/11367273) — score: 85.0
-- [ ] [Super-Resolution of Remote Sensing Images via the Parallel Lattice Attention Network](http://ieeexplore.ieee.org/document/11370168) — score: 85.0
-- [ ] [TF-RoadNet: A Topo-Tree Scan and Frequency-Aware Network for Road Extraction From Remote Sensing Images](http://ieeexplore.ieee.org/document/11369398) — score: 85.0
-- [ ] [Deep-Learning-Based Interactive Segmentation in Remote Sensing](http://ieeexplore.ieee.org/document/11368899) — score: 85.0
-- [ ] [A Continuous Perspective-Based Strategy for Deep Learning in Semantic Segmentation for Remote Sensing Fault Mapping](http://ieeexplore.ieee.org/document/11371742) — score: 85.0
-- [ ] [AMPUNet: Hierarchical Attention Map Pyramid for Semantic Segmentation of Remote Sensing Images](http://ieeexplore.ieee.org/document/11359465) — score: 85.0
-- [ ] [MCDF-Net: Dynamic Adaptive Network Based on Modal Competition and Dual Encoder Feature Fusion for Remote Sensing Image Target Detection](http://ieeexplore.ieee.org/document/11367775) — score: 85.0
-- [ ] [A Real-Time MPSoC-Based Back Projection Accelerator for High-Accuracy Large-Size SAR Imaging Using Truncated Sinc Reconstruction and Mixed Precision Design](http://ieeexplore.ieee.org/document/11367768) — score: 85.0
-- [ ] [Investigating Target Class Influence on Neural Network Compressibility for Energy-Autonomous Avian Monitoring](https://arxiv.org/abs/2602.17751) by Nina Brolich, Simon Geis, Maximilian Kasper, Alexander Barnhill, Axel Plinge, Dominik Seu{\ss} — score: 85.0
-- [ ] [HAWX: A Hardware-Aware FrameWork for Fast and Scalable ApproXimation of DNNs](https://arxiv.org/abs/2602.16336) by Samira Nazari, Mohammad Saeed Almasi, Mahdi Taheri, Ali Azarpeyvand, Ali Mokhtari, Ali Mahani, Christian Herglotz — score: 85.0
-- [ ] [LGMM-Net: A Local–Global Encoder and Mask Mamba Decoder Network for Remote Sensing Change Detection](http://ieeexplore.ieee.org/document/11381899) — score: 85.0
-- [ ] [PHENet: Toward Robust Fog-Resilient Change Detection in Remote Sensing Imagery With a Physics-Guided Height-Enhanced Network](http://ieeexplore.ieee.org/document/11390673) — score: 85.0
-- [ ] [Quantifying and Communicating Uncertainty in SAR-Based Flood Mapping via Density-Aware Neural Networks and Conformal Risk Control](http://ieeexplore.ieee.org/document/11373100) — score: 85.0
-- [ ] [DiPaSSCD: Difference-Paired Self-Supervised Learning With Object-Based Local Augmentation for Remote Sensing Image Change Detection](http://ieeexplore.ieee.org/document/11371347) — score: 85.0
-- [ ] [CoreNet: A Semi-Supervised Change Detection Framework With Correlation-Guided Feature Refinement and Regional-Wise Pseudo-Label Reassignment](http://ieeexplore.ieee.org/document/11371338) — score: 85.0
-- [ ] [SA-CMF: A Secondary Attention-Based Cross-Modal Fusion Framework for Deep-Space Target Recognition in Remote Sensing](http://ieeexplore.ieee.org/document/11372781) — score: 85.0
-- [ ] [Identifying Fault-Related Deformation in Large InSAR Datasets Using Transfer Learning](http://ieeexplore.ieee.org/document/11371357) — score: 85.0
-- [ ] [WHFNet: A Wavelet-Driven Heterogeneous Fusion Network for High-Frequency Enhanced Optical–SAR Remote Sensing Segmentation](http://ieeexplore.ieee.org/document/11386975) — score: 85.0
-- [ ] [Breaking the Scale Barrier: A Scale-Progressive Water Body Extraction Framework Inspired by Human Cognitive Mechanisms](http://ieeexplore.ieee.org/document/11373091) — score: 85.0
-- [ ] [Efficient Cloud Removal for Remote Sensing Data Transmission via Model Compression and Sparse Accelerator Design](http://ieeexplore.ieee.org/document/11371695) — score: 85.0
-- [ ] [A PolSAR Bridge Detection Method Integrating Cross-Sectional Probability Modeling and Graph Topology Analysis](http://ieeexplore.ieee.org/document/11371302) — score: 85.0
-- [ ] [Spatial–Frequency Domain Joint Learning With Shape Constraints for Fine-Grained Aircraft Detection in SAR Imagery](http://ieeexplore.ieee.org/document/11363427) — score: 85.0
-- [ ] [CSGANet: Lightweight Channel-Split Group Attention for High-Resolution Remote Sensing Change Detection](http://ieeexplore.ieee.org/document/11367786) — score: 85.0
-- [ ] [Multi-hop Deep Joint Source-Channel Coding with Deep Hash Distillation for Semantically Aligned Image Recovery](https://arxiv.org/abs/2510.06868) by Didrik Bergstr\"om, Deniz G\"und\"uz, Onur G\"unl\"u — score: 85.0
-- [ ] [Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks](https://arxiv.org/abs/2504.07835) by Erin Carson, Xinye Chen — score: 85.0
-- [ ] [SF-Net: Spatial-Frequency Feature Synthesis for Semantic Segmentation of High-Resolution Remote Sensing Imagery](http://ieeexplore.ieee.org/document/11365535) — score: 85.0
-- [ ] [PCA-Aware Attention Feature Fusion With Complex-Valued Adaptive Weighted UNet for PolSAR Classification](http://ieeexplore.ieee.org/document/11371428) — score: 85.0
-- [ ] [Advanced Hyperspectral Scene Interpretation Through PCA-Enhanced Residual Learning in Complex Spectral Domains](http://ieeexplore.ieee.org/document/11373109) — score: 85.0
-- [ ] [Analysis of L-Band Radar Signatures of Surface Topography, Soil Moisture, and Vegetation Water Content](http://ieeexplore.ieee.org/document/11367461) — score: 85.0
-- [ ] [Enriching Earth Observation Labeled Data With Quantum Conditioned Diffusion Models](http://ieeexplore.ieee.org/document/11372684) — score: 85.0
-- [ ] [StructFuse-Net: A Structure-Aware Multimodal Fusion Network for Geometry-Consistent Optical–SAR Image Segmentation](http://ieeexplore.ieee.org/document/11396062) — score: 85.0
-- [ ] [Robust Pixel-by-Pixel Multimodal Remote Sensing Image Registration Using Geometry Preserving Dense Registration Network](http://ieeexplore.ieee.org/document/11396038) — score: 85.0
-- [ ] [MultiPC: Multitask Learning for Joint Pansharpening and Classification From Multispectral and Panchromatic Images](http://ieeexplore.ieee.org/document/11395322) — score: 85.0
-- [ ] [ProtoFormer: Transformer With Learnable Prototype Tokens for Pansharpening](http://ieeexplore.ieee.org/document/11396984) — score: 85.0
-- [ ] [Adaptive Receptive Field Network for Small Objects Detection in Remote Sensing Images](http://ieeexplore.ieee.org/document/11372772) — score: 85.0
-- [ ] [RRAM-Based Spectral-Domain Convolution Accelerator for Reliable and Energy-Efficient CNN Inference](http://ieeexplore.ieee.org/document/11313316) — score: 85.0
-- [ ] [A T8T-SRAM Computing-in-Memory Macro for Ternary Deep Neural Networks and Boolean Logic Computations](http://ieeexplore.ieee.org/document/11343922) — score: 85.0
-- [ ] [Iceberg detection from global open ocean sentinel-1 wave mode SAR data with YOLO deep learning](https://www.sciencedirect.com/science/article/pii/S0034425726001148?dgcid=rss_sd_all) — score: 85.0
-- [ ] [Refining Clear-Sky AI Radiative Transfer Model Forward Predictions and Jacobian Accuracy for ATMS Using a ResNet and Physical Constraints](http://ieeexplore.ieee.org/document/11397688) — score: 85.0
-- [ ] [Modality-Prior Aware Progressive Diffusion Pansharpening](http://ieeexplore.ieee.org/document/11391541) — score: 85.0
-- [ ] [Development and Comparison of Bare Soil Moisture Retrieval Methods for Compact Polarimetric Data](http://ieeexplore.ieee.org/document/11408011) — score: 85.0
-- [ ] [Adaptive Superpixel Segmentation-Based Coastline Extraction Method for PolSAR Images](http://ieeexplore.ieee.org/document/11373670) — score: 85.0
-- [ ] [Adaptive Edge-Guided Fusion Network for Remote Sensing Image Change Detection](http://ieeexplore.ieee.org/document/11386885) — score: 85.0
-- [ ] [Hi-RSMamba: Hierarchical Mamba for Remote Sensing Image Restoration Under Adverse Weather](http://ieeexplore.ieee.org/document/11393606) — score: 85.0
-- [ ] [A Self-Supervised Conditional Diffusion Network With Multihead Wavelet Attention for Remote Sensing Image Denoising](http://ieeexplore.ieee.org/document/11395387) — score: 85.0
-- [ ] [Toward More Adaptive Fusion: Sample- and Region-Aware Dynamic Fusion Network for Full- and Missing-Modalities Land Cover Classification](http://ieeexplore.ieee.org/document/11395958) — score: 85.0
-- [ ] [GLFFuse: A Multimodal Feature-Level Fusion Network for Multitask Fine-Grained Recognition of Arctic Sea Ice](http://ieeexplore.ieee.org/document/11370817) — score: 85.0
-- [ ] [Mamba-FCS: Joint Spatio-Frequency Feature Fusion, Change-Guided Attention, and SeK Inspired Loss for Enhanced Semantic Change Detection in Remote Sensing](http://ieeexplore.ieee.org/document/11391528) — score: 85.0
-- [ ] [Edge-Aware Dual-Stream Dynamic Fusion Network for Building Extraction in Remote Sensing Images](http://ieeexplore.ieee.org/document/11392764) — score: 85.0
-- [ ] [SigmaQuant: Hardware-Aware Heterogeneous Quantization Method for Edge DNN Inference](https://arxiv.org/abs/2602.22136) by Qunyou Liu, Pengbo Yu, Marina Zapater, David Atienza — score: 85.0
-- [ ] [REDNET-ML: A Multi-Sensor Machine Learning Pipeline for Harmful Algal Bloom Risk Detection Along the Omani Coast](https://arxiv.org/abs/2603.04181) by Ameer Alhashemi — score: 85.0
+- [ ] [Continuous-Flow Data-Rate-Aware CNN Inference on FPGA](https://arxiv.org/abs/2601.19940) by Tobias Habermann, Michael Mecik, Zhenyu Wang, C\'esar David Vera, Martin Kumm, Mario Garrido — score: 85.0
+- [ ] [Estimating Leaf Area Index and Leaf Nitrogen Content for Individual Populus Tree Using UAV Hyperspectral Data With Dual-Branch Deep Learning Architecture](http://ieeexplore.ieee.org/document/11414171) — score: 85.0
+- [ ] [A Pseudomultitask Neural Network Classification Model for Cropland Mapping in Mountainous Areas Using High-Resolution Remote Sensing Images](http://ieeexplore.ieee.org/document/11408843) — score: 85.0
+- [ ] [AMD-DSMNet: Asymmetric Multidirectional Convolutional Attention and Dynamic Spatial Modulation Network for Cropland Change Detection](http://ieeexplore.ieee.org/document/11387066) — score: 85.0
+- [ ] [FSINet: A Robust Feature Separation and Integration Network for Multiscale SAR Object Detection](http://ieeexplore.ieee.org/document/11397651) — score: 85.0
+- [ ] [An Adaptive Regular Window Optimization-Based Radiometric Calibration Model for Airborne SAR](http://ieeexplore.ieee.org/document/11397644) — score: 85.0
+- [ ] [A Scalable Potential of Alpha Earth and Multisensor Datasets for Assessing Mangrove Intactness and Degradation Using Deep and Machine Learning Algorithms](http://ieeexplore.ieee.org/document/11394719) — score: 85.0
+- [ ] [Two Teachers Better Than One: Hardware-Physics Co-Guided Distributed Scientific Machine Learning](https://arxiv.org/abs/2603.09032) by Yuchen Yuan, Junhuan Yang, Hao Wan, Yipei Liu, Hanhan Wu, Youzuo Lin, Lei Yang — score: 85.0
+- [ ] [Performance Analysis of Edge and In-Sensor AI Processors: A Comparative Review](https://arxiv.org/abs/2603.08725) by Luigi Capogrosso, Pietro Bonazzi, Michele Magno — score: 85.0
+- [ ] [Data-Rate-Aware High-Speed CNN Inference on FPGAs](https://arxiv.org/abs/2603.08726) by Tobias Habermann, Martin Kumm — score: 85.0
+- [ ] [Sensitivity-Guided Framework for Pruned and Quantized Reservoir Computing Accelerators](https://arxiv.org/abs/2603.08737) by Atousa Jafari, Mahdi Taheri, Hassan Ghasemzadeh Mohammadi, Christian Herglotz, Marco Platzner — score: 85.0
+- [ ] [Multi-DNN Inference of Sparse Models on Edge SoCs](https://arxiv.org/abs/2603.09642) by Jiawei Luo, Di Wu, Simon Dobson, Blesson Varghese — score: 85.0
+- [ ] [Hardware Efficient Approximate Convolution with Tunable Error Tolerance for CNNs](https://arxiv.org/abs/2603.10100) by Vishal Shashidhar, Anupam Kumari, Roy P Paily — score: 85.0
+- [ ] [ARCHE: Autoregressive Residual Compression with Hyperprior and Excitation](https://arxiv.org/abs/2603.10188) by Sofia Iliopoulou, Dimitris Ampeliotis, Athanassios Skodras — score: 85.0
+- [ ] [DSTI-Net: A Dynamic Spatial–Temporal Interaction Network With Semantic Guidance for 2-D and 3-D Change Detection](http://ieeexplore.ieee.org/document/11417956) — score: 85.0
+- [ ] [A Modified Multistep Frequency-Scaling Algorithm for Ground-Based FMCW-ArcSAR Imaging](http://ieeexplore.ieee.org/document/11414161) — score: 85.0
+- [ ] [An Improved Mahalanobis Distance Method for Smoke Detection Based on Fine-Grained Background Identification](http://ieeexplore.ieee.org/document/11417225) — score: 85.0
+- [ ] [Exploring Infrared and Visible Feature Fusion for Earth Surface Anomaly Detection: From Benchmark Dataset to Spatial-Spectrum Adaptation Network](http://ieeexplore.ieee.org/document/11414162) — score: 85.0
+- [ ] [Balancing Accuracy and Efficiency for Road Intersection Detection Method in Large-Scale High-Resolution Remote Sensing Imagery](http://ieeexplore.ieee.org/document/11419181) — score: 85.0
+- [ ] [Unsupervised Knowledge Distillation for Satellite Multiview Stereo With Uncertainty-Aware Supervision](http://ieeexplore.ieee.org/document/11422983) — score: 85.0
+- [ ] [Mobile-RetinaNet: A Lightweight Integrated Framework for Efficient Rotated Object Detection in Remote Sensing Images](http://ieeexplore.ieee.org/document/11373719) — score: 85.0
+- [ ] [LegoNet: Memory Footprint Reduction Through Block Weight Clustering](https://arxiv.org/abs/2603.06606) by Joseph Bingham, Noah Green, Saman Zonouz — score: 80.0
+- [ ] [DeepTreeMeasurer: Toward Precise Deep Regression of Individual Tree Measurements From Large-Scale ULS Forest Data](http://ieeexplore.ieee.org/document/11417984) — score: 80.0
+- [ ] [A Novel RCS Imaging Measurement Method Using Airborne SAR With CAC-RMA and Calibration](http://ieeexplore.ieee.org/document/11408876) — score: 80.0
+- [ ] [Deep Unfolding Real-Time Super-Resolution Using Subpixel-Shift Twin Image and Convex Self-Similarity Prior](http://ieeexplore.ieee.org/document/11414194) — score: 80.0
+- [ ] [Enhancing Dense Ship Detection in SAR Images Through Cluster-Region-Based Super-Resolution](http://ieeexplore.ieee.org/document/11410573) — score: 80.0
+- [ ] [Mixed Monotonicity Reachability Analysis of Neural ODE: A Trade-Off Between Tightness and Efficiency](https://arxiv.org/abs/2510.17859) by Abdelrahman Sayed Sayed, Pierre-Jean Meyer, Mohamed Ghazel — score: 75.0
+- [ ] [PSTNet: Physically-Structured Turbulence Network](https://arxiv.org/abs/2603.07957) by Boris Kriuk, Fedor Kriuk — score: 75.0
+- [ ] [PolyBlocks: A Compiler Infrastructure for AI Chips and Programming Frameworks](https://arxiv.org/abs/2603.06731) by Uday Bondhugula, Akshay Baviskar, Navdeep Katel, Vimal Patel, Anoop JS, Arnab Dutta — score: 75.0
+- [ ] [X-MethaneWet: A Cross-scale Global Wetland Methane Emission Benchmark Dataset for Advancing Science Discovery with AI](https://arxiv.org/abs/2505.18355) by Yiming Sun, Shuo Chen, Shengyu Chen, Chonghao Qiu, Licheng Liu, Youmi Oh, Sparkle L. Malone, Gavin McNicol, Qianlai Zhuang, Chris Smith, Yiqun Xie, Xiaowei Jia — score: 75.0
+- [ ] [Concurrent training methods for Kolmogorov-Arnold networks: Disjoint datasets and FPGA implementation](https://arxiv.org/abs/2512.18921) by Andrew Polar, Michael Poluektov — score: 75.0
+- [ ] [Efficient One-Step Orthogonal Consensus Framework for Multiview Remote Sensing Clustering](http://ieeexplore.ieee.org/document/11404236) — score: 75.0
+- [ ] [GGCT-Net: A Dual-Branch Gated Graph Convolution and Grouped Cross-Attention Transformer Network for Hyperspectral Unmixing](http://ieeexplore.ieee.org/document/11414425) — score: 75.0
+- [ ] [Thin Cloud Removal Method Based on Low-Frequency Residual Diffusion and High-Frequency Modulation Refinement by Laplacian Pyramid Decoupling](http://ieeexplore.ieee.org/document/11411846) — score: 75.0
+- [ ] [Semantic Segmentation of Land Cover in Remote Sensing Images Based on Multiscale Feature Adaptive Enhancement](http://ieeexplore.ieee.org/document/11386853) — score: 75.0
+- [ ] [The AetherFloat Family: Block-Scale-Free Quad-Radix Floating-Point Architectures for AI Accelerators](https://arxiv.org/abs/2603.08741) by Keita Morisaki — score: 75.0
+- [ ] [Latent Generative Models with Tunable Complexity for Compressed Sensing and other Inverse Problems](https://arxiv.org/abs/2603.07357) by Sean Gunn, Jorio Cocola, Oliver De Candido, Vaggos Chatziafratis, Paul Hand — score: 75.0
+- [ ] [PolyBlocks: A Compiler Infrastructure for AI Chips and Programming Frameworks](https://arxiv.org/abs/2603.06731) by Uday Bondhugula, Akshay Baviskar, Navdeep Katel, Vimal Patel, Anoop JS, Arnab Dutta — score: 75.0
+- [ ] [Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression](https://arxiv.org/abs/2603.10410) by Taehyung Kwon, Yeonje Choi, Yeongho Kim, Kijung Shin — score: 75.0
+- [ ] [AI Power on the Edge](https://semiengineering.com/ai-power-on-the-edge/) by Brian Bailey — score: 75.0
+- [ ] [Cross-Resolution Attention Network for High-Resolution PM2.5 Prediction](https://arxiv.org/abs/2603.11725) by Ammar Kheder, Helmi Toropainen, Wenqing Peng, Samuel Ant\~ao, Zhi-Song Liu, Michael Boy — score: 75.0
+- [ ] [Capturing Temporal Dynamics in Large-Scale Canopy Tree Height Estimation](https://arxiv.org/abs/2501.19328) by Jan Pauls, Max Zimmer, Berkant Turan, Sassan Saatchi, Philippe Ciais, Sebastian Pokutta, Fabian Gieseke — score: 75.0
+- [ ] [Depth of Liquid Water Infiltration in Greenland Firn Based on L-Band Radiometry, a Snow Physics Model, and Machine Learning](http://ieeexplore.ieee.org/document/11417962) — score: 75.0
+- [ ] [PolSAR Super-Resolution by Fusion of LR-PolSAR and HR-SinSAR Based on Diffusion Model](http://ieeexplore.ieee.org/document/11414190) — score: 75.0
+- [ ] [Context2Context: A Zero-Shot SAR Image Speckle Filter](http://ieeexplore.ieee.org/document/11419182) — score: 75.0
+- [ ] [Building Segmentation of Hazy Aerial Images via Collaborative Decoupling Knowledge Learning](http://ieeexplore.ieee.org/document/11421459) — score: 75.0
+- [ ] [Glance-Focus-Gaze: A novel Eagle-Eye Vision-Inspired Panorama-Population-Individual progressive screening paradigm to capture ships in SAR images](https://www.sciencedirect.com/science/article/pii/S0924271626001000?dgcid=rss_sd_all) — score: 75.0
+- [ ] [Estimation of Energy-dissipation Lower-bounds for Neuromorphic Learning-in-memory](https://arxiv.org/abs/2402.14878) by Zihao Chen, Faiek Ahsan, Johannes Leugering, Gert Cauwenberghs, Shantanu Chakrabartty — score: 70.0
+- [ ] [Physics-Informed Diffusion Model for Generating Synthetic Extreme Rare Weather Events Data](https://arxiv.org/abs/2603.06782) by Marawan Yakout, Tannistha Maiti, Monira Majhabeen, Tarry Singh — score: 70.0
+- [ ] [NEST: Network- and Memory-Aware Device Placement For Distributed Deep Learning](https://arxiv.org/abs/2603.06798) by Irene Wang, Vishnu Varma Venkata, Arvind Krishnamurthy, Divya Mahajan — score: 70.0
+- [ ] [Accelerated Predictive Coding Networks via Direct Kolen-Pollack Feedback Alignment](https://arxiv.org/abs/2602.15571) by Davide Casnici, Martin Lefebvre, Justin Dauwels, Charlotte Frenkel — score: 70.0
+- [ ] [Reconsidering the energy efficiency of spiking neural networks](https://arxiv.org/abs/2409.08290) by Zhanglu Yan, Zhenyu Bai, Weng-Fai Wong — score: 70.0
+- [ ] [Crowdsourcing the Frontier: Advancing Hybrid Physics-ML Climate Simulation via a $50,000 Kaggle Competition](https://arxiv.org/abs/2511.20963) by Jerry Lin, Zeyuan Hu, Tom Beucler, Katherine Frields, Hannah Christensen, Walter Hannah, Helge Heuer, Peter Ukkonnen, Laura A. Mansfield, Tian Zheng, Liran Peng, Ritwik Gupta, Pierre Gentine, Yusef Al-Naher, Mingjiang Duan, Kyo Hattori, Weiliang Ji, Chunhan Li, Kippei Matsuda, Naoki Murakami, Shlomo Ron, Marec Serlin, Hongjian Song, Yuma Tanabe, Daisuke Yamamoto, Jianyao Zhou, Mike Pritchard — score: 70.0
+- [ ] [Reconstruction of 500-m Resolution CYGNSS Water Map Using Physics-Constrained Interpolation and Three-Parameter Exponential Threshold Algorithm](http://ieeexplore.ieee.org/document/11408260) — score: 70.0
+- [ ] [Small-Vehicle Change Detection in UAV Imagery via Physics-Aware Spatiotemporal Cues and Reproducible Evaluation](http://ieeexplore.ieee.org/document/11407963) — score: 70.0
+- [ ] [Causally regularized full-resolution channel attention and frequency refinement for cloud removal in satellite imagery](https://www.sciencedirect.com/science/article/pii/S0924271626000961?dgcid=rss_sd_all) — score: 70.0
+- [ ] [HBM4E Raises The Bar For AI Memory Bandwidth](https://semiengineering.com/hbm4e-raises-the-bar-for-ai-memory-bandwidth/) by Nidish Kamath — score: 70.0
+- [ ] [TinyNav: End-to-End TinyML for Real-Time Autonomous Navigation on Microcontrollers](https://arxiv.org/abs/2603.11071) by Pooria Roy, Nourhan Jadallah. Tomer Lapid, Shahzaib Ahmad, Armita Afroushe, Mete Bayrak — score: 70.0
+- [ ] [ECHOSAT: Estimating Canopy Height Over Space And Time](https://arxiv.org/abs/2602.21421) by Jan Pauls, Karsten Schr\"odter, Sven Ligensa, Martin Schwartz, Berkant Turan, Max Zimmer, Sassan Saatchi, Sebastian Pokutta, Philippe Ciais, Fabian Gieseke — score: 70.0
+- [ ] [Learning Modality Geometry for Multispectral Object Detection: Adaptive Spacing and 3-D Rotary Position Embedding](http://ieeexplore.ieee.org/document/11422990) — score: 70.0
+- [ ] [Bridging Extreme Viewpoint Gap: Robust Cross-Domain Matching of Tower Surveillance and Satellite Images for Precise Geolocation](http://ieeexplore.ieee.org/document/11419175) — score: 70.0
+- [ ] [KGCS: Zero-Annotation Expert-Knowledge Injection for Object Detection in Aerial Images](http://ieeexplore.ieee.org/document/11419164) — score: 70.0
+- [ ] [Enhanced Retrieval of Precipitable Water Vapor Over Land: An Approach for Algorithmic Improvement and Performance Assessment](http://ieeexplore.ieee.org/document/11397434) — score: 70.0
+- [ ] [SBSNet: Spatial–Spectral Background–Target Separation Network for Hyperspectral Target Detection](http://ieeexplore.ieee.org/document/11397668) — score: 70.0
+- [ ] [FireScope: Wildfire Risk Prediction with a Chain-of-Thought Oracle](https://arxiv.org/abs/2511.17171) by Mario Markov (INSAIT, Sofia University "St. Kliment Ohridski"), Stefan Maria Ailuro (INSAIT, Sofia University "St. Kliment Ohridski"), Luc Van Gool (INSAIT, Sofia University "St. Kliment Ohridski"), Konrad Schindler (ETH Zurich), Danda Pani Paudel (INSAIT, Sofia University "St. Kliment Ohridski") — score: 65.0
+- [ ] [Chip Industry Technical Paper Roundup: Mar. 9](https://semiengineering.com/chip-industry-technical-paper-roundup-mar-9/) by Linda Christensen — score: 65.0
+- [ ] [Latent Generative Models with Tunable Complexity for Compressed Sensing and other Inverse Problems](https://arxiv.org/abs/2603.07357) by Sean Gunn, Jorio Cocola, Oliver De Candido, Vaggos Chatziafratis, Paul Hand — score: 65.0
+- [ ] [An Estimate of Effective Resolution for CYGNSS Surface Water Detection Revealed by Comparison With Multisensor Optical Data](http://ieeexplore.ieee.org/document/11407967) — score: 65.0
+- [ ] [Angular Consistency Adaptive Filtering and Complex Generalized Gaussian-Based Phase Linking for DS-InSAR](http://ieeexplore.ieee.org/document/11414183) — score: 65.0
+- [ ] [FGR-GA: Integrating Fine-Grained Representation Refinement and Group-Aware Alignment for Remote Sensing Image–Text Retrieval](http://ieeexplore.ieee.org/document/11419188) — score: 65.0
+- [ ] [HURRI-GAN: A Novel Approach for Hurricane Bias-Correction Beyond Gauge Stations using Generative Adversarial Networks](https://arxiv.org/abs/2603.06649) by Noujoud Nadera, Hadi Majed, Stefanos Giaremis, Rola El Osta, Clint Dawson, Carola Kaiser, Hartmut Kaiser — score: 60.0
+- [ ] [Uncertainty-Aware Solar Flare Regression](https://arxiv.org/abs/2603.06712) by Jinsu Hong, Chetraj Pandey, Berkay Aydin — score: 60.0
+- [ ] [Gap-Filling of Highly Incomplete Daily Chlorophyll-a Remote Sensing Time-Series Data Over the Eastern China Seas via Spatiotemporal-Periodicity Aware Tensor Completion](http://ieeexplore.ieee.org/document/11414192) — score: 60.0
+- [ ] [CarbonBench: A Global Benchmark for Upscaling of Carbon Fluxes Using Zero-Shot Learning](https://arxiv.org/abs/2603.09868) by Aleksei Rozanov, Arvind Renganathan, Yimeng Zhang, Vipin Kumar — score: 60.0
+- [ ] [TrainDeeploy: Hardware-Accelerated Parameter-Efficient Fine-Tuning of Small Transformer Models at the Extreme Edge](https://arxiv.org/abs/2603.09511) by Run Wang, Victor J. B. Jung, Philip Wiese, Francesco Conti, Alessio Burrello, Luca Benini — score: 60.0
+- [ ] [Deep Randomized Distributed Function Computation (DeepRDFC): Neural Distributed Channel Simulation](https://arxiv.org/abs/2603.10750) by Didrik Bergstr\"om, Onur G\"unl\"u — score: 60.0
+- [ ] [Rethinking Few-Shot Image Fusion: Granular Ball Priors Enable General-Purpose Deep Fusion](https://arxiv.org/abs/2504.08937) by Minjie Deng, Yan Wei, An Wu, Yuncan Ouyang, Hao Zhai, Qianyao Peng — score: 60.0
+- [ ] [AutoScout: Structured Optimization for Automating ML System Configuration](https://arxiv.org/abs/2603.11603) by Jimmy Shong, Yuhan Ding, Yihan Jiang, Liheng Jing, Haonan Chen, Gaokai Zhang, Aditya Akella, Fan Lai — score: 60.0
+- [ ] [Geometry of Singular Foliations and Learning Manifolds in ReLU Networks via the Data Information Matrix](https://arxiv.org/abs/2409.07412) by Eliot Tron, Rita Fioresi — score: 60.0
+- [ ] [Estimating Canopy Height at Scale](https://arxiv.org/abs/2406.01076) by Jan Pauls, Max Zimmer, Una M. Kelly, Martin Schwartz, Sassan Saatchi, Philippe Ciais, Sebastian Pokutta, Martin Brandt, Fabian Gieseke — score: 60.0
+- [ ] [Pansharpening With Structure and Coefficient-Driven Structure Tensor Total Variation Priors](http://ieeexplore.ieee.org/document/11419183) — score: 60.0
+- [ ] [SpectralZero: Text-Driven Spectral–Spatial Alignment for Zero-Shot Hyperspectral Image Classification](http://ieeexplore.ieee.org/document/11418730) — score: 60.0
+- [ ] [Hyperspectral Sparse Unmixing via Joint Robust Spatial Priors and Weighted Total Variation Regularization](http://ieeexplore.ieee.org/document/11410541) — score: 60.0
+- [ ] [STAR: Spatial and Temporal Context-Aware Network for Resident Space Object Detection](http://ieeexplore.ieee.org/document/11397566) — score: 60.0
+- [ ] [Urban PolSAR decomposition: Challenges and new directions for emerging SAR technologies](https://www.sciencedirect.com/science/article/pii/S0034425726001331?dgcid=rss_sd_all) — score: 60.0
+- [ ] [Efficient feature matching for UAV images based on compact GPU data scheduling](https://www.sciencedirect.com/science/article/pii/S0924271626001280?dgcid=rss_sd_all) — score: 60.0
+- [ ] [Online Neural Networks for Change-Point Detection](https://arxiv.org/abs/2010.01388) by Mikhail Hushchyn, Kenenbek Arzymatov, Denis Derkach — score: 55.0
+- [ ] [FedLECC: Cluster- and Loss-Guided Client Selection for Federated Learning under Non-IID Data](https://arxiv.org/abs/2603.08911) by Daniel M. Jimenez-Gutierrez, Giovanni Giunta, Mehrdad Hassanzadeh, Aris Anagnostopoulos, Ioannis Chatzigiannakis, Andrea Vitaletti — score: 55.0
+- [ ] [Data-Driven Integration Kernels for Interpretable Nonlocal Operator Learning](https://arxiv.org/abs/2603.10305) by Savannah L. Ferretti, Jerry Lin, Sara Shamekh, Jane W. Baldwin, Michael S. Pritchard, Tom Beucler — score: 55.0
+- [ ] [Micro-Diffusion Compression - Binary Tree Tweedie Denoising for Online Probability Estimation](https://arxiv.org/abs/2603.08771) by Roberto Tacconelli — score: 55.0
+- [ ] [A Stable Neural Statistical Dependence Estimator for Autoencoder Feature Analysis](https://arxiv.org/abs/2603.11428) by Bo Hu, Jose C Principe — score: 55.0
+- [ ] [A Hierarchical Robust Combined Index for Agricultural Drought Detection and Monitoring Using Earth Observation Big Data and Google Earth Engine: Application to a Case Study in Southern Italy](http://ieeexplore.ieee.org/document/11393587) — score: 55.0
+- [ ] [Retrieval-Augmented Multi-scale Framework for County-Level Crop Yield Prediction Across Large Regions](https://arxiv.org/abs/2603.07305) by Yiming Sun, Qi Cheng, Licheng Liu, Runlong Yu, Yiqun Xie, Xiaowei Jia — score: 50.0
+- [ ] [MoE-SpAc: Efficient MoE Inference Based on Speculative Activation Utility in Heterogeneous Edge Scenarios](https://arxiv.org/abs/2603.09983) by Shuhuai Li, Jianghao Lin, Dongdong Ge, Yinyu Ye — score: 50.0
+- [ ] [A New Tensor Network: Tubal Tensor Train and Its Applications](https://arxiv.org/abs/2603.10503) by Salman Ahmadi-Asl, Valentin Leplat, Anh-Huy Phan, Andrzej Cichocki — score: 50.0
+- [ ] [Integrating Spatial Context With Generative Model for Building Reconstruction From Airborne LiDAR Point Clouds](http://ieeexplore.ieee.org/document/11419187) — score: 50.0
+- [ ] [A Persistent-State Dataflow Accelerator for Memory-Bound Linear Attention Decode on FPGA](https://arxiv.org/abs/2603.05931) by Neelesh Gupta, Peter Wang, Rajgopal Kannan, Viktor K. Prasanna — score: 45.0
+- [ ] [Predictive Coding Networks and Inference Learning: Tutorial and Survey](https://arxiv.org/abs/2407.04117) by Bj\"orn van Zwol, Ro Jefferson, Egon L. van den Broek — score: 45.0
+- [ ] [FALCON: Future-Aware Learning with Contextual Object-Centric Pretraining for UAV Action Recognition](https://arxiv.org/abs/2409.18300) by Ruiqi Xian, Xiyang Wu, Tianrui Guan, Xijun Wang, Boqing Gong, Dinesh Manocha — score: 45.0
+- [ ] [An Efficient Self-supervised Seismic Data Reconstruction Method Based on Self-Consistency Learning](https://arxiv.org/abs/2411.00911) by Mingwei Wang, Junheng Peng, Yingtian Liu, Yong Li — score: 45.0
