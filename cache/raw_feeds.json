@@ -14061,5 +14061,54 @@
     "link": "https://semiengineering.com/bias-and-temperature-dependent-noise-measurements-to-investigate-carrier-transport-at-the-tellurium-interface-pohang-university/",
     "content": "<p>A new technical paper, &#8220;Revealing and Engineering Contact-Origin Noise in Ultrathin Tellurium Transistors,&#8221; was published by researchers at Pohang University of Science and Technology.</p>\n<p><strong>Abstract</strong></p>\n<p>&#8220;Tellurium (Te) has emerged as a promising p-type semiconductor for ultrathin electronics owing to its strong air stability, excellent hole transport, narrow bandgap, and BEOL-integration compatibility. However, when the Te thickness approaches the depletion width, traps at the contact interface strongly affect carrier injection and introduce excess low-frequency noise. Here, we systematically investigate the origin of noise in ultrathin Te field-effect transistors (FETs) through bias- and temperature-dependent 1/f noise analysis. In devices with a 5 nm Te channel, contact-origin trap-assisted tunneling dominates in the low-current regime, producing deviations from the carrier-number-fluctuation (CNF) model at 300 K. Cooling to 100 K suppresses trap activation and restores typical CNF behavior, whereas 13 nm devices maintain CNF consistency at both temperatures due to screening of the contact region. To mitigate contact-origin noise, a locally thickened (13 nm) Te layer was inserted beneath the source and drain metal contact while preserving a 5 nm active Te channel. This design restores CNF behavior at room temperature, lowers the noise level in the nA current regime by an order of magnitude, and decreases the drain-bias dependence of noise by approximately twofold. The results identify near-contact traps as the primary noise source in ultrathin Te and demonstrate contact-centric engineering as an effective strategy to decouple device scaling from noise, enabling reliable, low-noise Te electronics.&#8221;</p>\n<p>Find the <a href=\"https://pubs.rsc.org/en/content/articlehtml/2026/na/d5na01062d\">technical paper here</a>. March 2026.</p>\n<p>Lee, Hae-Won, Minjae Kim, Junho Ban, Jae Hyeon Jun, Kiyung Kim, Useok Choi, Jung Tae Lee, and Byoung Hun Lee. &#8220;Revealing and engineering contact-origin noise in ultrathin tellurium transistors.&#8221; Nanoscale Advances (2026).</p>\n<p>The post <a href=\"https://semiengineering.com/bias-and-temperature-dependent-noise-measurements-to-investigate-carrier-transport-at-the-tellurium-interface-pohang-university/\">Bias- and Temperature-Dependent Noise Measurements to Investigate Carrier Transport at the Tellurium Interface (POSTECH)</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>",
     "author": "Technical Paper Link"
+  },
+  {
+    "id": "0fba53aee7aabdf0",
+    "title": "Escaping the SQL Jungle",
+    "link": "https://towardsdatascience.com/escaping-the-sql-jungle/",
+    "content": "<p>Most data platforms don\u2019t break overnight; they grow into complexity, query by query. Over time, business logic spreads across SQL scripts, dashboards, and scheduled jobs until the system becomes a \u201cSQL jungle.\u201d This article explores how that happens and how to bring structure back.</p>\n<p>The post <a href=\"https://towardsdatascience.com/escaping-the-sql-jungle/\">Escaping the SQL Jungle</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "author": "Mike Huls"
+  },
+  {
+    "id": "e5ba86333cf2e903",
+    "title": "A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations",
+    "link": "https://towardsdatascience.com/a-gentle-introduction-to-nonlinear-constrained-optimization-with-piecewise-linear-approximations/",
+    "content": "<p>Piecewise linear approximations are a practical way to handle nonlinear constrained models using LP/MIP<br />\nsolvers like Gurobi.</p>\n<p>The post <a href=\"https://towardsdatascience.com/a-gentle-introduction-to-nonlinear-constrained-optimization-with-piecewise-linear-approximations/\">A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "author": "Caio Biondi de Carvalho"
+  },
+  {
+    "id": "d1733b31ec07703f",
+    "title": "A low-cost passive corner reflector design for SAR and InSAR applications",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726001422?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 May 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 338</p><p>Author(s): S. Azadnejad, A. Trafford, F. O'Loughlin, E.P. Holohan, B. Dashwood, A. White, J. Chambers, S. Donohue</p>",
+    "author": ""
+  },
+  {
+    "id": "aa55af3664357b2e",
+    "title": "Remote sensing-based estimation of global litterfall dynamics in forest ecosystems and its potential impact on soil respiration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726001434?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 May 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 338</p><p>Author(s): Chunsheng Wang, Qingjiu Tian, Wenmin Zhang, Lili Chang, Jia Tian, Rui Zhang</p>",
+    "author": ""
+  },
+  {
+    "id": "c770017421f75107",
+    "title": "A physics-based AI algorithm integrating radiative transfer and machine learning for joint retrieval of aerosol layer height and optical thickness from hyperspectral satellite observations over the ocean",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726001495?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 May 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 338</p><p>Author(s): Ruijie Yao, Chong Shi, Husi Letu, Shuai Yin, Teruyuki Nakajima, Miho Sekiguchi, Jian Xu, Lanlan Rao, Wenwu Wang, Chenqian Tang, Ruijie Han</p>",
+    "author": ""
+  },
+  {
+    "id": "33317d1ca9f77e3a",
+    "title": "Suspended sediment decline intensified riverbank erosion and collapse in the Yangtze river mainstream",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626001371?dgcid=rss_sd_all",
+    "content": "<p>Publication date: May 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 235</p><p>Author(s): Zhenyu Guo, Kebing Chen, Xuejiao Hou, Lian Feng, Lingling Zhu</p>",
+    "author": ""
+  },
+  {
+    "id": "42180fbeed0b9db2",
+    "title": "SGCA: A Scribble-Guided Cross-Attention framework for multimodal remote sensing change detection",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626001292?dgcid=rss_sd_all",
+    "content": "<p>Publication date: May 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 235</p><p>Author(s): Yongjie Zheng, Hao Liu, Houcai Guo, Sicong Liu, Lorenzo Bruzzone</p>",
+    "author": ""
   }
 ]
