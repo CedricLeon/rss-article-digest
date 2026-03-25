@@ -16,7 +16,7 @@ def generate_markdown():
     lines.append("# Curated Research Articles\n")
     lines.append(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n")
 
-    for a in ranked[:100]:  # Already filtered previously
+    for a in ranked[:50]:  # Already filtered previously
         title = a["title"].replace("\n", " ").strip()
         url = a["link"]
         score = f"{a['score']:.1f}"
