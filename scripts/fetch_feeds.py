@@ -65,6 +65,38 @@ def load_feed_list():
                 
     return feeds
 
+def extract_authors(entry) -> str:
+    """
+    Robustly extract authors from a feedparser entry, handling the main formats:
+      - Atom feeds (arXiv, ACM, Nature, SemiEng): `authors` is a list of dicts
+            e.g. [{'name': 'John Doe'}, {'name': 'Jane Smith'}]
+      - IEEE Xplore RSS: `authors` is a semicolon-separated string
+            e.g. 'Kim, Y.;Lee, H.;Choi, S.;'
+      - Generic RSS: plain `author` string
+      - ScienceDirect and others: no author field at all → returns ''
+    """
+    authors_field = entry.get("authors")
+
+    # List of dicts (Atom-style: arXiv, ACM, Nature, SemiEng, ...)
+    if isinstance(authors_field, list) and authors_field:
+        names = [p.get("name", "").strip() for p in authors_field if p.get("name", "").strip()]
+        if names:
+            return ", ".join(names)
+
+    # Semicolon-separated string (IEEE Xplore)
+    if isinstance(authors_field, str) and authors_field.strip():
+        names = [n.strip() for n in authors_field.split(";") if n.strip()]
+        if names:
+            return ", ".join(names)
+
+    # Plain author string fallback (generic RSS)
+    author = entry.get("author", "").strip()
+    if author:
+        return author
+
+    return ""
+
+
 def fetch_all_feeds():
     feeds = load_feed_list()
     seen_ids = load_seen_ids()
@@ -95,9 +127,7 @@ def fetch_all_feeds():
                 content = entry.summary
             
             # Author
-            author = entry.get("author", "")
-            if not author and "authors" in entry:
-                 author = ", ".join([p.get("name", "") for p in entry.authors if "name" in p])
+            author = extract_authors(entry)
 
             # Store the new entry
             new_entries.append({
