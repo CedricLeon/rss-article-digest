@@ -11919,5 +11919,47 @@
     "link": "https://semiengineering.com/systematic-analysis-of-cpu-induced-slowdowns-in-multi-gpu-llm-inference-georgia-tech/",
     "content": "<p>A new technical paper, &#8220;Characterizing CPU-Induced Slowdowns in Multi-GPU LLM Inference,&#8221; was published by the Georgia Institute of Technology.</p>\n<p><strong>Abstract</strong></p>\n<p>&#8220;Large-scale machine learning workloads increasingly rely on multi-GPU systems, yet their performance is often limited by an overlooked component: the CPU. Through a detailed study of modern large language model (LLM) inference and serving workloads, we find that multi-GPU performance frequently degrades not because GPUs are saturated, but because CPUs fail to keep the GPUs busy. Under limited CPU allocations, systems exhibit symptoms such as delayed kernel launch, stalled communication, and increased tokenization latency, leading to severe GPU underutilization even when ample GPU resources are available. This work presents a systematic analysis of CPU-induced slowdowns in multi-GPU LLM inference. We show that these bottlenecks persist even in serving stacks that employ process-level separation and modern GPU-side optimizations such as CUDA Graphs. Since the marginal cost of additional CPU cores is small relative to GPU instance pricing, our evaluation indicates that increasing the number of CPU cores can substantially improve performance and stability at minimal additional cost. Under moderate serving load, we observe that CPU-starved configurations frequently time out, while providing adequate CPU resources restores responsiveness and reduces time-to-first-token (TTFT) latency by 1.36-5.40x across configurations, all without requiring additional GPUs. This work shows that CPU provisioning is a crucial factor in multi-GPU LLM inference configuration, helping prevent control-side bottlenecks.&#8221;</p>\n<p>Find the <a href=\"https://arxiv.org/abs/2603.22774\">technical paper here</a>. March 2026.</p>\n<p>Chung, Euijun, Yuxiao Jia, Aaron Jezghani, and Hyesoon Kim. &#8220;Characterizing CPU-Induced Slowdowns in Multi-GPU LLM Inference.&#8221;\u00a0<i>arXiv preprint arXiv:2603.22774</i>\u00a0(2026).</p>\n<p>The post <a href=\"https://semiengineering.com/systematic-analysis-of-cpu-induced-slowdowns-in-multi-gpu-llm-inference-georgia-tech/\">Systematic Analysis of CPU-Induced Slowdowns in Multi-GPU LLM Inference (Georgia Tech)</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>",
     "author": "Technical Paper Link"
+  },
+  {
+    "id": "5503c36bdf99bae3",
+    "title": "Using OpenClaw as a Force Multiplier: What One Person Can Ship with Autonomous Agents",
+    "link": "https://towardsdatascience.com/using-openclaw-as-a-force-multiplier-what-one-person-can-ship-with-autonomous-agents/",
+    "content": "<p>It's easier than ever to 10x your output with agentic AI.</p>\n<p>The post <a href=\"https://towardsdatascience.com/using-openclaw-as-a-force-multiplier-what-one-person-can-ship-with-autonomous-agents/\">Using OpenClaw as a Force Multiplier: What One Person Can Ship with Autonomous Agents</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "author": "Nick Lawson"
+  },
+  {
+    "id": "b1c279ed87bca4e5",
+    "title": "From NetCDF to Insights: A Practical Pipeline for City-Level Climate Risk Analysis",
+    "link": "https://towardsdatascience.com/from-netcdf-to-insights-a-practical-pipeline-for-city-level-climate-risk-analysis/",
+    "content": "<p>Integrating CMIP6 projections, ERA5 reanalysis, and impact models into a lightweight, interpretable workflow</p>\n<p>The post <a href=\"https://towardsdatascience.com/from-netcdf-to-insights-a-practical-pipeline-for-city-level-climate-risk-analysis/\">From NetCDF to Insights: A Practical Pipeline for City-Level Climate Risk Analysis</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "author": "Aakash Goswami"
+  },
+  {
+    "id": "29592de70f8e0a55",
+    "title": "HBiM2: A multi-angle hyperspectral soil radiative transfer model for simulating the reflectance of dry and wet soils",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726001513?dgcid=rss_sd_all",
+    "content": "<p>Publication date: June 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 339</p><p>Author(s): Anxin Ding, Ziti Jiao, Jianbo Qi, Jing Guo, Peiqi Yang, Yadong Dong, Xiaoning Zhang, Guodong Zhang, Jing M. Chen</p>",
+    "author": ""
+  },
+  {
+    "id": "aba7058ff43f7afd",
+    "title": "Azi-Vec: High-resolution <u>Azi</u>muth-sensitive PolSAR image generation for <u>Ve</u>hicle automatic target re<u>c</u>ognition",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626001528?dgcid=rss_sd_all",
+    "content": "<p>Publication date: June 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 236</p><p>Author(s): Yuzhen Xie, Huaiyue Ding, Ye Liu, Nengcai Li, Deliang Xiang, Yi Su</p>",
+    "author": ""
+  },
+  {
+    "id": "48fb54c8e2527aa1",
+    "title": "A continual evolving Visual-Inertial Odometry for drones in flight",
+    "link": "https://www.sciencedirect.com/science/article/pii/S092427162600153X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: June 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 236</p><p>Author(s): Yangfan Zhou, Wenhui Wei, Renshu Li, Xin Liu, Jiadong Li</p>",
+    "author": ""
+  },
+  {
+    "id": "f545b5cff58b9a15",
+    "title": "Robust solution for the ambiguous blind perspective-n-line problem",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626001255?dgcid=rss_sd_all",
+    "content": "<p>Publication date: June 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 236</p><p>Author(s): Xiangxi Tian, Jinyuan Shao, Shuang Li, Jie Shan</p>",
+    "author": ""
   }
 ]
