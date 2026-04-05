@@ -9546,5 +9546,40 @@
     "link": "https://semiengineering.com/automated-security-assertion-generation-using-llms-u-of-florida/",
     "content": "<p>A new technical paper, &#8220;Assertain: Automated Security Assertion Generation Using Large Language Models,&#8221; was published by University of Florida.</p>\n<p><strong>Abstract</strong><br />\n&#8220;The increasing complexity of modern system-on-chip designs amplifies hardware security risks and makes manual security property specification a major bottleneck in formal property verification. This paper presents Assertain, an automated framework that integrates RTL design analysis, Common Weakness Enumeration (CWE) mapping, and threat model intelligence to automatically generate security properties and executable SystemVerilog Assertions. Assertain leverages large language models with a self-reflection refinement mechanism to ensure both syntactic correctness and semantic consistency. Evaluated on 11 representative hardware designs, Assertain outperforms GPT-5 by 61.22%, 59.49%, and 67.92% in correct assertion generation, unique CWE coverage, and architectural flaw detection, respectively. These results demonstrate that Assertain significantly expands vulnerability coverage, improves assertion quality, and reduces manual effort in hardware security verification.&#8221;</p>\n<p>Find the <a href=\"https://arxiv.org/abs/2604.01583\">technical paper here</a>. April 2026.</p>\n<p>arXiv:2604.01583<br />\nAuthors: Shams Tarek, Dipayan Saha, Khan Thamid Hasan, Sujan Kumar Saha, Mark Tehranipoor, Farimah Farahmandi</p>\n<p>The post <a href=\"https://semiengineering.com/automated-security-assertion-generation-using-llms-u-of-florida/\">Automated Security Assertion Generation Using LLMs (U. of Florida)</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>",
     "author": "Technical Paper Link"
+  },
+  {
+    "id": "5aaeeae2f2b0ad80",
+    "title": "Building a Python Workflow That Catches Bugs Before Production",
+    "link": "https://towardsdatascience.com/building-a-python-workflow-that-catches-bugs-before-production/",
+    "content": "<p>Using modern tooling to identify defects earlier in the software lifecycle.</p>\n<p>The post <a href=\"https://towardsdatascience.com/building-a-python-workflow-that-catches-bugs-before-production/\">Building a Python Workflow That Catches Bugs Before Production</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "author": "Thomas Reid"
+  },
+  {
+    "id": "97ec4b564deac366",
+    "title": "Building Robust Credit Scoring Models with Python",
+    "link": "https://towardsdatascience.com/building-robust-credit-scoring-models-with-python/",
+    "content": "<p>A Practical Guide to Measuring Relationships between Variables for Feature Selection in a Credit Scoring.</p>\n<p>The post <a href=\"https://towardsdatascience.com/building-robust-credit-scoring-models-with-python/\">Building Robust Credit Scoring Models with Python</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "author": "JUNIOR JUMBONG"
+  },
+  {
+    "id": "22843ac70c950ffd",
+    "title": "Downscaling of satellite passive microwave brightness temperature through super-resolution reconstruction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726001756?dgcid=rss_sd_all",
+    "content": "<p>Publication date: June 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 339</p><p>Author(s): Jiaxin Chen, Ji Zhou, Tao Zhang, Shaojie Zhao, Ruyin Cao, Jin Ma, Wenbin Tang, Lin Feng</p>",
+    "author": ""
+  },
+  {
+    "id": "bbd8df24b484a3ca",
+    "title": "Crop height retrieval across different scenes with dual-pol backscattering and one-time in-situ data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S003442572600177X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: June 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 339</p><p>Author(s): Jinglong Liu, Jordi J. Mallorqui, Xavier F\u00e0bregas, Antoni Broquetas, Albert Aguasca, Mireia Mas, Feng Zhao, Yunjia Wang</p>",
+    "author": ""
+  },
+  {
+    "id": "7c79312a571431c1",
+    "title": "Evaluating the correction methods for NDVI angular effect based on decametric resolution BRDF observations over cropland",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726001732?dgcid=rss_sd_all",
+    "content": "<p>Publication date: June 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 339</p><p>Author(s): Yuhan Guo, Xihan Mu, Xiang Lyu, Dasheng Fan, Chengzhuo Lei, Donghui Xie, Guangjian Yan</p>",
+    "author": ""
   }
 ]
