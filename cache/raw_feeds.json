@@ -12108,5 +12108,40 @@
     "link": "https://semiengineering.com/emulation-based-soc-security-verification-u-of-florida/",
     "content": "<p>A new technical paper, &#8220;Emulation-based System-on-Chip Security Verification: Challenges and Opportunities,&#8221; was published by researchers at University of Florida.</p>\n<p><strong>Abstract</strong><br />\n&#8220;Increasing system-on-chip (SoC) heterogeneity, deep hardware/software integration, and the proliferation of third-party intellectual property (IP) have brought security validation to the forefront of semiconductor design. While simulation and formal verification remain indispensable, they often struggle to expose vulnerabilities that emerge only under realistic execution conditions, long software-driven interactions, and adversarial stimuli. In this context, hardware emulation is emerging as an increasingly important pre-silicon verification technology because it enables higher-throughput execution of RTL designs under realistic hardware/software workloads while preserving sufficient fidelity for security-oriented analysis.</p>\n<p>This paper presents a comprehensive survey and perspective on emulation-based security verification and validation. We organize the landscape of prior work across assertion-based security checking, coverage-driven exploration, adversarial testing, information-flow tracking, fault injection, and side-channel-oriented evaluation. We provide a structured view of emulation-enabled security verification workflows, including instrumentation, stimulus generation, runtime monitoring, and evidence-driven analysis. We also examine practical challenges related to observability, scalability, property specification, and the definition of security-oriented coverage metrics for emulation-based verification. Finally, we discuss emerging directions such as AI-assisted emulation, digital security twins, chiplet-scale security exploration, automated vulnerability assessment, and cloud-scale secure emulation. Overall, this paper positions emulation as a promising foundation for the next generation of pre-silicon hardware security assurance.&#8221;</p>\n<p>Find the <a href=\"https://arxiv.org/abs/2604.15073\">paper here</a>. April 2026.</p>\n<p>arXiv:2604.15073. Authors: Tanvir Rahman, Shuvagata Saha, Ahmed Y. Alhurubi, Sujan Kumar Saha, Farimah Farahmandi, Mark Tehranipoor</p>\n<p>The post <a href=\"https://semiengineering.com/emulation-based-soc-security-verification-u-of-florida/\">Emulation-based SoC Security Verification (U. of Florida)</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>",
     "author": "Technical Paper Link"
+  },
+  {
+    "id": "cffd8e11e7129776",
+    "title": "Your RAG System Retrieves the Right Data \u2014 But Still Produces Wrong Answers. Here\u2019s Why (and How to Fix It).",
+    "link": "https://towardsdatascience.com/your-rag-system-retrieves-the-right-data-but-still-produces-wrong-answers-heres-why-and-how-to-fix-it/",
+    "content": "<p>Your RAG system is retrieving the right documents with perfect scores \u2014 yet it still confidently returns the wrong answer.<br />\nI built a 220 MB local experiment that proves the hidden failure mode almost nobody talks about: conflicting context in the same retrieval window. Two contradictory documents come back, the model picks one, and you get a fluent but incorrect response with zero warning.<br />\nThis article shows exactly why it happens, the three production scenarios where it silently breaks, and the tiny pipeline layer that fixes it \u2014 no extra model, no GPU, no API key required.<br />\nThe system behaved exactly as designed. The answer was still wrong.</p>\n<p>The post <a href=\"https://towardsdatascience.com/your-rag-system-retrieves-the-right-data-but-still-produces-wrong-answers-heres-why-and-how-to-fix-it/\">Your RAG System Retrieves the Right Data \u2014 But Still Produces Wrong Answers. Here\u2019s Why (and How to Fix It).</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "author": "Emmimal P Alexander"
+  },
+  {
+    "id": "4c637820009b969b",
+    "title": "AI Agents Need Their Own Desk, and Git Worktrees Give Them One",
+    "link": "https://towardsdatascience.com/ai-agents-need-their-own-desk-and-git-worktrees-give-it-one/",
+    "content": "<p>Git worktrees, parallel agentic coding sessions, and the setup tax you should be aware of</p>\n<p>The post <a href=\"https://towardsdatascience.com/ai-agents-need-their-own-desk-and-git-worktrees-give-it-one/\">AI Agents Need Their Own Desk, and Git Worktrees Give Them One</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "author": "Ruben Broekx"
+  },
+  {
+    "id": "f36b67ed389d8cb1",
+    "title": "How to Learn Python for Data Science Fast in 2026 (Without Wasting Time)",
+    "link": "https://towardsdatascience.com/how-to-learn-python-so-fast-it-feels-like-cheating/",
+    "content": "<p>What I wish I did at the beginning of my journey</p>\n<p>The post <a href=\"https://towardsdatascience.com/how-to-learn-python-so-fast-it-feels-like-cheating/\">How to Learn Python for Data Science Fast in 2026 (Without Wasting Time)</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "author": "Egor Howell"
+  },
+  {
+    "id": "56302514097e1fe3",
+    "title": "Global annual cropland dynamics 2015\u20132024",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726002087?dgcid=rss_sd_all",
+    "content": "<p>Publication date: July 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 340</p><p>Author(s): Ahmad Khan, Peter Potapov, Svetlana Turubanova, Matthew C. Hansen, Alexandra Tyukavina, Andrew Poulson, Andres Hernandez-Serna, Xiao-Peng Song, Nancy Harris, Fred Stolle</p>",
+    "author": ""
+  },
+  {
+    "id": "bf34b6867607cdcf",
+    "title": "Heuristic quality coefficients for interferometric phase linking",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626001875?dgcid=rss_sd_all",
+    "content": "<p>Publication date: July 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 237</p><p>Author(s): Magnus Heimpel, Irena Hajnsek, Othmar Frey</p>",
+    "author": ""
   }
 ]
