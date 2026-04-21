@@ -27,14 +27,14 @@ jobs:
           pip install -r requirements.txt
 
       # ----------------------------------------------------
-      # Archive the previous week's file
+      # Compute the report filename (RSS-feed_YYYY-MM-DD_YYYY-WNN.md)
+      # and export it so later steps can reference it.
       # ----------------------------------------------------
-      - name: Archive last week's curated markdown
+      - name: Set report filename
         run: |
-          if [ -f output/curated_latest.md ]; then
-            DATE=$(date -u +"%Y%m%d")
-            cp output/curated_latest.md archive/curated_${DATE}.md
-          fi
+          DATE=$(date -u +"%Y-%m-%d")
+          WEEK=$(date -u +"%G-W%V")
+          echo "REPORT_FILE=output/RSS-feed_${DATE}_${WEEK}.md" >> $GITHUB_ENV
 
       # ----------------------------------------------------
       # Run the pipeline
@@ -70,26 +70,17 @@ jobs:
 
             See the attached file for details.
 
-          attachments: output/curated_latest.md
+          attachments: ${{ env.REPORT_FILE }}
 
       # ----------------------------------------------------
-      # Archive the current week's raw feed cache. Will overwrite last week's.
+      # Reset the raw feed cache to start fresh next week
       # ----------------------------------------------------
-      - name: Archive this week's raw feed cache
-        run: |
-          if [ -f cache/raw_feeds.json ]; then
-            cp cache/raw_feeds.json archive/raw_feeds_last_week.json
-          fi
-
-      # ----------------------------------------------------
-      # Delete this week's raw feed cache to start fresh next week
-      # ----------------------------------------------------
-      - name: Reset this week's raw feed cache
+      - name: Reset raw feed cache
         run: |
           echo "[]" > cache/raw_feeds.json
 
       # ----------------------------------------------------
-      # Commit updates
+      # Commit cache state (seen_ids + reset raw_feeds)
       # ----------------------------------------------------
       - name: Configure git
         run: |
@@ -102,9 +93,10 @@ jobs:
         run: |
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/CedricLeon/rss-article-digest.git
           if [ -n "$(git status --porcelain)" ]; then
-            git add output/curated_latest.md archive/ cache/
+            git add cache/ output/
             git commit -m "Weekly RSS update: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            git pull --rebase origin main
             git push origin HEAD:main
           else
-            echo "No new articles — nothing to commit."
+            echo "No changes to cache — nothing to commit."
           fi
