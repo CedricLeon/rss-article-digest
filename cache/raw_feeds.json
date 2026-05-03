@@ -10792,5 +10792,33 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0924271626002029?dgcid=rss_sd_all",
     "content": "<p>Publication date: July 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 237</p><p>Author(s): Yashuai Ji, Zhitao Fu, Han Nie, Bin Luo, Bo-Hui Tang</p>",
     "author": ""
+  },
+  {
+    "id": "42e88d16081ad841",
+    "title": "Which Regularizer Should You Actually Use? Lessons from 134,400 Simulations",
+    "link": "https://towardsdatascience.com/which-regularizer-should-you-actually-use-lessons-from-134400-simulations/",
+    "content": "<p>A practitioner's decision framework for Ridge, Lasso, and ElasticNet based on three quantities you can compute before fitting a model</p>\n<p>The post <a href=\"https://towardsdatascience.com/which-regularizer-should-you-actually-use-lessons-from-134400-simulations/\">Which Regularizer Should You Actually Use? Lessons from 134,400 Simulations</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "author": "Ahsaas Bajaj"
+  },
+  {
+    "id": "b49132ba87222646",
+    "title": "How a 2021 Quantization Algorithm Quietly Outperforms Its 2026 Successor",
+    "link": "https://towardsdatascience.com/how-a-2021-quantization-algorithm-quietly-outperforms-its-2026-successor/",
+    "content": "<p>One scale parameter determines accuracy in rotation-based vector quantization.</p>\n<p>The post <a href=\"https://towardsdatascience.com/how-a-2021-quantization-algorithm-quietly-outperforms-its-2026-successor/\">How a 2021 Quantization Algorithm Quietly Outperforms Its 2026 Successor</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "author": "Amit Portnoy"
+  },
+  {
+    "id": "85fdd55564f3ca2e",
+    "title": "From PS-InSAR observations to building-level risk: A data-driven framework for urban structural resilience",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726002245?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 1 August 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 341</p><p>Author(s): Mengshi Yang, Weibin Huang, Menghua Li, Ling Chang</p>",
+    "author": ""
+  },
+  {
+    "id": "68eef225b338b8aa",
+    "title": "Potential Route To Photonic FPCA Using NV Low-Loss Phase Change Material (Oxford)",
+    "link": "https://semiengineering.com/potential-route-to-photonic-fpca-using-nv-low-loss-phase-change-material-oxford/",
+    "content": "<p>A new technical paper, &#8220;Nonvolatile photonic field-programmable coupler array,&#8221; was published by researchers at University of Oxford.</p>\n<p><strong>Abstract</strong><br />\n&#8220;Programmable photonic networks carry out universal unitary functions by independently operating on the amplitude and phase of guided light. Exploiting the reconfigurability and spatiospectral degrees of freedom of these systems, the majority of state-of-the-art photonics applications, ranging from microwave photonics to photonic computing and optical communication links, can be demonstrated in one unified system. Existing techniques require a large footprint due to weak modulation efficiency, and continuous power dissipation to maintain the configured state. Here, we demonstrate a programmable recirculating mesh unit cell based on the nonvolatile low-loss phase-change material Sb<sub>2</sub>Se<sub>3</sub>. The demonstrated devices achieve an ultrashort active length (&lt;10 \u03bcm, more than 15 times smaller than the current state of the art of competing technologies) and zero static power, in combination with high-extinction switching (&gt;20 dB), broadband operation (&gt;15 nm), and low insertion loss (&lt;2 dB). This work forms the basis for nonvolatile field-programmable coupler arrays (nv-FPCAs) and zero\u2013static power reconfigurable optical interconnects.&#8221;</p>\n<p>Find the <a href=\"https://www.science.org/doi/10.1126/sciadv.aec7329\">technical paper here</a>.\u00a0 May 2026.</p>\n<p>H\u00e5vard Hem Toftevaag et al. ,Nonvolatile photonic field-programmable coupler array.Sci. Adv.12,eaec7329(2026).DOI:10.1126/sciadv.aec7329</p>\n<p>The post <a href=\"https://semiengineering.com/potential-route-to-photonic-fpca-using-nv-low-loss-phase-change-material-oxford/\">Potential Route To Photonic FPCA Using NV Low-Loss Phase Change Material (Oxford)</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>",
+    "author": "Technical Paper Link"
   }
 ]
