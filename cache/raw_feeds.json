@@ -13326,5 +13326,47 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S092427162600242X?dgcid=rss_sd_all",
     "content": "<p>Publication date: July 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 237</p><p>Author(s): Yong Bo, Xueke Li, Kai Liu, Shudong Wang, Long Li, Guoxu Li, Hang Li</p>",
     "author": ""
+  },
+  {
+    "id": "7fe7d27e17476da0",
+    "title": "The Must-Know Topics for an LLM\u00a0Engineer",
+    "link": "https://towardsdatascience.com/the-must-know-topics-for-an-llm-engineer/",
+    "content": "<p>From tokenisation to evaluation\u200a: \u200ahow modern language models actually work in\u00a0practice</p>\n<p>The post <a href=\"https://towardsdatascience.com/the-must-know-topics-for-an-llm-engineer/\">The Must-Know Topics for an LLM\u00a0Engineer</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "author": "Aliaksei Mikhailiuk"
+  },
+  {
+    "id": "76aacfef1267832e",
+    "title": "RAG Is Blind to Time \u2014 I Built a Temporal Layer to Fix It in Production",
+    "link": "https://towardsdatascience.com/rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-production/",
+    "content": "<p>Three weeks into testing, a learner told me my AI tutor gave her the wrong answer.</p>\n<p>Not obviously wrong \u2014 just outdated enough to mislead.</p>\n<p>That was the moment I realized something most RAG systems quietly ignore: they have no sense of time. My system retrieved the most similar document, not the most current one. And in a knowledge base that changes constantly, that\u2019s a serious flaw.</p>\n<p>The fix wasn\u2019t in the retriever or the model. It was in the gap between them.</p>\n<p>I built a temporal layer that filters expired facts, boosts time-sensitive signals, and makes the system prefer what\u2019s still true \u2014 not just what matches.</p>\n<p>The post <a href=\"https://towardsdatascience.com/rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-production/\">RAG Is Blind to Time \u2014 I Built a Temporal Layer to Fix It in Production</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "author": "Emmimal P Alexander"
+  },
+  {
+    "id": "2336f40a7c5f1ee8",
+    "title": "A cross-European assessment on the pre-emergence detection of trees attacked by spruce bark beetle using UAV imagery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726002154?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 August 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 342</p><p>Author(s): Langning Huo, Luiz Henrique Elias Cosimo, Aurora Bozzini, Salma Bijou, Raquel Alves de Oliveira, Juha Suomalainen, Erika Vennervirta, Niko Koivum\u00e4ki, Roope N\u00e4si, Lucie Kupkov\u00e1, Massimo Faccoli, Eija Honkavaara</p>",
+    "author": ""
+  },
+  {
+    "id": "71b6dafd2df39f13",
+    "title": "Chlorophyll-based canopy photosynthesis model: Development and global synergy analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726002385?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 August 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 342</p><p>Author(s): Dong Li, Anatoly A. Gitelson, Adam P. Schreiner-McGraw, Ankur R. Desai, Yan Zhu, Weixing Cao, Kang Yu</p>",
+    "author": ""
+  },
+  {
+    "id": "7d6ebb0528c90851",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726002440?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 1 August 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 341</p><p>Author(s): </p>",
+    "author": ""
+  },
+  {
+    "id": "0bc8be3edb69544b",
+    "title": "HaloGS: Loose coupling of compact geometry and Gaussian Splats for 3D scenes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626002108?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 238</p><p>Author(s): Changjian Jiang, Kerui Ren, Linning Xu, Tao Lu, Jiong Chen, Jiangmiao Pang, Yu Zhang, Bo Dai, Mulin Yu</p>",
+    "author": ""
   }
 ]
