@@ -1,24 +1,23 @@
 - Machine Learning (ML), Deep Learning (DL), and Artificial Intelligence (AI). In particular:
     - Neural compressors
-    - Learned image compression and data compression
+    - Learned Image Compression (LIC)
+    - Data compression codecs and standards
     - Applied to various Remote Sensing applications
 - Efficient ML/DL, particulary deployed on FPGAs
+    - Vitis AI and its Deep learning Processing Unit (DPU a.k.a., NPU)
     - Deep Learning deployment on FPGA
-    - Vitis AI and its Deep learning Processing Unit (DPU)
     - Coarse Grain Reconfigurable Architecture (CGRA), e.g., AMD Versal
     - Efficient AI
     - AI onboard
     - Lightweight AI
-    - Tiny ML
     - Space-robust ML
-    - Real-time inference
 - Remote Sensing and Earth Observation
-    - Synthetic Aperture Radar (SAR)
-    - SAR Data compression
+    - Synthetic Aperture Radar (SAR) data compression
     - SAR despeckling
+    - SAR focusing
     - Climate Change
     - Disaster management
 
 On the other hand, I'm not really interested by:
 - Foundation Models
-- Natural Language Processing (NLP)
+- Natural Language Processing (NLP) and LLMs
