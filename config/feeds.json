@@ -1,24 +1,20 @@
 {
   "feeds": [
     {
-      "name": "ACM CACM - AI/ML",
-      "url": "https://cacm.acm.org/category/artificial-intelligence-machine-learning/feed/"
-    },
-    {
       "name": "arXiv - Machine Learning",
       "url": "https://rss.arxiv.org/rss/cs.LG"
     },
     {
-      "name": "MDPI - Remote Sensing RSS Feed",
-      "url": "https://www.mdpi.com/rss/journal/remotesensing"
+      "name": "Elsevier IJAEOG - Applied Earth Observation and Geoinformation",
+      "url": "https://rss.sciencedirect.com/publication/science/15698432"
     },
     {
-      "name": "Towards Data Science RSS Feed",
-      "url": "https://towardsdatascience.com/feed"
+      "name": "ACM TODAES - Design Automation of Electronic Systems",
+      "url": "https://dl.acm.org/action/showFeed?jc=TODAES&type=etoc&feed=rss"
     },
     {
-      "name": "Nature Machine Intelligence",
-      "url": "https://www.nature.com/natmachintell.rss"
+      "name": "ACM TECS - Embedded Computing Systems",
+      "url": "https://dl.acm.org/action/showFeed?jc=TECS&type=etoc&feed=rss"
     },
     {
       "name": "IEEE TGRS - Geoscience & Remote Sensing",
@@ -49,12 +45,8 @@
       "url": "https://ieeexplore.ieee.org/rss/TOC12.XML"
     },
     {
-      "name": "Semiconductor Engineering",
-      "url": "https://semiengineering.com/feed/"
-    },
-    {
-      "name": "Hackster.io TinyML",
-      "url": "https://www.hackster.io/feeds/tinyml"
+      "name": "Elsevier Integration",
+      "url": "https://rss.sciencedirect.com/publication/science/01679260"
     }
   ]
 }
