@@ -8,7 +8,7 @@ A personal research assistant pipeline to explore recent scientific publications
 
 The pipeline is split across two GitHub Actions:
 
-1. **Daily Fetch** (`fetch-daily.yml`, 08:00 UTC every day): Fetches new articles from all configured RSS feeds, deduplicates them against the permanent seen-IDs log, and appends new entries to the weekly cache.
+1. **Daily Fetch** (`fetch-daily.yml`, 08:00 UTC every day): Fetches new articles from all configured RSS feeds, deduplicates them against the permanent seen-IDs log, and appends new entries to the weekly cache. Revised arXiv versions are treated as the same article during deduplication, so `v2`, `v3`, and later revisions do not reappear once the base paper has already been seen.
 
 2. **Weekly Curation** (`weekly_rss.yml`, Monday 02:00 UTC):
    - Does one final feed fetch to catch any articles published since Sunday's daily run.
@@ -63,7 +63,7 @@ The pipeline is split across two GitHub Actions:
 
 **`config/interests.txt`** — describe your research interests in plain language (this is injected directly into the AI ranking prompt):
 
-```text 
+```text
 Machine Learning, Large Language Models, Reinforcement Learning, Robotics.
 ```
 

@@ -2,6 +2,7 @@ import feedparser
 import json
 import os
 import hashlib
+import re
 
 # Configuration
 FEED_LIST_FILE = os.path.join("config", "feeds.json")
@@ -26,6 +27,14 @@ def load_raw_feed_cache():
 def hash_id(s: str) -> str:
     """Stable ID generator for any article."""
     return hashlib.sha256(s.encode("utf-8")).hexdigest()[:16]
+
+
+ARXIV_VERSION_RE = re.compile(r"((?:arXiv:)?\d{4}\.\d{4,5})v\d+", re.IGNORECASE)
+
+
+def normalize_entry_id(entry_id: str) -> str:
+    """Collapse versioned arXiv identifiers to their base paper ID before hashing."""
+    return ARXIV_VERSION_RE.sub(r"\1", entry_id.strip())
 
 # Load seen IDs from file
 def load_seen_ids():
@@ -112,7 +121,7 @@ def fetch_all_feeds():
             if not entry_id:
                 continue
             # Generate a stable hash ID for the entry
-            hashed_id = hash_id(entry_id)
+            hashed_id = hash_id(normalize_entry_id(entry_id))
             # Skip if already seen
             if hashed_id in seen_ids:
                 continue
