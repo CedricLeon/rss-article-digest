@@ -12297,5 +12297,145 @@
     "link": "http://ieeexplore.ieee.org/document/11505911",
     "content": "B${}^{+}$+-Trees are widely used in storage systems and diverse applications. However, their performance is hindered by frequent memory accesses required for key comparisons and structural maintenance. The limited parallelism of CPUs, along with their sensitivity to data order and volume, further restricts the efficiency of B${}^{+}$+-Trees. Processing-in-memory (PIM) offers a promising alternative with its in-situ parallel computing capability. In this paper, we propose pTree, a novel set of PIM techniques and architecture specifically designed to accelerate B${}^{+}$+-Tree operations. pTree introduces in-situ parallel comparison mechanisms that significantly reduce costly memory accesses and inefficient CPU-side comparisons during tree traversal. This parallelism eliminates the need to maintain intra-node key order and, together with our in-situ parallel node bisecting techniques, greatly minimizes tree structure maintenance overhead during insertions and deletions. Additionally, pTree decouples both comparison and modification efficiency from node size, enabling the use of larger nodes to reduce tree height and traversal complexity. Evaluation shows that pTree reduces the average latency to 35%, 26%, 52%, and 32% compared to state-of-the-art B${}^{+}$+-Trees for Insert, Search, Update, and Delete operations.",
     "author": "Yibo Liu, Bing Wu, Shiyi Song, Xueliang Wei, Huan Cheng, Heng Zhou, Wei Tong, Dan Feng"
+  },
+  {
+    "id": "4aca7389f66bd498",
+    "title": "MS-AFNet: A multi-scale adaptive fusion network with high-resolution feature enhancement for tiny object detection in UAV imagery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S156984322600316X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: July 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 151</p><p>Author(s): Weiguo Yi, Jiahui Gao, Longteng Wang</p>",
+    "author": ""
+  },
+  {
+    "id": "f2b312d09785a7e0",
+    "title": "MSRS-SLAM: A real-time multi-UAV dense mapping system for efficient low-altitude remote sensing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226003031?dgcid=rss_sd_all",
+    "content": "<p>Publication date: July 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 151</p><p>Author(s): Bing Du, Xiaohan Liao, Huanyin Yue, Yuyu Zhang, Huping Ye, Jianli Liu</p>",
+    "author": ""
+  },
+  {
+    "id": "4eee290d680a2bda",
+    "title": "Scan Chain Watermarking : A Graph Neural Network based approach",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3769115?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2026/31/6\">Volume 31, Issue 6</a>, Page 1-23, November 2026. <br />",
+    "author": "Ashwin CSSuchismita Roy"
+  },
+  {
+    "id": "1f49d1d1679a966b",
+    "title": "ConfiBench: Automatic Testbench Generation with Confidence-Based Scenario Mask and Testbench Ensemble using LLMs for HDL Design",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3773087?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2026/31/6\">Volume 31, Issue 6</a>, Page 1-21, November 2026. <br />",
+    "author": "Ruidi QiuGrace Li ZhangRolf DrechslerTsungyi HoUlf SchlichtmannBing Li"
+  },
+  {
+    "id": "b2ea283c2c29dbb8",
+    "title": "FedTM: Federated ASIC Technology Mapping",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3777417?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2026/31/6\">Volume 31, Issue 6</a>, Page 1-25, November 2026. <br />",
+    "author": "Bhabesh MaliAkash Lal DuttaChigarapally Chandrabhusan ReddyChandan KarfaSukanta Bhattacharjee"
+  },
+  {
+    "id": "52b2da67472ed52e",
+    "title": "CB-EVO: Contextual Bandit Tuning with Evolutionary Search for Logic Synthesis",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3779431?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2026/31/6\">Volume 31, Issue 6</a>, Page 1-26, November 2026. <br />",
+    "author": "Fangzhou LiuWuqian TangZehua PeiZiyang YuHaisheng ZhengZhuolun HeMengjia DaiTinghuan ChenBei Yu"
+  },
+  {
+    "id": "21e251c2cf5d822e",
+    "title": "Multi-Agent Reinforcement Learning in Designing the Low-Dropout Regulator Circuits",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3779435?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2026/31/6\">Volume 31, Issue 6</a>, Page 1-20, November 2026. <br />",
+    "author": "Thang Quoc NguyenLihong ZhangOctavia A. DobreTrang HoangTrung Q. Duong"
+  },
+  {
+    "id": "5cf3f6eae5c2bb59",
+    "title": "Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3780100?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2026/31/6\">Volume 31, Issue 6</a>, Page 1-19, November 2026. <br />",
+    "author": "Xu HeYushan WangChenjing YangRenjun ZhaoYibo LinPeiyu LiaoBei YuYao WangChang LiuYang Guo"
+  },
+  {
+    "id": "41d0447ff2d2b1a2",
+    "title": "An Active Learning Framework for Analog Circuit Multi-objective Customization",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3789263?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2026/31/6\">Volume 31, Issue 6</a>, Page 1-22, November 2026. <br />",
+    "author": "Mutian ZhuMohsen HassanpourghadiQiaochu ZhangMike Shuo-Wei ChenA.F.J. LeviSandeep Gupta"
+  },
+  {
+    "id": "b7376cc3a1b4882e",
+    "title": "Accelet: Hardware-software Co-design of Chiplet-based DNN Accelerators",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3802577?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2026/31/6\">Volume 31, Issue 6</a>, Page 1-26, November 2026. <br />",
+    "author": "Su ZhengBei YuMartin Wong"
+  },
+  {
+    "id": "0dc528f394803b13",
+    "title": "ICBPI: Accurate and Validated Fine-Grained Power Estimation with Application to Thermal Hardware Trojan Detection and Localization in SOCs",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3802584?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2026/31/6\">Volume 31, Issue 6</a>, Page 1-33, November 2026. <br />",
+    "author": "Mohamed ElshamyMehdi ElahiAhmad PatooghyAbdel-Hameed Badawy"
+  },
+  {
+    "id": "5518fe481bac9950",
+    "title": "Modeling Glitches due to Multiple Input Switching using Machine Learning",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3802920?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2026/31/6\">Volume 31, Issue 6</a>, Page 1-29, November 2026. <br />",
+    "author": "Pooja BeniwalAjoy MandalRamakrishnan VenkatramanSuriya SkariahSneh Saurabh"
+  },
+  {
+    "id": "175d7544d7dd45cd",
+    "title": "Enhancing Large Language Models for Hardware Verification: A Novel SystemVerilog Assertion Dataset",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3764934?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2026/31/6\">Volume 31, Issue 6</a>, Page 1-35, November 2026. <br />",
+    "author": "Anand MenonSamit MiftahShamik KunduSouvik KunduAmisha SrivastavaArnab RahaGaberiel SonnenschienSuvadeep BanerjeeDeepak MathaikuttyKanad Basu"
+  },
+  {
+    "id": "ebca8ebb90b6575c",
+    "title": "AutoMarks: A GNN-based Automated Physical Design Watermarking Framework",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3768343?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2026/31/6\">Volume 31, Issue 6</a>, Page 1-21, November 2026. <br />",
+    "author": "Ruisi ZhangRachel Selina RajarathnamDavid PanFarinaz Koushanfar"
+  },
+  {
+    "id": "1ab17ec9caedfbd6",
+    "title": "AiDRC: Accelerating Detailed Routing by AI-Driven Design Rule Violation Prediction and Checking",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3769306?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2026/31/6\">Volume 31, Issue 6</a>, Page 1-28, November 2026. <br />",
+    "author": "Yifan LiRuizhi LiuZhisheng ZengZengrong HuangZhipeng HuangDongbo BuXingquan Li"
+  },
+  {
+    "id": "747741e944d9c82f",
+    "title": "ORL-LO: Offline Reinforcement Learning for Pretraining and Finetuning in Logic Optimization",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3774323?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2026/31/6\">Volume 31, Issue 6</a>, Page 1-24, November 2026. <br />",
+    "author": "Guande DongHongtao ChengJianwang ZhaiXiao YangChuan ShiKang Zhao"
+  },
+  {
+    "id": "ce7ab7aab66cb674",
+    "title": "The Scaling Law in remote sensing mapping for model performance forecasting and reference sample optimization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726002993?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 344</p><p>Author(s): Yuanhong Liao, Yuqi Bai, Shuang Chen, Jie Wang, Yanping You, Zhou Chen, Haoru Wu, Huabing Huang, Wenrui Li, Mingrun Zang, Zimeng Wang, Xinan Zhang, Bing Xu, Peng Gong</p>",
+    "author": ""
+  },
+  {
+    "id": "7fc98577b17eccd3",
+    "title": "Multi-temporal calving front segmentation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S092427162600300X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 239</p><p>Author(s): Marcel Dreier, Nora Gourmelon, Dakota Pyles, Fei Wu, Matthias Braun, Thorsten Seehaus, Andreas Maier, Vincent Christlein</p>",
+    "author": ""
+  },
+  {
+    "id": "0dc2e1e4b06334d0",
+    "title": "Uncertainty-aware semi-supervised framework with supervised contrastive learning for sugarcane leaf disease detection",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626003114?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 239</p><p>Author(s): Shalini Dangi, Divya Teja, Omkar Kabde, Shahid Shafi Dar, Nagendra Kumar</p>",
+    "author": ""
+  },
+  {
+    "id": "e4f70e9fc5e31a3c",
+    "title": "GLoC: Global\u2013local graph fusion and clique search for LiDAR place recognition",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626002911?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 239</p><p>Author(s): Pengcheng Shi, Yubin Lei, Yuan Kou, Yongjun Zhang, Jiayuan Li</p>",
+    "author": ""
   }
 ]
