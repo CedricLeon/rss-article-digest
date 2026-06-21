@@ -12206,5 +12206,40 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0167926026001537?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 18 June 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Amr Hassan, Eman Azab</p>",
     "author": ""
+  },
+  {
+    "id": "25b8e4fd90648f94",
+    "title": "Waveform-adaptive estimation of canopy heights using GEDI data in dense Amazonian forests",
+    "link": "https://www.sciencedirect.com/science/article/pii/S003442572600307X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 344</p><p>Author(s): Tianyu Yu, Wenjian Ni, Zhiyu Zhang, Jie Wang, Chuan Wang, Zhifeng Guo</p>",
+    "author": ""
+  },
+  {
+    "id": "f9a046d043f3760c",
+    "title": "Integrating physical modeling and data-driven learning: A DCNN for InSAR phase filtering and applications",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626003333?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 239</p><p>Author(s): Wang Yang, Yi He, Juan M. Lopez-Sanchez, Qing Zhu, Alejandro Mestre-Quereda, Lifeng Zhang, Wenhui Wang, Youdong Chen</p>",
+    "author": ""
+  },
+  {
+    "id": "403cf77b8d03107a",
+    "title": "Detecting intact forests in a highly fragmented landscape: Complementary insights from Landsat and GEDI",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626002959?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 239</p><p>Author(s): Sebasti\u00e1n R. Landeros-Espina, Mauricio Galleguillos, \u00c1lvaro G. Guti\u00e9rrez</p>",
+    "author": ""
+  },
+  {
+    "id": "34e39626bf41f779",
+    "title": "A multi-modal dataset and A multi-task network integrating SAR interferometric data for semantic segmentation and height estimation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626003278?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 239</p><p>Author(s): Zhipeng Wu, Bingze Song, Lei Huang, Chang Liu</p>",
+    "author": ""
+  },
+  {
+    "id": "e8a75acb03cdf71d",
+    "title": "CanadaFireSat: Towards high-resolution wildfire forecasting with multiple modalities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626002972?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 239</p><p>Author(s): Hugo Porta, Emanuele Dalsasso, Jessica L. McCarty, Devis Tuia</p>",
+    "author": ""
   }
 ]
