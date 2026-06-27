@@ -1,52 +1,68 @@
 {
   "feeds": [
     {
-      "name": "arXiv - Machine Learning",
-      "url": "https://rss.arxiv.org/rss/cs.LG"
+      "name": "APA JPSP - Journal of Personality and Social Psychology (unofficial mirror)",
+      "url": "https://apa-psp.livejournal.com/data/rss"
     },
     {
-      "name": "Elsevier IJAEOG - Applied Earth Observation and Geoinformation",
-      "url": "https://rss.sciencedirect.com/publication/science/15698432"
+      "name": "Elsevier JESP - Journal of Experimental Social Psychology",
+      "url": "https://rss.sciencedirect.com/publication/science/00221031"
     },
     {
-      "name": "ACM TODAES - Design Automation of Electronic Systems",
-      "url": "https://dl.acm.org/action/showFeed?jc=TODAES&type=etoc&feed=rss"
+      "name": "SAGE PSPB - Personality and Social Psychology Bulletin",
+      "url": "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=psp"
     },
     {
-      "name": "ACM TECS - Embedded Computing Systems",
-      "url": "https://dl.acm.org/action/showFeed?jc=TECS&type=etoc&feed=rss"
+      "name": "Wiley EJSP - European Journal of Social Psychology",
+      "url": "https://onlinelibrary.wiley.com/feed/10990992/most-recent"
     },
     {
-      "name": "IEEE TGRS - Geoscience & Remote Sensing",
-      "url": "https://ieeexplore.ieee.org/rss/TOC36.XML"
+      "name": "SAGE SPPS - Social Psychological and Personality Science",
+      "url": "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=sppa"
     },
     {
-      "name": "IEEE J-STARS - Applied Earth Obs.",
-      "url": "https://ieeexplore.ieee.org/rss/TOC4609443.XML"
+      "name": "SAGE GPIR - Group Processes & Intergroup Relations",
+      "url": "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=gpi"
     },
     {
-      "name": "Elsevier RSE - Remote Sensing of Environment",
-      "url": "https://rss.sciencedirect.com/publication/science/00344257"
+      "name": "Wiley Political Psychology",
+      "url": "https://onlinelibrary.wiley.com/feed/14679221/most-recent"
     },
     {
-      "name": "ISPRS Journal of Photogrammetry",
-      "url": "https://rss.sciencedirect.com/publication/science/09242716"
+      "name": "Springer Political Behavior",
+      "url": "https://link.springer.com/journal/11109/online-first.rss"
     },
     {
-      "name": "ACM TRETS - Reconfigurable Tech",
-      "url": "https://dl.acm.org/action/showFeed?jc=TRETS&type=etoc&feed=rss"
+      "name": "Wiley SPP Compass - Social and Personality Psychology Compass",
+      "url": "https://onlinelibrary.wiley.com/feed/17519004/most-recent"
     },
     {
-      "name": "IEEE Trans. on VLSI Systems",
-      "url": "https://ieeexplore.ieee.org/rss/TOC92.XML"
+      "name": "Nature Communications",
+      "url": "https://www.nature.com/ncomms.rss"
     },
     {
-      "name": "IEEE Trans. on Computers",
-      "url": "https://ieeexplore.ieee.org/rss/TOC12.XML"
+      "name": "Nature Human Behaviour",
+      "url": "https://www.nature.com/nathumbehav.rss"
     },
     {
-      "name": "Elsevier Integration",
-      "url": "https://rss.sciencedirect.com/publication/science/01679260"
+      "name": "T&F Political Communication",
+      "url": "https://www.tandfonline.com/feed/rss/upcp20"
+    },
+    {
+      "name": "SAGE Political Research Quarterly",
+      "url": "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=prq"
+    },  
+    {
+      "name": "Wiley AJPS - American Journal of Political Science",
+      "url": "https://onlinelibrary.wiley.com/feed/15405907/most-recent"
+    },
+    {
+      "name": "Cambridge BJPolS - British Journal of Political Science",
+      "url": "https://www.cambridge.org/core/rss/product/id/FD38AC39CC0E8A315361CDF266B85A14"
+    },
+    {
+      "name": "Cambridge APSR - American Political Science Review",
+      "url": "https://www.cambridge.org/core/rss/product/id/833A7242AC7B607BA7F6168DA072DB3B"
     }
   ]
 }
