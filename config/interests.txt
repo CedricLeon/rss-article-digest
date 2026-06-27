@@ -1,26 +1,23 @@
-* Social psychology and political psychology. In particular:
+- Machine Learning (ML), Deep Learning (DL), and Artificial Intelligence (AI). In particular:
+    - Neural compressors
+    - Learned Image Compression (LIC)
+    - Data compression codecs and standards
+    - Applied to various Remote Sensing applications
+- Efficient ML/DL, particulary deployed on FPGAs
+    - Vitis AI and its Deep learning Processing Unit (DPU a.k.a., NPU)
+    - Deep Learning deployment on FPGA
+    - Coarse Grain Reconfigurable Architecture (CGRA), e.g., AMD Versal
+    - Efficient AI
+    - AI onboard
+    - Lightweight AI
+    - Space-robust ML
+- Remote Sensing and Earth Observation
+    - Synthetic Aperture Radar (SAR) data compression
+    - SAR despeckling
+    - SAR focusing
+    - Climate Change
+    - Disaster management
 
-  * Political attitudes, ideology, and polarization
-  * Political identity and intergroup relations
-  * Social identity, group status, and perceived marginalization
-  * Psychological foundations of democratic and anti-democratic attitudes
-
-* Justice, injustice, and victimhood. In particular:
-
-  * Justice sensitivity, relative deprivation, and perceived unfairness
-  * Individual, collective, and competitive victimhood
-  * Victimhood as moral status, grievance, mobilization, and blame shifting
-  * Harm perceptions, moral typecasting 
-
-* Political communication and moralized rhetoric. In particular:
-
-  * Victimhood claims in political discourse
-  * Moralized and emotionalized political rhetoric 
-  * Effects of political messages on attitudes, emotions, and political behavior
-  * Political speeches, manifestos, campaign communication, and social media
-
-* Political conflict, status threat, and hierarchy. In particular:
-
-  * Perceived political marginalization and status threat
-  * Radicalization, political extremism, and political violence endorsement
-  * Populism, radical-right support, and affective polarization
+On the other hand, I'm not really interested by:
+- Foundation Models
+- Natural Language Processing (NLP) and LLMs
