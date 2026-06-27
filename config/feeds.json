@@ -32,10 +32,10 @@
       "name": "Springer Political Behavior",
       "url": "https://link.springer.com/journal/11109/online-first.rss"
     },
-    {
-      "name": "PsychOpen JSPP - Journal of Social and Political Psychology",
-      "url": "https://jspp.psychopen.eu/index.php/jspp/gateway/plugin/WebFeedGatewayPlugin/atom"
-    },
+    //{
+    //  "name": "PsychOpen JSPP - Journal of Social and Political Psychology",
+    //  "url": "https://jspp.psychopen.eu/index.php/jspp/gateway/plugin/WebFeedGatewayPlugin/atom"
+    //},
     {
       "name": "Wiley SPP Compass - Social and Personality Psychology Compass",
       "url": "https://onlinelibrary.wiley.com/feed/17519004/most-recent"
@@ -68,5 +68,5 @@
       "name": "Cambridge APSR - American Political Science Review",
       "url": "https://www.cambridge.org/core/rss/product/id/833A7242AC7B607BA7F6168DA072DB3B"
     }
-    ]
+  ]
 }
