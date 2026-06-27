@@ -10421,5 +10421,75 @@
     "link": "http://ieeexplore.ieee.org/document/11551804",
     "content": "Accurate and real-time fire area estimation is critical for effective wildfire monitoring and response. This study presents a simulation-based framework for real-time fire area estimation using uncrewed aerial vehicles (UAV)-acquired RGB imagery, introducing two lightweight modeling approaches: a contour-based geometric method and a ground sampling distance (GSD)-based scaling technique. The framework was implemented and validated in a high-fidelity simulation environment using Unreal Engine 4.27 and AirSim and evaluated across multiple fire sizes, UAV altitudes, and positions. In addition, a controlled outdoor validation experiment was conducted to assess the transferability of the proposed methods under real-world imaging conditions. Performance was assessed using statistical error metrics (root-mean-square error and R$^{2}$) and latency analysis to ensure operational viability. Results demonstrate that the GSD-based method achieves higher consistency across varying scales, while the contour-based method offers ultra-low latency for rapid situational awareness. This work contributes a validated simulation modeling approach that can be integrated into UAV-based wildfire monitoring systems, bridging the gap between proof-of-concept and operational deployment.",
     "author": "Shouthiri Partheepan, Farzad Sanati, Jahan Hassan"
+  },
+  {
+    "id": "8bc059b8a1875859",
+    "title": "Deep Learning Based Side-Channel Attack on Polynomial Multiplication in Post-Quantum Cryptography",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3807506?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/4\">Volume 25, Issue 4</a>, Page 1-28, July 2026. <br />",
+    "author": "Yuxuan MengBaosheng WangQianqian XingXiaofeng WangDa ZhouLinye Liu"
+  },
+  {
+    "id": "60efac71052c3352",
+    "title": "Auto-MCNN: Optimizing Multi-Scale CNNs via Automated Machine Learning for Side-Channel Analysis",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3807776?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/4\">Volume 25, Issue 4</a>, Page 1-24, July 2026. <br />",
+    "author": "Tianlong SunChen WangJian ShenYi LiDebiao He"
+  },
+  {
+    "id": "b36a3d64f5477028",
+    "title": "Efficient Addition-Based Sparse GEMM for Fast Ternary Large Language Model Inference on Edge Devices",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3807782?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/4\">Volume 25, Issue 4</a>, Page 1-29, July 2026. <br />",
+    "author": "Shien ZhuGuanshujie FuMila KjosevaGustavo Alonso"
+  },
+  {
+    "id": "c74ac47257210418",
+    "title": "AxLEA: Approximate ARX-based Lightweight Encryption Algorithm for Resource Constrained Devices",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3810948?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/4\">Volume 25, Issue 4</a>, Page 1-23, July 2026. <br />",
+    "author": "Vivekananda GThejaswini PSukumar NandiJohn Jose"
+  },
+  {
+    "id": "54940f3781a381ba",
+    "title": "Timing-Constrained Composable Inference for Intermittent Systems Using Reinforcement Learning",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3814956?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/4\">Volume 25, Issue 4</a>, Page 1-27, July 2026. <br />",
+    "author": "Wen Sheng LimShu-Ting ChengYa-Tung TsaiChia-Heng TuYuan-Hao Chang"
+  },
+  {
+    "id": "e57d11b47ef4b2d9",
+    "title": "INSTANT: Inference-Aware Fast Feedforward Networks",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3815117?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/4\">Volume 25, Issue 4</a>, Page 1-38, July 2026. <br />",
+    "author": "Renan Beran KilicKasim Sinan YildirimGiovanni Iacca"
+  },
+  {
+    "id": "f59143088825eab8",
+    "title": "Exploring the Vulnerability of Basic Blocks for Control Flow Error Detection",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3816034?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/4\">Volume 25, Issue 4</a>, Page 1-35, July 2026. <br />",
+    "author": "Yang LiuJingjing GuJingxuan ZhangBao WenQiang ZhouZhiteng DongYi Zhuang"
+  },
+  {
+    "id": "2f58a5310a61ee38",
+    "title": "Transformative Energy-Efficient Edge-Optimised Multimodal Deep Learning Framework for Pest Management and Severity Analysis in Tea Plants",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3816754?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/4\">Volume 25, Issue 4</a>, Page 1-36, July 2026. <br />",
+    "author": "Md Tausif MallickHimadri SahaAmlan Chakrabarti"
+  },
+  {
+    "id": "2f73af5d0482aa80",
+    "title": "TzPy: Python Runtime for Edge Code Deployment on TrustZone",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3817117?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/4\">Volume 25, Issue 4</a>, Page 1-25, July 2026. <br />",
+    "author": "Suhyeon SongJaeyeol ParkChaewon ShinDonghyun Kwon"
+  },
+  {
+    "id": "4f30a163665882fe",
+    "title": "Real-Time Task Mapping for CPU-GPU Heterogeneous Platforms: Spatial GPU Partitioning and Utilization Bound",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3803800?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/4\">Volume 25, Issue 4</a>, Page 1-32, July 2026. <br />",
+    "author": "Jian-Jun HanChangan ZhangYan XiaoJie LiuLaurence T. Yang"
   }
 ]
