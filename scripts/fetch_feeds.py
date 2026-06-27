@@ -111,43 +111,57 @@ def fetch_all_feeds():
     seen_ids = load_seen_ids()
     existing_entries = load_raw_feed_cache()
     new_entries = []
+    failed_feeds = []
+    
     # Fetch and process each feed
     for feed_url in feeds:
-        print(f"Fetching: {feed_url}")
-        parsed = feedparser.parse(feed_url)
-        # Process each entry in the feed
-        for entry in parsed.entries:
-            entry_id = entry.get("id") or entry.get("link") or entry.get("title")
-            if not entry_id:
-                continue
-            # Generate a stable hash ID for the entry
-            hashed_id = hash_id(normalize_entry_id(entry_id))
-            # Skip if already seen
-            if hashed_id in seen_ids:
-                continue
-            # Extract relevant fields
-            title = entry.get("title", "")
-            link = entry.get("link", "")
-            content = ""
-            # Abstract/description
-            if "content" in entry and len(entry.content) > 0:
-                content = entry.content[0].value
-            elif "summary" in entry:
-                content = entry.summary
+        try:
+            print(f"Fetching: {feed_url}")
+            parsed = feedparser.parse(feed_url)
             
-            # Author
-            author = extract_authors(entry)
+            # Check if feedparser encountered any parsing issues
+            if parsed.bozo:
+                print(f"Warning: Feed parsing issue for {feed_url}: {parsed.bozo_exception}")
+            
+            # Process each entry in the feed
+            for entry in parsed.entries:
+                entry_id = entry.get("id") or entry.get("link") or entry.get("title")
+                if not entry_id:
+                    continue
+                # Generate a stable hash ID for the entry
+                hashed_id = hash_id(normalize_entry_id(entry_id))
+                # Skip if already seen
+                if hashed_id in seen_ids:
+                    continue
+                # Extract relevant fields
+                title = entry.get("title", "")
+                link = entry.get("link", "")
+                content = ""
+                # Abstract/description
+                if "content" in entry and len(entry.content) > 0:
+                    content = entry.content[0].value
+                elif "summary" in entry:
+                    content = entry.summary
+                
+                # Author
+                author = extract_authors(entry)
 
-            # Store the new entry
-            new_entries.append({
-                "id": hashed_id,
-                "title": title,
-                "link": link,
-                "content": content,
-                "author": author
-            })
-            # Mark this ID as seen
-            seen_ids.add(hashed_id)
+                # Store the new entry
+                new_entries.append({
+                    "id": hashed_id,
+                    "title": title,
+                    "link": link,
+                    "content": content,
+                    "author": author
+                })
+                # Mark this ID as seen
+                seen_ids.add(hashed_id)
+        
+        except Exception as e:
+            error_msg = f"Error fetching {feed_url}: {type(e).__name__}: {str(e)}"
+            print(f"Warning: {error_msg}")
+            failed_feeds.append(error_msg)
+            continue
 
     # Save new articles to cache (append to existing cache)
     all_entries = existing_entries + new_entries
@@ -157,6 +171,11 @@ def fetch_all_feeds():
     save_seen_ids(seen_ids)
 
     print(f"Fetched {len(new_entries)} new unseen articles.")
+    if failed_feeds:
+        print(f"\n⚠️  Failed feeds ({len(failed_feeds)}):")
+        for error in failed_feeds:
+            print(f"  - {error}")
+    
     return new_entries
 
 if __name__ == "__main__":
