@@ -34,7 +34,7 @@
     },
     {
       "name": "PsychOpen JSPP - Journal of Social and Political Psychology",
-      "url": "https://jspp.psychopen.eu/index.php/jspp/gateway/plugin/WebFeedGatewayPlugin/rss2"
+      "url": "https://jspp.psychopen.eu/index.php/jspp/gateway/plugin/WebFeedGatewayPlugin/atom"
     },
     {
       "name": "Wiley SPP Compass - Social and Personality Psychology Compass",
