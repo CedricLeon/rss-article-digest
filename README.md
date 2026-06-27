@@ -48,6 +48,18 @@ The pipeline is split across two GitHub Actions:
 - Python dependencies listed in `requirements.txt`
 - An OpenAI API key
 
+### Forking This Repository
+
+If you're setting up your own fork (e.g., for different interests or email):
+
+1. **Fork the repo** on GitHub
+2. **Update workflow files** — The GitHub Actions workflows have hardcoded references that need updating:
+   - `.github/workflows/fetch-daily.yml` — If you changed the repository URL structure
+   - `.github/workflows/weekly_rss.yml` — Check if needed
+   - As of the latest version, these now use `${GITHUB_REPOSITORY}` env var automatically ✅
+3. **`GITHUB_TOKEN` permissions** — Already configured with `permissions: contents: write` ✅
+4. Continue with the configuration steps below
+
 ### Configuration Files
 
 **`config/feeds.json`** — add your RSS feed URLs:
