@@ -9560,5 +9560,61 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S092427162600359X?dgcid=rss_sd_all",
     "content": "<p>Publication date: October 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 240</p><p>Author(s): Lu Zhang, Qi Zhu, Dong Liang, Yiming Liu, Zherong Wu, Ji Ge, Yuqian Zhang, Huadong Guo</p>",
     "author": ""
+  },
+  {
+    "id": "96c4ff38fa7ab3ee",
+    "title": "PLGF-NET: A Physics-Guided Local-Global fusion network for GNSS-R high wind speed retrieval",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226004097?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 152</p><p>Author(s): Xinzhe Xu, Minfeng Song, Xiufeng He, Jinsheng Tu, Xiaolei Wang, Jinwen Zeng, Hao Yang, Wei Zhan</p>",
+    "author": ""
+  },
+  {
+    "id": "ea96954483c6af33",
+    "title": "DINO-Pheno-Cluster: Integrating few-shot foundation models and UAV time-series for spatiotemporal growth and functional characterization of alfalfa",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226004139?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 152</p><p>Author(s): Tao Cheng, Zhangru Gao, Ziyu Ding, Dong Han, Yaling Liu, Ruopu Zan, Xinyuan He, Shibo Yang, Feng Yuan, Weibo Ren, Dongyan Zhang</p>",
+    "author": ""
+  },
+  {
+    "id": "0806abf42bdbe177",
+    "title": "cscMTCI: A soil and structure corrected MERIS terrestrial chlorophyll index for improving leaf chlorophyll content estimation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726003524?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 345</p><p>Author(s): Runfei Zhang, Peiqi Yang</p>",
+    "author": ""
+  },
+  {
+    "id": "5c4dbd3f1cc2bd12",
+    "title": "A scattering model-informed deep transfer learning framework for surface soil moisture retrieval",
+    "link": "https://www.sciencedirect.com/science/article/pii/S003442572600341X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 345</p><p>Author(s): Zuo Wang, Jianhui Chen, Jiangyuan Zeng, Chang Huang, Lisheng Song, Yingying Chen, Liujun Zhu</p>",
+    "author": ""
+  },
+  {
+    "id": "0ea84b192d4a2ee4",
+    "title": "Breaking barriers in rice chlorophyll retrieval from satellite imagery: Mitigating row structure and saturation effects via RiceGORT and chlorophyll sensitivity enhancement",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726003512?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 345</p><p>Author(s): Haoran Sun, Hifza Mariam, Junnan She, Ming Chen, Dong Li, Chongya Jiang, Xia Yao, Iftikhar Ali, Yan Zhu, Weixing Cao, Tao Cheng</p>",
+    "author": ""
+  },
+  {
+    "id": "859c8987db06dabb",
+    "title": "Retrieval of sea surface salinity from SMAP L-band radiometry under rainfall conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726003408?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 345</p><p>Author(s): Xuchen Jin, Xianqiang He, Yan Bai, Yilei Wang, Lizhang Zhou, Shujie Yu, Teng Li, Fang Gong, Delu Pan</p>",
+    "author": ""
+  },
+  {
+    "id": "9741f1c8239faf6d",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626003655?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 239</p><p>Author(s): </p>",
+    "author": ""
+  },
+  {
+    "id": "e0dd3fc8282815f5",
+    "title": "A Reconfigurable TCAM/BCAM Memory Design Using CNTFET Cell Structures with Dual Split Control Scheme and Optimized Physical Parameters Adjustment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026001902?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 24 July 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Mallikarjuna Rao Yamarthy, Venkata Subramanyam Makam</p>",
+    "author": ""
   }
 ]
