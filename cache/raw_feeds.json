@@ -10078,5 +10078,68 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0034425726003718?dgcid=rss_sd_all",
     "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 345</p><p>Author(s): Wanchun Leng, Tianxing Wang, Xuewei Yan, Huabing Huang, Husi Letu, Ziqian Zhang</p>",
     "author": ""
+  },
+  {
+    "id": "e15889b280c9675b",
+    "title": "Global cloud phase monitoring from FY-3G multi-angle polarimetric observations using the new MAPLE-CP framework with independent multi-site lidar validation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226004280?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 153</p><p>Author(s): Yaying Wang, Haofei Wang, Chuanfeng Zhao, Qiao Wang, Kun Jia, Jinlong Fan, Hang Lyu, Sijie Chen, Zhenping Yin, Xing Yan</p>",
+    "author": ""
+  },
+  {
+    "id": "b03c00753ace51d1",
+    "title": "Reducing grid artifacts in air temperature downscaling with a Volume-Preserving interpolation preprocessing step",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226004310?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 153</p><p>Author(s): Zitong Wen, Lu Zhuo, Jiao Wang, Ahmed Abdelhalim, Ming Zhong, Dawei Han</p>",
+    "author": ""
+  },
+  {
+    "id": "da78f8586cc1a861",
+    "title": "Linear-Fitting calibration algorithm for Aerosol-Cloud detection channels at 532\u00a0nm of the DQ-1/ACDL",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226004206?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 153</p><p>Author(s): Feiyue Mao, Chengen Li, Lin Zang, Zengxin Pan, Weiwei Xu, Ge Han, Xiuqing Hu, Weibiao Chen, Wei Gong</p>",
+    "author": ""
+  },
+  {
+    "id": "a8e0de954bc2862c",
+    "title": "Tracking global extreme afternoon photosynthesis depression: Frequency, duration, and drivers from satellite-based hourly GPP products",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726003676?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 345</p><p>Author(s): Jingyu Lin, Xing Li, Xiaojun Li, Xuanlong Ma, Lei Fan, Sadegh Ranjbar, Jing M. Chen</p>",
+    "author": ""
+  },
+  {
+    "id": "09d12e63db45494a",
+    "title": "ADAPT-Tracker: Adaptive dynamic perception and trajectory-consistent network for aerial multi-object tracking",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626003576?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 240</p><p>Author(s): Jian Zou, Ke Liu, Wei Zhang, Qiang Li, Qi Wang</p>",
+    "author": ""
+  },
+  {
+    "id": "c1857152841722d0",
+    "title": "TALineNet: A benchmark and network for temporally-aware continuous line segment detection in event streams",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626003874?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 240</p><p>Author(s): Xinya Wang, Haitian Zhang, Qinyue Yu, Xiangyuan Wang, Xianrong Wan, Huai Yu</p>",
+    "author": ""
+  },
+  {
+    "id": "f1465953ad5c705d",
+    "title": "High-Fidelity Level-Crossing ADC for Low-Power Data Acquisition in Time-Sparse Applications",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026001999?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 7 August 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Mahdi Ghasemi, Mohammad Taherzadeh, Nassim Ravanshad</p>",
+    "author": ""
+  },
+  {
+    "id": "b330736a713970d6",
+    "title": "A resource-efficient FPGA-based TRNG architecture with hybrid entropy fusion and 2D-MCS chaotic coupling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026001975?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 7 August 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Jianqi Dong, Weike Wang, Xiaolei Wang, Zixuan Liu, Wei Wang, Jiameng Liu, Zirui Liu</p>",
+    "author": ""
+  },
+  {
+    "id": "cdc51593a205a071",
+    "title": "TSV testing based on reconfigurable ring oscillator structure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026001951?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 7 August 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Tian Chen, Daping Wu, Yunfei Zhang, Jun Liu, Weikun Chen, Xiaohui Yuan, Yingchun Lu, Huaguo Liang</p>",
+    "author": ""
   }
 ]
