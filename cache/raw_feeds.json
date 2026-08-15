@@ -9700,5 +9700,54 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0924271626003746?dgcid=rss_sd_all",
     "content": "<p>Publication date: October 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 240</p><p>Author(s): Linxia Ji, Li Yan, Hong Xie, Tengfei Wang, Longze Zhu, Hao Wu, Duonan Wang</p>",
     "author": ""
+  },
+  {
+    "id": "3a1e7e4997b67f2b",
+    "title": "FSIF-PCNN: A physics-constrained neural network for full-spectrum solar-induced chlorophyll fluorescence reconstruction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226004395?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 153</p><p>Author(s): Dianrun Zhao, Shanshan Du, Yulu Du, Xinjie Liu, Liangyun Liu</p>",
+    "author": ""
+  },
+  {
+    "id": "6d8b0edd6cd30945",
+    "title": "Assessment of lighting quality in urban outdoor sports fields using 10-m SDGSAT-1 nighttime light imagery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S156984322600395X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 153</p><p>Author(s): Tingrui Guo, Min Zhao, Zhuolin Tao, Jiaqi Fu, Xinyi Song, Yuyu Zhou</p>",
+    "author": ""
+  },
+  {
+    "id": "4dd45394da101efd",
+    "title": "From pixels to vectorized cadastral boundaries: Deep learning-based automated delineation of property boundaries in the Netherlands",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226004309?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 153</p><p>Author(s): Jeroen Grift, Claudio Persello, Mila Koeva</p>",
+    "author": ""
+  },
+  {
+    "id": "d1850c427e683130",
+    "title": "Learning from noisy pose priors: Geometry-guided routing attention for robust image matching",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226003961?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 153</p><p>Author(s): Hongyang Zhang, Yusheng Xu, Changyou Xu, Rong Huang, Zhen Ye, Yan Xia, Xiaohua Tong</p>",
+    "author": ""
+  },
+  {
+    "id": "901f57e6d8483570",
+    "title": "Calibrated spatial uncertainty for Earth observation foundation models via Mat\u00e9rn-motivated latent stochastic regularization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726003809?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 1 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 346</p><p>Author(s): Daniel P. Johnson</p>",
+    "author": ""
+  },
+  {
+    "id": "1d3d8cfaa1e92120",
+    "title": "CMCL-PR: Cross-modal camera-to-LiDAR place recognition with cross-attention contrastive learning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626003618?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 240</p><p>Author(s): Qipeng Li, Yuan Zhuang, Wenjun Rao, Zhiyu Jiang</p>",
+    "author": ""
+  },
+  {
+    "id": "cc707cb3e73601c0",
+    "title": "Toeplitz-structured deep unfolding network for TomoSAR 3-D reconstruction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626003862?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 240</p><p>Author(s): Qian Ma, Kun Qian, Peng Shen, Yuting Zhu, Qingsong Wang, Zixiao Lu, Tao Lai, Yi Zhao, Haifeng Huang</p>",
+    "author": ""
   }
 ]
