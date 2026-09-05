@@ -9770,5 +9770,47 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002191?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 3 September 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Kousik Bhunia, Sumit Saha</p>",
     "author": ""
+  },
+  {
+    "id": "1db9978d4dfb1f3f",
+    "title": "From repeat-pass to single-pass: City-scale 3D point-cloud reconstruction via InSAR-TomoSAR fusion with the Hongtu-1 multistatic SAR constellation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S092427162600420X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 242</p><p>Author(s): Yulun Wu, Heng Zhang, Jili Wang, Yunkai Deng, Ruizhe Liu, Qing Li</p>",
+    "author": ""
+  },
+  {
+    "id": "456d4fbcc4237180",
+    "title": "Physics-constrained cross-resolution enhancement network for optics-guided thermal UAV image super-resolution",
+    "link": "https://www.sciencedirect.com/science/article/pii/S092427162600403X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 242</p><p>Author(s): Zhicheng Zhao, Fengjiao Peng, Jinquan Yan, Wei Lu, Chenglong Li, Jin Tang</p>",
+    "author": ""
+  },
+  {
+    "id": "2b8b723574b36f95",
+    "title": "LAMM: Large-scale invariant multi-source remote sensing image matching based on Adaptive Many-to-many Mapping",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626004016?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 242</p><p>Author(s): Yuyan Liu, Wei He, Hongyan Zhang</p>",
+    "author": ""
+  },
+  {
+    "id": "1092ccf4c701c0fb",
+    "title": "DUAG-C: Decentralized uncertainty-aware Gaussian consensus for multi-robot dense mapping",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626004193?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 242</p><p>Author(s): Cabrel Wouladje, Golden Tendekai Mumanikidzwa, Huiying Xu, Hongbo Li, Yanchao Wang, Mantang Liu, Wenjie Wang, Wenzhe Tan, Zhendong Chen, Longfei Wang, Kangjia Dai, Zhenglong Wang, Xinzhong Zhu</p>",
+    "author": ""
+  },
+  {
+    "id": "f11eea1dc94331a4",
+    "title": "From particles to features: Uncertainty-guided geometric reasoning for robust SLAM",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626004028?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 242</p><p>Author(s): Cabrel Wouladje, Golden Tendekai Mumanikidzwa, Huiying Xu, Hongbo Li, Mantang Liu, Wenjie Wang, Zhendong Chen, Wenzhe Tan, Chao Chen, Balong Wang, Zhenglong Wang, Xinzhong Zhu</p>",
+    "author": ""
+  },
+  {
+    "id": "be1bf5a330520981",
+    "title": "A Hierarchical Context-Fusion and Synergistic Alignment Network for small object detection",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626004235?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 242</p><p>Author(s): Bin Zhang, Weiguo Pan, Bingxin Xu, Songyin Dai</p>",
+    "author": ""
   }
 ]
