@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "2821be93e419b687",
+    "title": "Beyond greenness: Combining MODIS vegetation trajectories and GEDI canopy structure to reveal contrasting structural states across the Hindu Kush Himalaya",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005029?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 153</p><p>Author(s): Niti B. Mishra</p>",
+    "author": ""
+  },
+  {
+    "id": "de00d0200174a753",
+    "title": "A physics-guided transfer learning approach for atmospheric correction of low-altitude remote sensing at extreme zenith angles",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005054?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 153</p><p>Author(s): Ming Xu, Jun Chen</p>",
+    "author": ""
+  },
+  {
+    "id": "00692ffcad9b43ec",
+    "title": "Deep learning-based forest disturbance detection for Europe using Landsat time series",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004402?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 347</p><p>Author(s): Alba Viana-Soto, Jorunn Anna Mense, Katja Kowalski, Jan Pauls, Fabian Gieseke, Cornelius Senf</p>",
+    "author": ""
+  }
+]
