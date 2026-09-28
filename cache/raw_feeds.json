@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "003f35ddd4bb4130",
+    "title": "Geometry-aware dynamic convolutional network for instance-level segmentation of Martian landforms from high-resolution Digital Elevation Model-derived point clouds",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005236?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 154</p><p>Author(s): Rong Huang, Peiqi Ye, Yusheng Xu, Ludwig Hoegner, Qunming Wang, Sicong Liu, Chao Wang, Xiaohua Tong</p>",
+    "author": ""
+  },
+  {
+    "id": "190531d4d903075f",
+    "title": "HotSAM: A Hotspot-Spatial-Adaptive Multi-Resolution framework for efficient long-term deformation monitoring in terrestrial radar interferometry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626004776?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 242</p><p>Author(s): Yuhao Liu, Zeyu Zhang, Songbo Wu, Xiaoli Ding</p>",
+    "author": ""
+  }
+]
