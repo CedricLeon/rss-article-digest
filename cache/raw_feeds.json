@@ -16749,5 +16749,89 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002518?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 30 September 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Uma Sharma, Pritty, Richa Srivastava, Pravesh</p>",
     "author": ""
+  },
+  {
+    "id": "0f1113ec8bf5a519",
+    "title": "Erratum: AxLEA: Approximate ARX-based Lightweight Encryption Algorithm for Resource Constrained Devices",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3838280?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/6\">Volume 25, Issue 6</a>, Page 1-1, November 2026. <br />",
+    "author": "Vivekananda GThejaswini PSukumar NandiJohn Jose"
+  },
+  {
+    "id": "c4ed6dfc51aa8c74",
+    "title": "Spatial information explained by prediction models under block cross-validation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626004818?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 242</p><p>Author(s): Yongze Song</p>",
+    "author": ""
+  },
+  {
+    "id": "c2ae12659224f136",
+    "title": "Integrating spherical geometry and spectral dynamics for improved satellite-based cloud cover forecasting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626004648?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 242</p><p>Author(s): Xiangxu Meng, Kaibin Lin, Yun Zhong, Shuai Liu, Qingfang Jiang, Wenfeng Li, Kanglian Zhao</p>",
+    "author": ""
+  },
+  {
+    "id": "9d398fd8631fc546",
+    "title": "Distilling adaptive scale knowledge for remote sensing object detection",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626004806?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 242</p><p>Author(s): Seonghak Kim, Deukryeol Yoon, Young Hwa Sung</p>",
+    "author": ""
+  },
+  {
+    "id": "935f5fa4f2d3de39",
+    "title": "Fast SEU Detection and Recovery in FPGA-Based AI Accelerators",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3806052?af=R",
+    "content": "ACM Transactions on Reconfigurable Technology and Systems, <a href=\"https://dl.acm.org/toc/trets/2026/19/3\">Volume 19, Issue 3</a>, Page 1-34, September 2026. <br />",
+    "author": "Giorgio CoraEleonora VaccaCorrado De SioSarah AzimiLuca Sterpone"
+  },
+  {
+    "id": "6f07b85061a05b2b",
+    "title": "HT-NoC: A Throughput-Adaptive Multi-Dataflow Network-on-Chip for AI Accelerators",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3808228?af=R",
+    "content": "ACM Transactions on Reconfigurable Technology and Systems, <a href=\"https://dl.acm.org/toc/trets/2026/19/3\">Volume 19, Issue 3</a>, Page 1-32, September 2026. <br />",
+    "author": "Mohamed Amine ZhiriHana KricheneChiara SandionigiS\u00e9bastien Pillement"
+  },
+  {
+    "id": "c441af4eec5faf2a",
+    "title": "Streamlined Dataflow FPGA Architectures for Echo State Neural Networks in Time-Series Prediction and Classification Applications",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3811539?af=R",
+    "content": "ACM Transactions on Reconfigurable Technology and Systems, <a href=\"https://dl.acm.org/toc/trets/2026/19/3\">Volume 19, Issue 3</a>, Page 1-22, September 2026. <br />",
+    "author": "Atousa JafariMarco Platzner"
+  },
+  {
+    "id": "6f7d022c7321c70a",
+    "title": "A Perspective on the Topics from a Selection of Papers from the First 20 Years of the International Symposium on Applied Reconfigurable Computing (ARC)",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3829368?af=R",
+    "content": "ACM Transactions on Reconfigurable Technology and Systems, <a href=\"https://dl.acm.org/toc/trets/2026/19/3\">Volume 19, Issue 3</a>, Page 1-30, September 2026. <br />",
+    "author": "Jo\u00e3o M. P. CardosoWalid Najjar"
+  },
+  {
+    "id": "e5b8a64a34b045b2",
+    "title": "AIEAnalyzer: An Analytical Framework for Versal AI Engine Performance Analysis",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3832319?af=R",
+    "content": "ACM Transactions on Reconfigurable Technology and Systems, <a href=\"https://dl.acm.org/toc/trets/2026/19/3\">Volume 19, Issue 3</a>, Page 1-21, September 2026. <br />",
+    "author": "Xinya LuanZhe LinKai ShiLiyang DouJianwang ZhaiKang Zhao"
+  },
+  {
+    "id": "652fe895323ac264",
+    "title": "Hardware-Accelerated Graph Neural Networks: An Alternative Approach for Event-Based Audio Classification and Keyword Spotting on SoC FPGA",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3838800?af=R",
+    "content": "ACM Transactions on Reconfigurable Technology and Systems, <a href=\"https://dl.acm.org/toc/trets/2026/19/3\">Volume 19, Issue 3</a>, Page 1-34, September 2026. <br />",
+    "author": "Kamil JeziorekPiotr WzorekKrzysztof BlachutHiroshi NakanoManon DampfhofferThomas MesquidaHiroaki NishiThomas DalgatyTomasz Kryjak"
+  },
+  {
+    "id": "22d81d72432bab47",
+    "title": "An MLIR-Based Compilation Framework for Control Flow Management on Coarse-Grained Reconfigurable Arrays",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3828545?af=R",
+    "content": "ACM Transactions on Reconfigurable Technology and Systems, <a href=\"https://dl.acm.org/toc/trets/2026/19/3\">Volume 19, Issue 3</a>, Page 1-27, September 2026. <br />",
+    "author": "Yuxuan WangCristian TirelliGiovanni AnsaloniLaura PozziDavid Atienza"
+  },
+  {
+    "id": "65ecf76ad9b0715f",
+    "title": "Introduction to the ARC 2025 Journal Track",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3839105?af=R",
+    "content": "ACM Transactions on Reconfigurable Technology and Systems, <a href=\"https://dl.acm.org/toc/trets/2026/19/3\">Volume 19, Issue 3</a>, Page 1-4, September 2026. <br />",
+    "author": "Roberto GiorgiMirjana Stojilovic"
   }
 ]
