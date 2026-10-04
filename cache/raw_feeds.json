@@ -16833,5 +16833,47 @@
     "link": "https://dl.acm.org/doi/abs/10.1145/3839105?af=R",
     "content": "ACM Transactions on Reconfigurable Technology and Systems, <a href=\"https://dl.acm.org/toc/trets/2026/19/3\">Volume 19, Issue 3</a>, Page 1-4, September 2026. <br />",
     "author": "Roberto GiorgiMirjana Stojilovic"
+  },
+  {
+    "id": "8307eb01f5d41b08",
+    "title": "Surface-to-volume physics-informed model for 3D mesoscale eddy detection: Multi-source multi-scale fusion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S156984322600539X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 154</p><p>Author(s): Yong Li, Jie Zhang, Jungang Yang, Wei Zeng, Danya Xu, Guoqing Zhu, Fangming Guo, Ziqi Xin, Wei Cui</p>",
+    "author": ""
+  },
+  {
+    "id": "956a399a3a7a3cc4",
+    "title": "Robust hyperspectral retrieval of mangrove functional traits across species and spatial scales using GA-ELM",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005327?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 154</p><p>Author(s): Zhijun Feng, Shan Lu, Rong Zhang, Haihang Zeng, Chuanpeng Zhao, Mingming Jia, Zongming Wang</p>",
+    "author": ""
+  },
+  {
+    "id": "acfd512bf5a81b5b",
+    "title": "Satellite-based coastal monitoring through variance image composites (<em>SatVar</em>)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005467?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 154</p><p>Author(s): Pilar Mart\u00edn-Gallego, Juan Montes, Irene Delgado-Fernandez, Laura del R\u00edo, Theocharis A. Plomaritis, Christopher Marston</p>",
+    "author": ""
+  },
+  {
+    "id": "f301bc73a0581f14",
+    "title": "Single-scene thin-cloud correction for dynamic macroalgal blooms via water-referenced radiative transfer",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005352?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 154</p><p>Author(s): Furong Zhang, Shaohui Chen, Hongbo Su, Kai Liu, Chengyi Wang, Weimin Wang</p>",
+    "author": ""
+  },
+  {
+    "id": "a84afe1e71bba766",
+    "title": "Assessing plant area index and 3D plant area distribution in wheat canopies from a terrestrial LiDAR system for high-throughput plant phenotyping",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004815?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 347</p><p>Author(s): Raul Lopez-Lozano, Tian Ma, Maxime Soma, Marie Weiss, Aurelien Ausset, Philippe Burger, Bruno Berthon, Romain Chapuis, Marie-Pia D'Argaignon, Antonin Grau, Florian Larue, Romane Le-Roy, Remy Marandel, Vincent Mercier, Mathieu Roy, Gilles Tison, Frederic Venault, Pierre Martre, Frederic Baret</p>",
+    "author": ""
+  },
+  {
+    "id": "44002d32914e4366",
+    "title": "Towards efficient hardware acceleration on Zynq Ultrascale+ MPSoC based Kria KV260 FPGA board for ADAS: A hybrid co-design approach for real-time computing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002543?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 3 October 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Guner Tatar, Salih Bayar, Ihsan Cicek</p>",
+    "author": ""
   }
 ]
