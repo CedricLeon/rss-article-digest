@@ -11415,5 +11415,40 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0924271626004879?dgcid=rss_sd_all",
     "content": "<p>Publication date: January 2027</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 243, Part 1</p><p>Author(s): Shaofan Chen, Tiankui Lu, Wentao Ma, Tongqing Zhou, Jin He, Mengyu Wang, Yuwei Wang, Lu Liu, Lichuan Gu</p>",
     "author": ""
+  },
+  {
+    "id": "4c948463e6e66dda",
+    "title": "Extent and dynamics of tropical flooded forests with multi-year SAR composites and altimetry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004906?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 1 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 348</p><p>Author(s): Paul Senty, C\u00e9cile Kittel, Fabrice Papa, Rasmus Fensholt, Monica Coppo Frias, St\u00e9phanie Horion</p>",
+    "author": ""
+  },
+  {
+    "id": "60687957a6813093",
+    "title": "A semi-empirical BPDF model for improving characterization of polarimetric reflection of land surfaces: Validation using laboratory and POLDER polarization data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S003442572600492X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 1 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 348</p><p>Author(s): Cong Liu, Zhongqiu Sun, Shan Lu, Kenji Omasa</p>",
+    "author": ""
+  },
+  {
+    "id": "6d90d39d4388b55c",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004992?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 347</p><p>Author(s): </p>",
+    "author": ""
+  },
+  {
+    "id": "e6530d98ee2e2331",
+    "title": "A single-output multi-value voltage reference based on hybrid ZTC concept in 16 nm FinFET",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002646?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 11 October 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Miguel Coelho, Pedro Toledo, Alexandra Matos, Rafael Ferreira, Rafael Martins, Boyapati Subrahmanyam, Luis B. Oliveira, Jos\u00e9 Soares Augusto, Jo\u00e3o P. Oliveira</p>",
+    "author": ""
+  },
+  {
+    "id": "d3b3d69914aaf8d8",
+    "title": "FALCON-XR: Flexible and hybrid low-precision floating-point compute engine for energy-efficient XR perception acceleration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002579?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 10 October 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Vijay Pratap Sharma, Shekhar Venkatpurwar, Shubham Kumar, Ratko Pilipovic, Mukul Lokhande, Santosh Kumar Vishvakarma</p>",
+    "author": ""
   }
 ]
