@@ -8832,5 +8832,103 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002750?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 23 October 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Xiaoyu Zhang, Liang Wang, Limin Xiao</p>",
     "author": ""
+  },
+  {
+    "id": "8a3ec876c41b569c",
+    "title": "Enhancing soil property retrieval in an Ali-Perudic Argosols\u2013dominated region through multi-angle hyperspectral feature integration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005625?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 154</p><p>Author(s): Yufei Zhou, Lixia Ma, Xiaofei Wang, Lin Gao, Xianzhang Pan, Ziran Yuan, Changkun Wang, Dongsheng Yu</p>",
+    "author": ""
+  },
+  {
+    "id": "f5af6615925b64e7",
+    "title": "Multi-evidence-based assessment and selection of nine reconstructed solar-induced fluorescence products over China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005662?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 154</p><p>Author(s): Fujin Xu, Changchun Xu</p>",
+    "author": ""
+  },
+  {
+    "id": "dd91e473ac920edf",
+    "title": "Airborne observatory for high-resolution land surface temperature and spectral emissivity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005522?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 154</p><p>Author(s): M. Gerhards, T. Hu, F. Ronellenfitsch, P. Pinheiro, C. Corbari, D. Skokovic, J. Sobrino, M. Chamberland, T. Udelhoven, L. Hoffmann, M. Schlerf</p>",
+    "author": ""
+  },
+  {
+    "id": "8d4f302fbca3970d",
+    "title": "Adaptive DVFS and Display Brightness Scaling for Maximising User Experience on Mobile Devices",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3842746?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/6\">Volume 25, Issue 6</a>, Page 1-27, November 2026. <br />",
+    "author": "Samuel IsuwaSomdip DeyAmit Kumar SinghBashir M. Al-HashimiGeoff V. Merrett"
+  },
+  {
+    "id": "5eed1154da70b471",
+    "title": "Verifying Interrupt-driven Programs Efficiently via Heuristic and Reduced Partial-order Constraints",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3845803?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/6\">Volume 25, Issue 6</a>, Page 1-23, November 2026. <br />",
+    "author": "Bin YuXu LuYuanzhe LiuZixuan YuanLetian WangMeng WangChu ChenYansong Dong"
+  },
+  {
+    "id": "4200781959f1dba6",
+    "title": "NEXUS: Speeding Up the Next Wave of AI Workloads, GNN and SSM Optimization on NPUs",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3846378?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/6\">Volume 25, Issue 6</a>, Page 1-42, November 2026. <br />",
+    "author": "Arghadip DasArnab RahaShamik KunduSoumendu GhoshDeepak MathaikuttyVijay Raghunathan"
+  },
+  {
+    "id": "0c4efd50e8cb05f2",
+    "title": "RAPNet: Efficient Near-Sensor Radar Data Pre-Processing via DFT-to-GEMM Mapping",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3856984?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/6\">Volume 25, Issue 6</a>, Page 1-18, November 2026. <br />",
+    "author": "Lukas GrothPatrick SchmidtAndrija NeskovicIuliia TopkoSazid SimantoStefan BenoxMladen BerekovicJ\u00fcrgen BeckerSaleh Mulhem"
+  },
+  {
+    "id": "1b4b404c2038ef03",
+    "title": "MEDEA: A Design-Time Multi-Objective Manager for Energy-Efficient DNN Inference on Heterogeneous Ultra-Low Power Platforms",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3841170?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/6\">Volume 25, Issue 6</a>, Page 1-24, November 2026. <br />",
+    "author": "Hossein TajiJose MirandaMiguel Peon QuirosDavid Atienza"
+  },
+  {
+    "id": "c74e2ce5116ed185",
+    "title": "Compatibility Ratio as a Guideline for Hardware/DNN Co-Design of Embedded Accelerators",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3841637?af=R",
+    "content": "ACM Transactions on Embedded Computing Systems, <a href=\"https://dl.acm.org/toc/tecs/2026/25/6\">Volume 25, Issue 6</a>, Page 1-37, November 2026. <br />",
+    "author": "Lukas GrothAndrija NeskovicRainer BuchtyMladen BerekovicSaleh Mulhem"
+  },
+  {
+    "id": "c423d42ba09da2d4",
+    "title": "A novel multi-source fusion framework for daily multiband nighttime light data construction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626005265?dgcid=rss_sd_all",
+    "content": "<p>Publication date: January 2027</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 243, Part 1</p><p>Author(s): Yue Tu, Congxiao Wang, Zuoqi Chen, Linxin Dong, Wei Xu, Yan Liu, Bailang Yu</p>",
+    "author": ""
+  },
+  {
+    "id": "304c2c33fd1f2341",
+    "title": "Heterogeneous SAR\u2013optical fusion for near-real-time land use and land cover mapping under cloud contamination: A novel framework and global benchmark dataset",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626005228?dgcid=rss_sd_all",
+    "content": "<p>Publication date: January 2027</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 243, Part 1</p><p>Author(s): Jiangong Xu, Weibao Xue, Xiaoyu Yu, Jun Pan, Xinlian Liang, Mi Wang</p>",
+    "author": ""
+  },
+  {
+    "id": "db2481c72e550aae",
+    "title": "Globe-CraterSAM: a training-free generalizable framework for mapping sub-kilometer martian craters",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626005022?dgcid=rss_sd_all",
+    "content": "<p>Publication date: January 2027</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 243, Part 1</p><p>Author(s): Yiling Lin, Xie Hu</p>",
+    "author": ""
+  },
+  {
+    "id": "2fc815ec5474d498",
+    "title": "Agentic-LS: Physically grounded logic synthesis via LLM-guided dual-granularity neuro-symbolic search",
+    "link": "https://www.sciencedirect.com/science/article/pii/S016792602600266X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 23 October 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Delang Chen, Jizhou Luo, Zhongli Liu, Xingji Li, Jianqun Yang, Jiaxi Liu</p>",
+    "author": ""
+  },
+  {
+    "id": "2edaa6e8b5dd730e",
+    "title": "Reference-Plane-Defined Compact PDN-Cell Modeling for Bumpless TSV-Based 3D Integration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002798?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 23 October 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Jinlan Wang, Zhao Zhang, Yaohui Deng, Jiajie Jin, Peisheng Liu</p>",
+    "author": ""
   }
 ]
