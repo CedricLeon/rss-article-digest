@@ -2910,5 +2910,54 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002786?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 26 October 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Xiaoyu Zhang</p>",
     "author": ""
+  },
+  {
+    "id": "3d81427983c09469",
+    "title": "A retrieval method for passive microwave LST integrating radiative transfer-informed land-air environmental conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005698?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 154</p><p>Author(s): Weizhen Ji, Siquan Yang, Hongquan Sun, Qichao Yao</p>",
+    "author": ""
+  },
+  {
+    "id": "4c49b1f4b8c0ba65",
+    "title": "Corrigendum to \u201cReference-anchored envelope modelling for predicting tree mortality hotspots driven by drought\u201d [Int. J. Appl. Earth Observ. Geoinform. 154 (2026) 105609]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005704?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 28 October 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation</p><p>Author(s): Filippos Eliades, Dimitrios Sarris, Felix Bachofer, Silas Michaelides, Chris Danezis, Diofantos Hadjimitsis</p>",
+    "author": ""
+  },
+  {
+    "id": "e669090be11b1996",
+    "title": "Identifying spectral proxies for adsorbed heavy rare earth elements: From local effectiveness to cross-borehole wavelength shifts and exploration implications",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005183?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 1 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 348</p><p>Author(s): Hui Zhang, Mangen Li, Chuan He, Jun-ting Qiu, Hengcong Lei, Wanzhen Yang, Xianguang Wang</p>",
+    "author": ""
+  },
+  {
+    "id": "f21c5cd3347864e8",
+    "title": "Road space as memory and inference: A unified geometry-centric framework for trajectory forecasting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626005204?dgcid=rss_sd_all",
+    "content": "<p>Publication date: January 2027</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 243, Part 1</p><p>Author(s): Yiming Xu, Hao Cheng, Monika Sester</p>",
+    "author": ""
+  },
+  {
+    "id": "5a29ffd43fd6beab",
+    "title": "Under cloud and canopy: enhancing the dynamic surface water eXtent \u2212 harmonized landsat sentinel-2 (DSWx-HLS) flood maps with terrain-based flood propagation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626005484?dgcid=rss_sd_all",
+    "content": "<p>Publication date: January 2027</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 243, Part 1</p><p>Author(s): Son Kim Do, Dinuke Munasinghe, Dan Tian, Sagy Cohen, John Eylander, Sydney Crisanti, Duc Tran, Venkataraman Lakshmi</p>",
+    "author": ""
+  },
+  {
+    "id": "562c719a87467048",
+    "title": "FLORO: A multimodal geospatial foundation model for ecological remote sensing across sensors and scales",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626005058?dgcid=rss_sd_all",
+    "content": "<p>Publication date: January 2027</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 243, Part 1</p><p>Author(s): Jorge L. Rodr\u00edguez, Victor Angulo-Morales, Areej Alwahas, Mariana El\u00edas-Lara, Fida Mohammad Thoker, Kasper Johansen, Bernard Ghanem, Fernando T. Maestre, Matthew F. McCabe</p>",
+    "author": ""
+  },
+  {
+    "id": "8e828cb4a5974271",
+    "title": "ALOHA-SR: <u>Al</u>g<u>o</u>rithm and <u>Ha</u>rdware for non-iterative floating point <u>S</u>quare <u>R</u>oot based on mantissa approximation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002749?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 28 October 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Ayushman Bhargav, Mahendra Rathor</p>",
+    "author": ""
   }
 ]
