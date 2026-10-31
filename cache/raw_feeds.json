@@ -6690,5 +6690,40 @@
     "link": "http://ieeexplore.ieee.org/document/11723011",
     "content": "Unsupervised domain adaptation for remote sensing semantic segmentation (UDA-RSSS) aims to address the distribution shifts between the source and target domains by transferring knowledge from labeled source domains to unlabeled target domains, which is key to real-world engineering applications, such as urban planning and environmental change detection. Existing UDA-RSSS methods utilize parameter-efficient fine-tuning (PEFT) strategies to leverage the knowledge of vision foundation models (VFMs) for adapting well to the target domain from the source domain. However, these methods always accept all calibrated features of VFMs by using PEFT strategies, which ignore whether the calibration is positive or negative, leading to suboptimal performance in the target domain. In this work, relying on VFMs with PEFT strategies, an informative calibration and cross-domain unified projection (ICDP) approach is proposed for UDA-RSSS. The information calibration aims to preserve positive calibration and eliminate negative calibration during the stage of fine-tuning VFMs. The cross-domain unified projection aims to learn a uniform distribution space for calibrated features, thereby reducing the distribution shifts between the source and target domains in the feature space. Extensive experiments demonstrate that the proposed ICDP approach achieves superior performance on multiple UDA-RSSS benchmarks. In addition, the proposed ICDP approach is a plug-and-play, which can apply to existing VFM-based UDA-RSSS methods, achieving significant performance gains.",
     "author": "Muxin Liao, Meiying Liao, Yang Chen, Yuting Sun, Wenju Huang, Yinglong Wang, Yingqiong Peng, Wenbin Qian"
+  },
+  {
+    "id": "bc6db1306bb5d1fa",
+    "title": "The Bovine Slurry Index (BSI): An integrated framework for manure pond mapping using GeoFM-derived cattle-operation detection and Sentinel-2 spectral formulation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005728?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 154</p><p>Author(s): Ashutosh Pawar, Vasit Sagan, Derek Tesser, Alessandro Farbo, Edward Boyda, Aaron Davitt</p>",
+    "author": ""
+  },
+  {
+    "id": "55489a94c740b910",
+    "title": "Global interannual patterns of urbanization-associated surface urban heat islands",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005213?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 1 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 348</p><p>Author(s): Jiufeng Li, Wenfeng Zhan, Zihan Liu, Huilin Du, Yingying Ji, Shasha Wang, Xiang Li</p>",
+    "author": ""
+  },
+  {
+    "id": "a09c0290e9bb5c2e",
+    "title": "Physics-constrained spatio-temporal generative adversarial learning for daily-scale sea ice thickness prediction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626005393?dgcid=rss_sd_all",
+    "content": "<p>Publication date: January 2027</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 243, Part 1</p><p>Author(s): Jikun Liu, Guoping Zhang, Li Chen, Shuai Xing, Ming Gao, Pengcheng Li, Dandi Wang, Bo Zheng</p>",
+    "author": ""
+  },
+  {
+    "id": "474d2eeac600f74f",
+    "title": "Realization of MVDVTA-based memtranstor emulator with its application in chaos generation and artificial synaptic plasticity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002828?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 30 October 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Rajeev Kumar Pandey, Shireesh Kumar Rai, Karmjit Singh Sandha</p>",
+    "author": ""
+  },
+  {
+    "id": "e5af924a21ec4c95",
+    "title": "Hardware-Software Co-Optimized Sparse Matrix-Vector Multiplication Accelerator Deployed on FPGAs",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002804?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 29 October 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Haiying Yuan, Zhilong Wang, Shitong Huang, Zhaokun Meng, Ruicheng Sun, Mingli Liu</p>",
+    "author": ""
   }
 ]
