@@ -6725,5 +6725,75 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002804?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 29 October 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Haiying Yuan, Zhilong Wang, Shitong Huang, Zhaokun Meng, Ruicheng Sun, Mingli Liu</p>",
     "author": ""
+  },
+  {
+    "id": "95a29942ecfe7145",
+    "title": "Dem-assisted visual geolocation integrating ephemeris-based orientation correction with Multi-Scale skyline features",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005765?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 154</p><p>Author(s): Yanyan Chen, Fang Ren, Pengfei Liu, HongYuan Huo, Yi Lian, Xingwei Dang, Peng Guo, Qing Xu</p>",
+    "author": ""
+  },
+  {
+    "id": "68cebf3d29c3922e",
+    "title": "A Layered Strategy for Placement and Routing in Large-Scale Field-Coupled Nanocomputing Circuits",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3789669?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/1\">Volume 32, Issue 1</a>, Page 1-17, January 2027. <br />",
+    "author": "Feifei DengSong ChenZhao YunongXiaohui GuoZucun RuiGuangjun Xie"
+  },
+  {
+    "id": "1c00e512d253c196",
+    "title": "Two-for-One: Image-based Transformations to Mitigate Adversarial Attacks and Random Faults at Once in Safety-critical AI Systems",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3797480?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/1\">Volume 32, Issue 1</a>, Page 1-33, January 2027. <br />",
+    "author": "Mart\u00ed CaroAxel BrandoJaume Abella"
+  },
+  {
+    "id": "7b183a46492bd96a",
+    "title": "IR-drop Aware Multiple Power-domain Substrate Layout Optimization with Power Diagram",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3816039?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/1\">Volume 32, Issue 1</a>, Page 1-27, January 2027. <br />",
+    "author": "Yan-Yu LinYu-En LinJia-Ming LiYi-Yu Liu"
+  },
+  {
+    "id": "d7bdb31f0c7026f5",
+    "title": "Massively Parallel In-Memory Computing via Frequency Multiplexing in Ferroelectric Capacitive Memory Arrays",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3818610?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/1\">Volume 32, Issue 1</a>, Page 1-21, January 2027. <br />",
+    "author": "Jiahao CaiYuxiao JiangZeyu YangThomas K\u00e4mpfeCheng ZhuoXunzhao Yin"
+  },
+  {
+    "id": "05e0739462cf4182",
+    "title": "An Analytical Placement Framework for Advanced Hybrid-Row-Height Circuit Designs",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3831671?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/1\">Volume 32, Issue 1</a>, Page 1-21, January 2027. <br />",
+    "author": "Benchao ZhuYuan WenJiarui ChenJianli ChenZhifeng Lin"
+  },
+  {
+    "id": "f31d4638d42db16f",
+    "title": "A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3827602?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/1\">Volume 32, Issue 1</a>, Page 1-71, January 2027. <br />",
+    "author": "Wenji FangJing WangYao LuShang LiuYuchao WuYuzhe MaZhiyao Xie"
+  },
+  {
+    "id": "940d288c6f01fde3",
+    "title": "Annual National Land Cover Database Collection 1.0: 39-year record of land cover and land cover change products across the conterminous U.S.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005237?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 1 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 348</p><p>Author(s): Suming Jin, Heather J. Tollerud, Jesslyn F. Brown, Jon Dewitz, Danika Wellington, Rylie Fleckenstein, Congcong Li, Kelcy Smith, Stephen V. Stehman, Josephine Horton, Roger Auch, Patrick Danielson, Tonian Robinson, Adam Case, Christopher Barber, Danny Howard, Kristi L. Sayler, Terry Sohl</p>",
+    "author": ""
+  },
+  {
+    "id": "a6d69333c0eae260",
+    "title": "A novel 3D canopy competition index for understanding tree growth: Insights from aerial laser scanning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005249?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 1 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 348</p><p>Author(s): Xin Liu, Yuanshuo Hao, Xinyang Zou, Shoumin Cheng, Lihu Dong, Fengri Li</p>",
+    "author": ""
+  },
+  {
+    "id": "0625f94d987d3b30",
+    "title": "Design methodology and Implementation of a 4.2\u201312.2 GHz Wideband Low-Noise Amplifier Based on Shunt Resistive Feedback in 0.15-\u03bcm GaAs pHEMT",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002853?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 31 October 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Hafiz Hejazi, Meysam Azimi-Roein, Majid Baghaei-Nejad</p>",
+    "author": ""
   }
 ]
