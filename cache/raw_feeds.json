@@ -10029,5 +10029,68 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S016792602600283X?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 5 November 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Abishaan Ravikumar, Xiaohan Yang, Rajendra Prasad, Alexander Rast, Abusaleh Jabir</p>",
     "author": ""
+  },
+  {
+    "id": "13872f106db3edbf",
+    "title": "Online ecological-prior-guided bitemporal Transformer for mapping potential <em>Spartina alterniflora</em> eradication areas in coastal tidal flats",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005807?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 154</p><p>Author(s): Kexin Wang, Bo Fang, Yigong Hu, Jinlong Hu, Yajing Yang, Yan Liu, Jing Yao, Xiaoxiang Zhang</p>",
+    "author": ""
+  },
+  {
+    "id": "bc49a1c2289c2043",
+    "title": "Assessing <em>Dothistroma</em> needle blight severity in <em>Pinus radiata</em> using UAV multispectral imagery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005790?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 154</p><p>Author(s): Ning Ye, Justin Morgenroth, Will Stout, Sai Krishna Arojju, Luis A. Apiolaza, Mark F. Paget, Yadi Wu, Na Chen, Panxing He, Joseph Avis, Cong Xu, Qianhui Li</p>",
+    "author": ""
+  },
+  {
+    "id": "75dde93430c2ead0",
+    "title": "ModelAuflow: A Highly Scaffolded LLM-Orchestrated Framework for RF Passive Device Parameter Extraction",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3829374?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-26, March 2027. <br />",
+    "author": "Chuhao ChenWangyong ChenMinghui DongLinlin Cai"
+  },
+  {
+    "id": "54e10b738be78e2c",
+    "title": "DECODE: Detecting Structural Obfuscation in HLS based DSP Designs using Machine Learning Framework",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3831949?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-23, March 2027. <br />",
+    "author": "Anirban SenguptaNabendu BhuiVishal Chourasia"
+  },
+  {
+    "id": "3a4e7bfbe45684a6",
+    "title": "A CNN-Based Technique to Assist Layout-to-Generator Conversion for Analog Circuits",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3830471?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-24, March 2027. <br />",
+    "author": "Sungyu JeongMinsu KimByungsub Kim"
+  },
+  {
+    "id": "ad37768e0c1d1b22",
+    "title": "High-resolution forest height mapping across boreal and temperate forest sites using Hongtu-1 multistatic X-band TomoSAR",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005274?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 349</p><p>Author(s): Guobing Zeng, Huaping Xu, Le Zhang, Lei Zhao, Dinh Ho Tong Minh, Laurent Ferro-Famil, Yanghai Yu, Yang Lei, Simon Tong Sing Hee, Sang-Ho Yun</p>",
+    "author": ""
+  },
+  {
+    "id": "db01eaef66589a66",
+    "title": "The hidden dimension: Resolving the vertical gradients of solar-induced chlorophyll fluorescence emissions and gross primary production in modern maize canopy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S003442572600533X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 349</p><p>Author(s): Seungjoon Lee, Luke M. Gregory, Lianhong Gu, Christine Y. Chang, Michael A. Gore, Ying Sun</p>",
+    "author": ""
+  },
+  {
+    "id": "423705e6fd7175c3",
+    "title": "Resolving the daytime NIRv rhythm of winter wheat under drought stress from Chinese geostationary FY-4A satellite observations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005316?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 349</p><p>Author(s): Ziqian Li, Wei Su, Shuangxi Miao, Junming Liu, Maria Piles, Jinlong Fan, Ying Li, Menxin Wu, Yali Gong, Yelu Zeng, Jianxi Huang</p>",
+    "author": ""
+  },
+  {
+    "id": "0c252ca0b63ddc94",
+    "title": "Improved maize LAI estimation under field-scale heterogeneity: Integrating 3D radiative transfer simulation and deep learning approach",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005353?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 349</p><p>Author(s): Jie Zhang, Yuanyuan Ma, Xiaoyu Song, Kaiqi Du, Tingting Zhao, Qiang Wu, Jin Chen, Jianbo Qi, Peng Yang, Chongya Jiang, Xia Yao, Hao Yang, Laigang Wang, Guijun Yang, Xia Jing, Chunjiang Zhao</p>",
+    "author": ""
   }
 ]
