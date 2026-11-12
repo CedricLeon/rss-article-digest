@@ -7775,5 +7775,110 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005420?dgcid=rss_sd_all",
     "content": "<p>Publication date: 1 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 348</p><p>Author(s): </p>",
     "author": ""
+  },
+  {
+    "id": "2a55228a1355065e",
+    "title": "A novel approach for soil moisture retrieval via fusing multi-spaceborne GNSS-R observations in entire Tibetan Plateau",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005832?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 155</p><p>Author(s): Wenzhou Xu, Haohan Wei, Shuanggen Jin, Dong Chen, Hongtao Shi, Tianjie Zhao, Zhehui Shen, Cong Yin, Rongrong Li, Wentao Dai, Songbo Qu, Mengfei Liu, Jinyao Zheng</p>",
+    "author": ""
+  },
+  {
+    "id": "b7914726becce306",
+    "title": "Satellite-derived metrics characterize long-term structural connectivity and flow associations across contrasting lake systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005911?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 154</p><p>Author(s): Han Zhou, Jun Qiu, Fangfang Li</p>",
+    "author": ""
+  },
+  {
+    "id": "5ce5ffc200c1b03b",
+    "title": "CLPS: a prior-guided diffuse-fraction parameterization for global horizontal irradiance separation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005893?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 154</p><p>Author(s): Wei Wang, Dongdong Wang, Ziqiang Ma, Ning Jiang</p>",
+    "author": ""
+  },
+  {
+    "id": "c1ed6cf9d380ff93",
+    "title": "LightSim: A Flexible, Fast Modeling Framework for Holistic Photonic Computing Systems",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3818624?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-26, March 2027. <br />",
+    "author": "Yuxuan LinGuohao DaiShanshi HuangYuzhe Ma"
+  },
+  {
+    "id": "79d05812c19699fa",
+    "title": "X-OCTANE: eXplainable On-Chip Telemetry-based Anomaly Notification Engine for Silicon Lifecycle Management",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3821523?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-33, March 2027. <br />",
+    "author": "Eduardo OrtegaHsiao-Ping NiArjun HatiJonti TalukdarWoohyun PaikFei SuRita ChattopadhyayKrishnendu Chakrabarty"
+  },
+  {
+    "id": "e5797a34ca71d2d9",
+    "title": "Location-Aware Scheduling for Multitasking MCM-GPUs",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3827618?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-28, March 2027. <br />",
+    "author": "Tiejian ZhangGuangda ZhangYandong HeChen ZhangJiping GaoHengzhu LiuXia Zhao"
+  },
+  {
+    "id": "2a2e44c1e5ecc4ee",
+    "title": "Chiplet-Escape: An Efficient Obstacle-Avoiding Escape Routing Method for Die-to-Die Interconnections in Chiplet-Based Designs",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3829370?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-19, March 2027. <br />",
+    "author": "Weiqing JiMingyang KouZhiyang ChenJianwang ZhaiNing XuFei LiHailong Yao"
+  },
+  {
+    "id": "c3fe2123ee990266",
+    "title": "SLM-Arch: Trade-off Analysis and Optimized Hardware Design for Small Language Models",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3830468?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-23, March 2027. <br />",
+    "author": "Lantian LiMohamed M. Sabry Aly"
+  },
+  {
+    "id": "19a1d5fe736bd8fb",
+    "title": "APEX: an Adaptive Photonic-Electronic Chiplet Interconnection Architecture for DNN Inference",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3821436?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-32, March 2027. <br />",
+    "author": "Jingyi ChenMengke GeHaocai LuoHexiang LiuSong Chen"
+  },
+  {
+    "id": "ef5229322c2ddbeb",
+    "title": "Characterization of Antarctic iceberg distributions using ICESat-2",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005377?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 349</p><p>Author(s): Younghyun Koo, Hongjie Xie, Walter N. Meier, Nathan T. Kurtz</p>",
+    "author": ""
+  },
+  {
+    "id": "56dad9372546ef5d",
+    "title": "A lightweight few-shot object detection framework using synthetic data augmentation for orchard obstacle recognition",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626005642?dgcid=rss_sd_all",
+    "content": "<p>Publication date: January 2027</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 243, Part 2</p><p>Author(s): Yali Li, Xianfei Wang, Zeyi Li, Jingbin Li, Zhiyuan Zhang</p>",
+    "author": ""
+  },
+  {
+    "id": "ecc6ce8ac4b84c15",
+    "title": "Monitoring peatland dynamics in the Baltic region using EGMS products",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626005563?dgcid=rss_sd_all",
+    "content": "<p>Publication date: January 2027</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 243, Part 2</p><p>Author(s): Gabriele Fibbi, Francesco Poggi, Matteo Del Soldato</p>",
+    "author": ""
+  },
+  {
+    "id": "02001847a8bb8a36",
+    "title": "Bypass-bounded logarithmic response-ratio arbitration for SoC burst interfaces",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002889?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 10 November 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Shichen Peng, Ziqing Zhang, Yupeng Gui, Ruiqi Tang, Qiuyu Li, Zhengyang Cao, Minge Jing, Xiaoyang Zeng, Yibo Fan</p>",
+    "author": ""
+  },
+  {
+    "id": "dbc95ddda2798fa5",
+    "title": "A zero-DSP wavelet preprocessing integration for resource-constrained INT8 CNNs on edge FPGAs",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002877?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 10 November 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Chandolu Yadu Vamsi Krishna, V. Ramesh Kumar</p>",
+    "author": ""
+  },
+  {
+    "id": "ca3bcc78c027fb9e",
+    "title": "Hardware-validated reversible geometric greedy routing architecture using Hamming-distance evaluation on IBM quantum hardware",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002841?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 10 November 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Naga Raju Bathula, Palepu Ashok</p>",
+    "author": ""
   }
 ]
