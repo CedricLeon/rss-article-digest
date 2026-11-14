@@ -11345,5 +11345,89 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002865?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 12 November 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Xinyu Liu, Nianxiong Tan</p>",
     "author": ""
+  },
+  {
+    "id": "357fb98dd24082d7",
+    "title": "High resolution sediment-specific surface soil moisture retrieval using Sentinel-1 time series and auxiliary data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005819?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 155</p><p>Author(s): Alireza Hamedianfar, Oleg Antropov, Matthieu Molinier, Ulla Salmela, Hanna Kukkula, Lauri Seitsonen, Pauliina Liwata-Kentt\u00e4l\u00e4, Maarit Middleton</p>",
+    "author": ""
+  },
+  {
+    "id": "8877028697c1012b",
+    "title": "Optimizing Multilinear Polynomial Representations of Boolean Functions for Neural Network Synthesis",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3830474?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-66, March 2027. <br />",
+    "author": "Joshua RussellIgnacio GavierEdward RietmanHava Siegelmann"
+  },
+  {
+    "id": "aaa3152d1ecbb3f5",
+    "title": "Vertex-based Curvilinear OPC via Bezier Curves",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3831709?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-20, March 2027. <br />",
+    "author": "Ming ZengYing WangYuzhe MaPeng GaoZihui ZhangXiaoming XiongShuting CaiDavid H.Wei"
+  },
+  {
+    "id": "34e5e5ba00de6023",
+    "title": "PRISM: Photonics-Informed Inverse Lithography for Manufacturable Inverse-Designed Photonic Integrated Circuits",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3831710?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-26, March 2027. <br />",
+    "author": "Hongjian ZhouHaoyu YangNicholas GangiTianle XuRena HuangJiaqi Gu"
+  },
+  {
+    "id": "9ef8dd4b91fab0c6",
+    "title": "SKYLIGHT: A Scalable Hundred-Channel 3D Photonic In-Memory Tensor Core Architecture for Real-time AI Inference",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3831711?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-33, March 2027. <br />",
+    "author": "Meng ZhangZiang YinNicholas GangiAlexander ChenBrett BamfoTianle XuJiaqi GuRena Huang"
+  },
+  {
+    "id": "4c88307ce67a7fe1",
+    "title": "Scalable Back-Propagation-Free Training of Optical Physics-Informed Neural Networks",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3837864?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-41, March 2027. <br />",
+    "author": "Yequan ZhaoXinling YuXian XiaoZhixiong ChenZiyue LiuGeza KurczveilRaymond BeausoleilSijia LiuZheng Zhang"
+  },
+  {
+    "id": "37f422765adc14ff",
+    "title": "ReDON: Recurrent Diffractive Optical Neural Processor with Reconfigurable Self-Modulated Nonlinearity",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3840398?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-19, March 2027. <br />",
+    "author": "Ziang YinQi JingRaktim SarmaRena HuangYu YaoJiaqi Gu"
+  },
+  {
+    "id": "c41f5c7030daa2ce",
+    "title": "PHONON: Silicon-Photonic Network-on-Interposer for Energy-Efficient and High Performance LLM Inferencing",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3831707?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-29, March 2027. <br />",
+    "author": "Gaurav NarangAshish Reddy BommanaKrishnendu Chakrabarty"
+  },
+  {
+    "id": "9b55c96a3a1ff244",
+    "title": "Introduction to the Special Issue on Co-Design and Design Automation for Optical/Photonic Computing Systems",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3842626?af=R",
+    "content": "ACM Transactions on Design Automation of Electronic Systems, <a href=\"https://dl.acm.org/toc/todaes/2027/32/2\">Volume 32, Issue 2</a>, Page 1-3, March 2027. <br />",
+    "author": "Jiaqi GuCunxi YuSudeep PasrichaXu Wang"
+  },
+  {
+    "id": "b3551fcb80eb4b1c",
+    "title": "Image\u2011based 3D digital reconstruction of tower structures and dynamic visualization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S092427162600540X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: January 2027</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 243, Part 2</p><p>Author(s): Xing Fu, De-Sheng Zhao, Gang Li</p>",
+    "author": ""
+  },
+  {
+    "id": "d6bee934f2cbf021",
+    "title": "MoDA: Unlocking frozen vision foundation models for multimodal fusion object detection in remote sensing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626005629?dgcid=rss_sd_all",
+    "content": "<p>Publication date: January 2027</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 243, Part 2</p><p>Author(s): Chao Wang, Yanguang Sun, Zhenbo Yu, Jian Yang, Lei Luo</p>",
+    "author": ""
+  },
+  {
+    "id": "0123dc25a30904ab",
+    "title": "CASGM: Co-visible area guided optical\u2013SAR matching with significant geometric differences",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626005630?dgcid=rss_sd_all",
+    "content": "<p>Publication date: January 2027</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 243, Part 2</p><p>Author(s): Yuchi Pu, Xin Xin, Yutong Hu, Pengcheng Shi, Jiayuan Li</p>",
+    "author": ""
   }
 ]
