@@ -11429,5 +11429,54 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0924271626005630?dgcid=rss_sd_all",
     "content": "<p>Publication date: January 2027</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 243, Part 2</p><p>Author(s): Yuchi Pu, Xin Xin, Yutong Hu, Pengcheng Shi, Jiayuan Li</p>",
     "author": ""
+  },
+  {
+    "id": "bd2ff979eafac53d",
+    "title": "DBEFNet: a dual-branch fusion network integrating remote sensing imagery and building morphology for urban village segmentation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005984?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 155</p><p>Author(s): Zhonglin Yang, Yimin Chen, Haifeng Li, Wufan Zhao, Ying Sun, Mengwei Liu</p>",
+    "author": ""
+  },
+  {
+    "id": "9e8e99b8b7eb34a9",
+    "title": "Tracking US tidal marsh extent and change with dense Landsat time series and comparisons with existing products",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005493?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 349</p><p>Author(s): Xiucheng Yang, Sara H. Knox, Shi Qiu, Kevin D. Kroeger, Zhiliang Zhu, Scott Covington, Zhe Zhu</p>",
+    "author": ""
+  },
+  {
+    "id": "4da31ac7ad75adac",
+    "title": "Hyperspectral remote sensing of cover crop traits for decision support in precision nitrogen management",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005298?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 349</p><p>Author(s): Jyoti S. Jennewein, W. Dean Hively, Brian T. Lamb, S. Chris Reberg-Horton, Steven B. Mirsky</p>",
+    "author": ""
+  },
+  {
+    "id": "a16c9a91925b511f",
+    "title": "Spatiotemporal variability in seasonal and interannual InSAR-derived excess ground ice content retrievals using Sentinel-1",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005584?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 349</p><p>Author(s): Alexander L. Nguyen, Tyler M. Meng, Roger J. Michaelides</p>",
+    "author": ""
+  },
+  {
+    "id": "552724e0f9eea4cf",
+    "title": "Estimating the red-to-far-red chlorophyll fluorescence ratio with RGB imagery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005596?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 15 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 349</p><p>Author(s): Chris H. Lee, Jonathan F. Dooley, Julia K. Marrs, David W. Allen, Taylor S. Jones, Hristiana Stoynova, Barry A. Logan, Lucy R. Hutyra</p>",
+    "author": ""
+  },
+  {
+    "id": "e79a78bcff4a6d7b",
+    "title": "RO - FB - Arbiter: A ring oscillator - based feedback arbiter TRNG for IoT",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002920?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 14 November 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Tian Fang, Bing Li, Wenjie Ge, Yu Wang, Yuelong Zhai</p>",
+    "author": ""
+  },
+  {
+    "id": "e88dcaa3d26c6c4e",
+    "title": "An Area-Efficient CMOS Time-Domain Smart Temperature Sensor with a Negative-Temperature-Coefficient Pulse-Shrinking Unit",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002956?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 14 November 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Chun-Chi Chen, Yen-Chan Chu, Wei-Chiun Liu</p>",
+    "author": ""
   }
 ]
