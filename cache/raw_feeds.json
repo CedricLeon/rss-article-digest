@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "001deac41d60c16c",
+    "title": "Hierarchical active learning for annotation-efficient 3D object detection in construction-scene LiDAR sensing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226005947?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 155</p><p>Author(s): You Li, Jialu Sui, Yasong Shi, Xiaokang Zhang, Shengjun Tang, Ruisheng Wang, Renzhong Guo</p>",
+    "author": ""
+  },
+  {
+    "id": "ad991799addce9bc",
+    "title": "PSGRNet: Multi-scale spectral\u2013frequency representation learning with gated residual fusion for coastal wetland classification using UAV hyperspectral imagery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S156984322600590X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 155</p><p>Author(s): Jun Zhao, Hongjun Su, Hui Yang, Yang Tao, Qian Du</p>",
+    "author": ""
+  },
+  {
+    "id": "5c2b6713b42d4f7f",
+    "title": "A Deep Reinforcement Learning Framework for Sequence and Rotation Co-Optimization in VLSI Floorplanning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026003019?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 16 November 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Zhe Zhang, Shimin Du, Chang Yang, Runping Yang, Bo Liu</p>",
+    "author": ""
+  }
+]
