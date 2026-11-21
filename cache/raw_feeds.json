@@ -10106,5 +10106,40 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0167926026003081?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 19 November 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Bo Wu, Ming Zhu, Han Chen, Peifei Chen, Yi Wang, Chunyu Peng</p>",
     "author": ""
+  },
+  {
+    "id": "0eed2a5fb0e72a29",
+    "title": "Multi-angular remote sensing-derived directional fractional vegetation cover for improved <em>C</em>-factor estimation in RUSLE modeling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1569843226006059?dgcid=rss_sd_all",
+    "content": "<p>Publication date: December 2026</p><p><b>Source:</b> International Journal of Applied Earth Observation and Geoinformation, Volume 155</p><p>Author(s): Rui Tan, Geng Guo, Yu Tao, Ying Pan, Zicheng Liu, Lin Chen, Xin Liu, Jie Lin</p>",
+    "author": ""
+  },
+  {
+    "id": "d5c0810ff98166c9",
+    "title": "High-resolution benthic composition mapping of Hawaiian coral reefs using imaging spectroscopy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626005344?dgcid=rss_sd_all",
+    "content": "<p>Publication date: January 2027</p><p><b>Source:</b> ISPRS Journal of Photogrammetry and Remote Sensing, Volume 243, Part 2</p><p>Author(s): Dominica\u00a0E. Harrison, Roberta\u00a0E. Martin, Nicholas\u00a0R. Vaughn, Gregory\u00a0P. Asner</p>",
+    "author": ""
+  },
+  {
+    "id": "6971e17554583cd3",
+    "title": "A low-DSP FPGA architecture for image encryption using a unified SCFS-<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e2084\" altimg=\"si104.svg\" class=\"math\"><mi>n</mi></math>D chaotic map",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026003020?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 20 November 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Ruiyuan Zhang, Yuming Feng</p>",
+    "author": ""
+  },
+  {
+    "id": "befa9701ee3cd621",
+    "title": "Hardware-constrained PSO/DE optimization of a PWL multi-scroll chaotic oscillator: Cross-platform realization on analog FPAA and digital FPGA",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026002944?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 20 November 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Alejandro Silva-Juarez, Daniel Clemente-Lopez, Luis C. Alvarez-Simon, Gregorio Zamora-Mejia, Victor H. Carbajal-Gomez, Sergio Rosales-Nunez, Jose M. Rocha-Perez, Julio Hernandez-Perez, Alejandro I. Bautista-Castillo, Daniel Durini</p>",
+    "author": ""
+  },
+  {
+    "id": "afc337d9d6f38ab2",
+    "title": "Dynamic Truncation Arithmetic for Ultra-Low Power AI: A 4-2 Compressor Approach Optimized by Ward Clustering",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167926026003093?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 20 November 2026</p><p><b>Source:</b> Integration</p><p>Author(s): Yuexin Wei, Liang Yao, Wenjing Zhang, Yuhao Wang, Yaohua Xu, Jinlin Chen, Huaguo Liang, Zhengfeng Huang, Yingchun Lu</p>",
+    "author": ""
   }
 ]
